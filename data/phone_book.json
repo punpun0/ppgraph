@@ -6,6 +6,12 @@
     ]
   },
   {
+	"name":"import test",
+	"phones":[
+		{"name":"cca cra", "file":"https://vortexreviews.squig.link/data/CCA%20CRA%20L.txt"}
+	]
+  },
+  {
     "name":   "QBK",
     "phones": [ "FQQ"
               , "Q53"
