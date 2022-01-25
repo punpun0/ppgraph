@@ -6,9 +6,9 @@
     ]
   },
   {
-	"name":"import test",
+	"name":"Vortex Reviews",
 	"phones":[
-		{"name":"cca cra", "file":"https://vortexreviews.squig.link/data/CCA%20CRA%20L.txt"}
+		{"name":"CCA CRA", "file":"vortex/CCA CRA"}
 	]
   },
   {
