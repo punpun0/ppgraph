@@ -16,7 +16,7 @@ const init_phones = ["HTH67"],                      // Optional. Which graphs to
       share_url = true,                             // If true, enables shareable URLs
       watermark_text = "CrinGraph",                 // Optional. Watermark appears behind graphs
       watermark_image_url = "cringraph-logo.svg",   // Optional. If image file is in same directory as config, can be just the filename
-      page_title = "CrinGraph",                     // Optional. Appended to the page title if share URLs are enabled
+      page_title = "PPGraph",                     // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for earphones",
       accessories = false,                          // If true, displays specified HTML at the bottom of the page. Configure further below
       externalLinksBar = false,                      // If true, displays row of pill-shaped links at the bottom of the page. Configure further below
@@ -43,26 +43,6 @@ const targets = [
 // *************************************************************
 // Functions to support config options set above; probably don't need to change these
 // *************************************************************
-
-// Set up the watermark, based on config options above
-function watermark(svg) {
-    let wm = svg.append("g")
-        .attr("transform", "translate("+(pad.l+W/2)+","+(pad.t+H/2-20)+")")
-        .attr("opacity",0.2);
-    
-    if ( watermark_image_url ) {
-        wm.append("image")
-            .attrs({x:-64, y:-64, width:128, height:128, "xlink:href":watermark_image_url});
-    }
-    
-    if ( watermark_text ) {
-        wm.append("text")
-            .attrs({x:0, y:70, "font-size":28, "text-anchor":"middle", "class":"graph-name"})
-            .text(watermark_text);
-    }
-}
-
-
 
 // Set up tsvParse (?) with default values for AudioTools and REW measurements
 function initTsvParse() {
