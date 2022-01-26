@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["HTH67"],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = [""],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       data_format = "REW",                   // Accepts "AudioTools," "REW," or "other"
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
@@ -14,8 +14,8 @@ const init_phones = ["HTH67"],                      // Optional. Which graphs to
       alt_tutorial = false,                         // Display a configurable frequency response guide below the graph
       site_url = 'index.html',                      // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
-      watermark_text = "",                 // Optional. Watermark appears behind graphs
-      watermark_image_url = "",   // Optional. If image file is in same directory as config, can be just the filename
+      watermark_text = "punpun0.github.io/ppgraph/",                 // Optional. Watermark appears behind graphs
+      watermark_image_url = "kotworld.png",   // Optional. If image file is in same directory as config, can be just the filename
       page_title = "PPGraph",                     // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for earphones",
       accessories = false,                          // If true, displays specified HTML at the bottom of the page. Configure further below
@@ -46,7 +46,20 @@ const targets = [
 
 // Set up the watermark, based on config options above
 function watermark(svg) {
+    let wm = svg.append("g")
+        .attr("transform", "translate("+(pad.l+W/2)+","+(pad.t+H/2-20)+")")
+        .attr("opacity",0.4);
     
+    if ( watermark_image_url ) {
+        wm.append("image")
+            .attrs({x:-400, y:-150, width:800, height:346, "xlink:href":watermark_image_url});
+    }
+    
+    if ( watermark_text ) {
+        wm.append("text")
+            .attrs({x:0, y:138, "font-size":14, "text-anchor":"middle", "class":"graph-name"})
+            .text(watermark_text);
+    }
 }
 
 
