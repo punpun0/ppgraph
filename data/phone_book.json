@@ -6910,7 +6910,308 @@
     },
     {
         "name": "TechPowerUp",
-        "phones": []
+        "phones": [
+            {
+                "name": "1MORE ColorBuds 2",
+                "file": "vsg/1MORE ColorBuds 2"
+            },
+            {
+                "name": "64 Audio U18t M15",
+                "file": "vsg/64 Audio U18t M15"
+            },
+            {
+                "name": "64 Audio U18t M20",
+                "file": "vsg/64 Audio U18t M20"
+            },
+            {
+                "name": "64 Audio U18t MX",
+                "file": "vsg/64 Audio U18t MX"
+            },
+            {
+                "name": "64 Audio U18t none",
+                "file": "vsg/64 Audio U18t none"
+            },
+            {
+                "name": "7Hz Timeless",
+                "file": "vsg/7Hz Timeless"
+            },
+            {
+                "name": "Audeze Euclid",
+                "file": "vsg/Audeze Euclid"
+            },
+            {
+                "name": "Audeze LCD-2 Classic",
+                "file": "vsg/Audeze LCD-2 Classic"
+            },
+            {
+                "name": "Audeze LCD-XC (2021)",
+                "file": "vsg/Audeze LCD-XC (2021)"
+            },
+            {
+                "name": "Audio-Technica ATH-ANC300TW",
+                "file": "vsg/Audio-Technica ATH-ANC300TW"
+            },
+            {
+                "name": "BLON BL-A8",
+                "file": "vsg/BLON BL-A8"
+            },
+            {
+                "name": "Cambridge Audio Melomania 1+",
+                "file": "vsg/Cambridge Audio Melomania 1+"
+            },
+            {
+                "name": "Campfire Audio Holocene",
+                "file": "vsg/Campfire Audio Holocene"
+            },
+            {
+                "name": "Campfire Audio Honeydew",
+                "file": "vsg/Campfire Audio Honeydew"
+            },
+            {
+                "name": "Campfire Audio Mammoth",
+                "file": "vsg/Campfire Audio Mammoth"
+            },
+            {
+                "name": "Campfire Audio Satsuma",
+                "file": "vsg/Campfire Audio Satsuma"
+            },
+            {
+                "name": "CCA CA24",
+                "file": "vsg/CCA CA24"
+            },
+            {
+                "name": "Cleer Roam NC",
+                "file": "vsg/Cleer Roam NC"
+            },
+            {
+                "name": "DUNU FALCON PRO Atmospheric",
+                "file": "vsg/DUNU FALCON PRO Atmospheric"
+            },
+            {
+                "name": "DUNU FALCON PRO Reference",
+                "file": "vsg/DUNU FALCON PRO Reference"
+            },
+            {
+                "name": "DUNU FALCON PRO Transparency",
+                "file": "vsg/DUNU FALCON PRO Transparency"
+            },
+            {
+                "name": "DUNU TITAN S",
+                "file": "vsg/DUNU TITAN S"
+            },
+            {
+                "name": "DUNU TITAN S pre-production",
+                "file": "vsg/DUNU TITAN S pre-production"
+            },
+            {
+                "name": "DUNU ZEN PRO",
+                "file": "vsg/DUNU ZEN PRO"
+            },
+            {
+                "name": "Effect Audio Axiom",
+                "file": "vsg/Effect Audio Axiom"
+            },
+            {
+                "name": "Etymotic EVO",
+                "file": "vsg/Etymotic EVO"
+            },
+            {
+                "name": "EVA2020 x final",
+                "file": "vsg/EVA2020 x final"
+            },
+            {
+                "name": "FiiO FD3",
+                "file": "vsg/FiiO FD3"
+            },
+            {
+                "name": "FiiO FD3 Treble",
+                "file": "vsg/FiiO FD3 Treble"
+            },
+            {
+                "name": "FiiO FH5s Bass",
+                "file": "vsg/FiiO FH5s Bass"
+            },
+            {
+                "name": "FiiO FH5s",
+                "file": "vsg/FiiO FH5s"
+            },
+            {
+                "name": "FiiO FH5s Mids",
+                "file": "vsg/FiiO FH5s Mids"
+            },
+            {
+                "name": "FiiO FH5s Treble",
+                "file": "vsg/FiiO FH5s Treble"
+            },
+            {
+                "name": "FiiO x Crinacle FHE (Eclipse)",
+                "file": "vsg/FiiO x Crinacle FHE (Eclipse)"
+            },
+            {
+                "name": "FiiO x JadeAudio JD3",
+                "file": "vsg/FiiO x JadeAudio JD3"
+            },
+            {
+                "name": "GoldPlanar GL12 Filter",
+                "file": "vsg/GoldPlanar GL12 Filter"
+            },
+            {
+                "name": "GoldPlanar GL12",
+                "file": "vsg/GoldPlanar GL12"
+            },
+            {
+                "name": "HarmonicDyne P.D.1",
+                "file": "vsg/HarmonicDyne P.D.1"
+            },
+            {
+                "name": "HIFIMAN Arya (2021 Stealth Magnets)",
+                "file": "vsg/HIFIMAN Arya (2021 Stealth Magnets)"
+            },
+            {
+                "name": "HIFIMAN TWS800",
+                "file": "vsg/HIFIMAN TWS800"
+            },
+            {
+                "name": "Ikko OH10",
+                "file": "vsg/Ikko OH10"
+            },
+            {
+                "name": "Ikko OH1s",
+                "file": "vsg/Ikko OH1s"
+            },
+            {
+                "name": "Ikko OH1s Sample 2",
+                "file": "vsg/Ikko OH1s Sample 2"
+            },
+            {
+                "name": "Kinera YH802 ANC",
+                "file": "vsg/Kinera YH802 ANC"
+            },
+            {
+                "name": "Kinera YH802",
+                "file": "vsg/Kinera YH802"
+            },
+            {
+                "name": "Kinera YH802 Transparency",
+                "file": "vsg/Kinera YH802 Transparency"
+            },
+            {
+                "name": "LETSHUOER EJ07M",
+                "file": "vsg/LETSHUOER EJ07M"
+            },
+            {
+                "name": "LETSHUOER S12",
+                "file": "vsg/LETSHUOER S12"
+            },
+            {
+                "name": "Lime Ears Pneuma",
+                "file": "vsg/Lime Ears Pneuma"
+            },
+            {
+                "name": "Lime Ears Pneuma Switch",
+                "file": "vsg/Lime Ears Pneuma Switch"
+            },
+            {
+                "name": "Meze 99 Neo",
+                "file": "vsg/Meze 99 Neo"
+            },
+            {
+                "name": "Monoprice Monolith M-TWE",
+                "file": "vsg/Monoprice Monolith M-TWE"
+            },
+            {
+                "name": "Moondrop Aria",
+                "file": "vsg/Moondrop Aria"
+            },
+            {
+                "name": "Moondrop KATO Brass",
+                "file": "vsg/Moondrop KATO Brass"
+            },
+            {
+                "name": "Moondrop KATO",
+                "file": "vsg/Moondrop KATO"
+            },
+            {
+                "name": "Moondrop Sparks",
+                "file": "vsg/Moondrop Sparks"
+            },
+            {
+                "name": "Ovidius RX-100",
+                "file": "vsg/Ovidius RX-100"
+            },
+            {
+                "name": "Padmate PaMu Z1",
+                "file": "vsg/Padmate PaMu Z1"
+            },
+            {
+                "name": "Peacock Flight",
+                "file": "vsg/Peacock Flight"
+            },
+            {
+                "name": "SeeAudio Bravery",
+                "file": "vsg/SeeAudio Bravery"
+            },
+            {
+                "name": "SeeAudio X Crinacle Yume Midnight",
+                "file": "vsg/SeeAudio X Crinacle Yume Midnight"
+            },
+            {
+                "name": "Sennheiser x Drop HD 6XX",
+                "file": "vsg/Sennheiser x Drop HD 6XX"
+            },
+            {
+                "name": "Shanling MTW300",
+                "file": "vsg/Shanling MTW300"
+            },
+            {
+                "name": "Technics AZ70",
+                "file": "vsg/Technics AZ70"
+            },
+            {
+                "name": "ThieAudio Legacy 2",
+                "file": "vsg/ThieAudio Legacy 2"
+            },
+            {
+                "name": "ThieAudio Legacy 5",
+                "file": "vsg/ThieAudio Legacy 5"
+            },
+            {
+                "name": "ThieAudio Monarch",
+                "file": "vsg/ThieAudio Monarch"
+            },
+            {
+                "name": "TinHiFi T2 Evo",
+                "file": "vsg/TinHiFi T2 Evo"
+            },
+            {
+                "name": "TinHiFi T5",
+                "file": "vsg/TinHiFi T5"
+            },
+            {
+                "name": "Tripowin TC-01",
+                "file": "vsg/Tripowin TC-01"
+            },
+            {
+                "name": "Tripowin x HBB Olina",
+                "file": "vsg/Tripowin x HBB Olina"
+            },
+            {
+                "name": "Tronsmart Apollo Air+",
+                "file": "vsg/Tronsmart Apollo Air+"
+            },
+            {
+                "name": "XENNS Mangird Tea",
+                "file": "vsg/XENNS Mangird Tea"
+            },
+            {
+                "name": "XENNS UP",
+                "file": "vsg/XENNS UP"
+            },
+            {
+                "name": "XENNS UP Sample 2",
+                "file": "vsg/XENNS UP Sample 2"
+            }
+        ]
     },
     {
         "name": "Bry Audio Reviews",
