@@ -3952,6 +3952,22 @@
                 "file": "rg/Dunu Falcon Pro (Transparent filter)"
             },
             {
+                "name": "Dunu Titan S (500 Mesh)",
+                "file": "rg/Dunu Titan S (500 Mesh)"
+            },
+            {
+                "name": "Dunu Titan S (Tanchjim Filter)",
+                "file": "rg/Dunu Titan S (Tanchjim Filter)"
+            },
+            {
+                "name": "Dunu Titan S (Y3 Paper Filter)",
+                "file": "rg/Dunu Titan S (Y3 Paper Filter)"
+            },
+            {
+                "name": "Dunu Titan S (Y6 Paper Filter)",
+                "file": "rg/Dunu Titan S (Y6 Paper Filter)"
+            },
+            {
                 "name": "Dunu Titan S",
                 "file": "rg/Dunu Titan S"
             },
@@ -6462,6 +6478,14 @@
                 "file": "tgx78/Fiio FD7 Modded"
             },
             {
+                "name": "Fir Audio CIEM Xenon 6",
+                "file": "tgx78/Fir Audio CIEM Xenon 6"
+            },
+            {
+                "name": "Fir Audio Xenon 6",
+                "file": "tgx78/Fir Audio Xenon 6"
+            },
+            {
                 "name": "Geekwold GK10",
                 "file": "tgx78/Geekwold GK10"
             },
@@ -6656,6 +6680,10 @@
             {
                 "name": "VE Elysium",
                 "file": "tgx78/VE Elysium"
+            },
+            {
+                "name": "VE Phonix",
+                "file": "tgx78/VE Phonix"
             },
             {
                 "name": "Yanyin Aladdin",
