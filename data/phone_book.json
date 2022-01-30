@@ -1409,6 +1409,10 @@
                 "file": "hbb/Mangird"
             },
             {
+                "name": "Mangird Tea 2",
+                "file": "hbb/Mangird Tea 2"
+            },
+            {
                 "name": "Mangird Xenns UP",
                 "file": "hbb/Mangird Xenns UP"
             },
@@ -2310,6 +2314,10 @@
                 "file": "pw/MiM Dark Magician Tape"
             },
             {
+                "name": "Moondrop A8",
+                "file": "pw/Moondrop A8"
+            },
+            {
                 "name": "NFAudio NM2",
                 "file": "pw/NFAudio NM2"
             },
@@ -2368,6 +2376,10 @@
             {
                 "name": "Shuoer OGK",
                 "file": "pw/Shuoer OGK"
+            },
+            {
+                "name": "Shuoer Tape Pro",
+                "file": "pw/Shuoer Tape Pro"
             },
             {
                 "name": "SoftEars CERBERUS",
@@ -3679,6 +3691,58 @@
     {
         "name": "RikudouGoku",
         "phones": [
+            {
+                "name": "Antdroid Targ",
+                "file": "rg/Antdroid Targ"
+            },
+            {
+                "name": "Bad Guy Targ",
+                "file": "rg/Bad Guy Targ"
+            },
+            {
+                "name": "Banbeucmas Targ",
+                "file": "rg/Banbeucmas Targ"
+            },
+            {
+                "name": "Crinacle Targ",
+                "file": "rg/Crinacle Targ"
+            },
+            {
+                "name": "Diffuse Field Targ",
+                "file": "rg/Diffuse Field Targ"
+            },
+            {
+                "name": "Etymotic Targ",
+                "file": "rg/Etymotic Targ"
+            },
+            {
+                "name": "Free Field Targ",
+                "file": "rg/Free Field Targ"
+            },
+            {
+                "name": "Harman Targ",
+                "file": "rg/Harman Targ"
+            },
+            {
+                "name": "Innerfidelity ID Targ",
+                "file": "rg/Innerfidelity ID Targ"
+            },
+            {
+                "name": "Precogvision Targ",
+                "file": "rg/Precogvision Targ"
+            },
+            {
+                "name": "Rtings Targ",
+                "file": "rg/Rtings Targ"
+            },
+            {
+                "name": "Sonarworks Targ",
+                "file": "rg/Sonarworks Targ"
+            },
+            {
+                "name": "Super Review Targ",
+                "file": "rg/Super Review Targ"
+            },
             {
                 "name": "Argentum",
                 "file": "rg/Argentum"
@@ -5285,6 +5349,14 @@
                 "file": "mrs/Fiio FH5s (Tanchjim filter)"
             },
             {
+                "name": "Fiio FHE (franken)",
+                "file": "mrs/Fiio FHE (franken)"
+            },
+            {
+                "name": "Fiio FHE (S2)",
+                "file": "mrs/Fiio FHE (S2)"
+            },
+            {
                 "name": "Fiio FHE",
                 "file": "mrs/Fiio FHE"
             },
@@ -6406,6 +6478,10 @@
                 "file": "tgx78/AKG N400"
             },
             {
+                "name": "Aroma Jewel 100h",
+                "file": "tgx78/Aroma Jewel 100h"
+            },
+            {
                 "name": "Aroma Jewel",
                 "file": "tgx78/Aroma Jewel"
             },
@@ -6460,6 +6536,10 @@
             {
                 "name": "Dunu Zen Pro",
                 "file": "tgx78/Dunu Zen Pro"
+            },
+            {
+                "name": "EE Odin 2",
+                "file": "tgx78/EE Odin 2"
             },
             {
                 "name": "EE Odin",
@@ -6855,6 +6935,10 @@
                 "file": "vortex/KZ ZSX"
             },
             {
+                "name": "LETSHUOER S12",
+                "file": "vortex/LETSHUOER S12"
+            },
+            {
                 "name": "Mangird Tea",
                 "file": "vortex/Mangird Tea"
             },
@@ -7138,6 +7222,18 @@
             {
                 "name": "Lime Ears Pneuma Switch",
                 "file": "vsg/Lime Ears Pneuma Switch"
+            },
+            {
+                "name": "Lypertek PurePlay Z5 Ambient",
+                "file": "vsg/Lypertek PurePlay Z5 Ambient"
+            },
+            {
+                "name": "Lypertek PurePlay Z5 ANC",
+                "file": "vsg/Lypertek PurePlay Z5 ANC"
+            },
+            {
+                "name": "Lypertek PurePlay Z5",
+                "file": "vsg/Lypertek PurePlay Z5"
             },
             {
                 "name": "Meze 99 Neo",
