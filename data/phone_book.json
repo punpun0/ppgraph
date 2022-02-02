@@ -143,6 +143,10 @@
                 "file": "aftersound/CCA C10"
             },
             {
+                "name": "CCA CA10",
+                "file": "aftersound/CCA CA10"
+            },
+            {
                 "name": "CCA CA16 PRO",
                 "file": "aftersound/CCA CA16 PRO"
             },
@@ -197,6 +201,10 @@
             {
                 "name": "DUNU SA6 ON",
                 "file": "aftersound/DUNU SA6 ON"
+            },
+            {
+                "name": "DUNU TITAN S",
+                "file": "aftersound/DUNU TITAN S"
             },
             {
                 "name": "FAAEAL POPPY",
@@ -293,6 +301,10 @@
             {
                 "name": "KZ EDX",
                 "file": "aftersound/KZ EDX"
+            },
+            {
+                "name": "KZ ZES",
+                "file": "aftersound/KZ ZES"
             },
             {
                 "name": "KZ ZEX PRO",
@@ -2418,6 +2430,10 @@
                 "file": "pw/TFZ No3"
             },
             {
+                "name": "Thieaudio Clair",
+                "file": "pw/Thieaudio Clair"
+            },
+            {
                 "name": "Thieaudio L2",
                 "file": "pw/Thieaudio L2"
             },
@@ -2570,6 +2586,10 @@
     {
         "name": "Precogvision",
         "phones": [
+            {
+                "name": "64 Audio A12t",
+                "file": "precog/64 Audio A12t"
+            },
             {
                 "name": "64 Audio A4s (M15)",
                 "file": "precog/64 Audio A4s (M15)"
@@ -2999,6 +3019,10 @@
                 "file": "precog/Fiio FH7"
             },
             {
+                "name": "Fiio FHE Eclipse",
+                "file": "precog/Fiio FHE Eclipse"
+            },
+            {
                 "name": "Final Audio A4000",
                 "file": "precog/Final Audio A4000"
             },
@@ -3393,6 +3417,10 @@
             {
                 "name": "SeeAudio Yume",
                 "file": "precog/SeeAudio Yume"
+            },
+            {
+                "name": "SeeAudio Yume Midnight",
+                "file": "precog/SeeAudio Yume Midnight"
             },
             {
                 "name": "Sennheiser IE300",
@@ -6093,8 +6121,20 @@
                 "file": "mrs/Shozy Rouge"
             },
             {
+                "name": "Shuoer S12 (front vent blocked)",
+                "file": "mrs/Shuoer S12 (front vent blocked)"
+            },
+            {
+                "name": "Shuoer S12 (post)",
+                "file": "mrs/Shuoer S12 (post)"
+            },
+            {
                 "name": "Shuoer S12 (prepro)",
                 "file": "mrs/Shuoer S12 (prepro)"
+            },
+            {
+                "name": "Shuoer S12 (top vent blocked)",
+                "file": "mrs/Shuoer S12 (top vent blocked)"
             },
             {
                 "name": "Shuoer S12",
@@ -6532,6 +6572,14 @@
             {
                 "name": "CCA CRA",
                 "file": "tgx78/CCA CRA"
+            },
+            {
+                "name": "CCA CRA Mod",
+                "file": "tgx78/CCA CRA Mod"
+            },
+            {
+                "name": "CCA CRA S2",
+                "file": "tgx78/CCA CRA S2"
             },
             {
                 "name": "Dunu Zen Pro",
@@ -6975,6 +7023,10 @@
                 "file": "vortex/TFZ Live 3"
             },
             {
+                "name": "TFZ My Love Edition 2021",
+                "file": "vortex/TFZ My Love Edition 2021"
+            },
+            {
                 "name": "Tin Hifi P1 Plus",
                 "file": "vortex/Tin Hifi P1 Plus"
             },
@@ -7007,12 +7059,20 @@
                 "file": "vortex/Tripowin TC01"
             },
             {
+                "name": "TRN CS1",
+                "file": "vortex/TRN CS1"
+            },
+            {
                 "name": "TRN H2",
                 "file": "vortex/TRN H2"
             },
             {
                 "name": "TRN MT1",
                 "file": "vortex/TRN MT1"
+            },
+            {
+                "name": "TRN ST2",
+                "file": "vortex/TRN ST2"
             },
             {
                 "name": "TRN VX Pro",
@@ -7048,6 +7108,10 @@
                 "file": "vsg/7Hz Timeless"
             },
             {
+                "name": "AK ZERO1",
+                "file": "vsg/AK ZERO1"
+            },
+            {
                 "name": "Audeze Euclid",
                 "file": "vsg/Audeze Euclid"
             },
@@ -7062,6 +7126,10 @@
             {
                 "name": "Audio-Technica ATH-ANC300TW",
                 "file": "vsg/Audio-Technica ATH-ANC300TW"
+            },
+            {
+                "name": "BLON B20",
+                "file": "vsg/BLON B20"
             },
             {
                 "name": "BLON BL-A8",
@@ -7180,6 +7248,18 @@
                 "file": "vsg/HIFIMAN Arya (2021 Stealth Magnets)"
             },
             {
+                "name": "HIFIMAN HE-R10P Bluemini",
+                "file": "vsg/HIFIMAN HE-R10P Bluemini"
+            },
+            {
+                "name": "HIFIMAN HE-R10P",
+                "file": "vsg/HIFIMAN HE-R10P"
+            },
+            {
+                "name": "HIFIMAN HE400se",
+                "file": "vsg/HIFIMAN HE400se"
+            },
+            {
                 "name": "HIFIMAN TWS800",
                 "file": "vsg/HIFIMAN TWS800"
             },
@@ -7238,6 +7318,10 @@
             {
                 "name": "Meze 99 Neo",
                 "file": "vsg/Meze 99 Neo"
+            },
+            {
+                "name": "Meze Liric",
+                "file": "vsg/Meze Liric"
             },
             {
                 "name": "Monoprice Monolith M-TWE",
@@ -7304,6 +7388,10 @@
                 "file": "vsg/ThieAudio Monarch"
             },
             {
+                "name": "ThieAudio V16 Divinity",
+                "file": "vsg/ThieAudio V16 Divinity"
+            },
+            {
                 "name": "TinHiFi T2 Evo",
                 "file": "vsg/TinHiFi T2 Evo"
             },
@@ -7340,6 +7428,10 @@
     {
         "name": "Bry Audio Reviews",
         "phones": [
+            {
+                "name": "Audiosense DT200",
+                "file": "bry/Audiosense DT200"
+            },
             {
                 "name": "BGVP DH5",
                 "file": "bry/BGVP DH5"
@@ -7389,6 +7481,14 @@
                 "file": "bry/CVJ CSN"
             },
             {
+                "name": "Dunu Titan S",
+                "file": "bry/Dunu Titan S"
+            },
+            {
+                "name": "Heart Mirror",
+                "file": "bry/Heart Mirror"
+            },
+            {
                 "name": "Hisenior Fe3U",
                 "file": "bry/Hisenior Fe3U"
             },
@@ -7413,8 +7513,16 @@
                 "file": "bry/KB Ear KS2"
             },
             {
+                "name": "KB Ear Neon triflange",
+                "file": "bry/KB Ear Neon triflange"
+            },
+            {
                 "name": "KB Ear Robin",
                 "file": "bry/KB Ear Robin"
+            },
+            {
+                "name": "KBEAR Neon",
+                "file": "bry/KBEAR Neon"
             },
             {
                 "name": "Kotori Dauntless",
@@ -7431,6 +7539,10 @@
             {
                 "name": "KZ ZSN Pro X",
                 "file": "bry/KZ ZSN Pro X"
+            },
+            {
+                "name": "Moondrop Aria",
+                "file": "bry/Moondrop Aria"
             },
             {
                 "name": "Moondrop SSR",
@@ -7519,6 +7631,10 @@
             {
                 "name": "TForce Yuan Li",
                 "file": "bry/TForce Yuan Li"
+            },
+            {
+                "name": "TForce Yuan Li Modded",
+                "file": "bry/TForce Yuan Li Modded"
             },
             {
                 "name": "Tin T3 Plus",
