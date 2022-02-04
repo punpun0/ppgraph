@@ -3183,6 +3183,10 @@
                 "file": "precog/KZ EDX Pro"
             },
             {
+                "name": "KZ x Crinacle CRN",
+                "file": "precog/KZ x Crinacle CRN"
+            },
+            {
                 "name": "KZ ZAS",
                 "file": "precog/KZ ZAS"
             },
@@ -6614,6 +6618,18 @@
                 "file": "tgx78/Fir Audio Xenon 6"
             },
             {
+                "name": "Fir KR5 Black",
+                "file": "tgx78/Fir KR5 Black"
+            },
+            {
+                "name": "Fir KR5 Gold",
+                "file": "tgx78/Fir KR5 Gold"
+            },
+            {
+                "name": "Fir KR5",
+                "file": "tgx78/Fir KR5"
+            },
+            {
                 "name": "Geekwold GK10",
                 "file": "tgx78/Geekwold GK10"
             },
@@ -6784,6 +6800,10 @@
             {
                 "name": "Tanchjim Tanya",
                 "file": "tgx78/Tanchjim Tanya"
+            },
+            {
+                "name": "Tgx78 B1",
+                "file": "tgx78/Tgx78 B1"
             },
             {
                 "name": "Thieaudio Monarch Mkii IMR Cable",
@@ -7356,6 +7376,10 @@
                 "file": "vsg/Peacock Flight"
             },
             {
+                "name": "Philips Fidelio X2HR",
+                "file": "vsg/Philips Fidelio X2HR"
+            },
+            {
                 "name": "SeeAudio Bravery",
                 "file": "vsg/SeeAudio Bravery"
             },
@@ -7364,12 +7388,20 @@
                 "file": "vsg/SeeAudio X Crinacle Yume Midnight"
             },
             {
+                "name": "Sennheiser HD 598",
+                "file": "vsg/Sennheiser HD 598"
+            },
+            {
                 "name": "Sennheiser x Drop HD 6XX",
                 "file": "vsg/Sennheiser x Drop HD 6XX"
             },
             {
                 "name": "Shanling MTW300",
                 "file": "vsg/Shanling MTW300"
+            },
+            {
+                "name": "Sivga Robin (SV021)",
+                "file": "vsg/Sivga Robin (SV021)"
             },
             {
                 "name": "Technics AZ70",
@@ -7495,6 +7527,10 @@
             {
                 "name": "Hisenior T2 Classic",
                 "file": "bry/Hisenior T2 Classic"
+            },
+            {
+                "name": "JVC FD02",
+                "file": "bry/JVC FD02"
             },
             {
                 "name": "KB Ear Aurora",

@@ -3,6 +3,5 @@ data_mrs/*
 crinacle_dict.txt
 download_data.py
 links.txt
-make_phonebook.py
 new_links.txt
 phone_book_template.json
