@@ -913,6 +913,10 @@
                 "file": "hbb/7Hz Planar"
             },
             {
+                "name": "7Hz Timeless (no filter)",
+                "file": "hbb/7Hz Timeless (no filter)"
+            },
+            {
                 "name": "AAW Halycon",
                 "file": "hbb/AAW Halycon"
             },
@@ -1805,6 +1809,10 @@
                 "file": "hbb/Thieaudio V14"
             },
             {
+                "name": "Thieaudio V16 Divinity",
+                "file": "hbb/Thieaudio V16 Divinity"
+            },
+            {
                 "name": "THOR Mojinhor",
                 "file": "hbb/THOR Mojinhor"
             },
@@ -2176,6 +2184,10 @@
             {
                 "name": "Kinera BD005Pro",
                 "file": "pw/Kinera BD005Pro"
+            },
+            {
+                "name": "Kinera Nanna 2",
+                "file": "pw/Kinera Nanna 2"
             },
             {
                 "name": "KZ ASFv2",
@@ -7378,6 +7390,10 @@
             {
                 "name": "Philips Fidelio X2HR",
                 "file": "vsg/Philips Fidelio X2HR"
+            },
+            {
+                "name": "Philips Fidelio X3",
+                "file": "vsg/Philips Fidelio X3"
             },
             {
                 "name": "SeeAudio Bravery",
