@@ -756,6 +756,10 @@
                 "file": "bedrock/Dunu Luna"
             },
             {
+                "name": "Dunu Titan S",
+                "file": "bedrock/Dunu Titan S"
+            },
+            {
                 "name": "Jade Audio EA3",
                 "file": "bedrock/Jade Audio EA3"
             },
@@ -1481,6 +1485,10 @@
                 "file": "hbb/NF Audio N2+"
             },
             {
+                "name": "NF Audio NA2",
+                "file": "hbb/NF Audio NA2"
+            },
+            {
                 "name": "NiceHck Topguy",
                 "file": "hbb/NiceHck Topguy"
             },
@@ -2080,6 +2088,10 @@
             {
                 "name": "CVJ CSK",
                 "file": "pw/CVJ CSK"
+            },
+            {
+                "name": "DUNU EST112",
+                "file": "pw/DUNU EST112"
             },
             {
                 "name": "DUNU SA6",
@@ -4092,6 +4104,10 @@
                 "file": "rg/Dunu Zen"
             },
             {
+                "name": "Earsonics Onyx",
+                "file": "rg/Earsonics Onyx"
+            },
+            {
                 "name": "FIIL T1 Lite (Bass)",
                 "file": "rg/FIIL T1 Lite (Bass)"
             },
@@ -4390,6 +4406,10 @@
             {
                 "name": "KZ DQ6",
                 "file": "rg/KZ DQ6"
+            },
+            {
+                "name": "KZ DQ6S",
+                "file": "rg/KZ DQ6S"
             },
             {
                 "name": "KZ ED9 (Balanced filter)",
@@ -6457,6 +6477,10 @@
                 "file": "mrs/Tin Hifi T5"
             },
             {
+                "name": "Tripowin Lea",
+                "file": "mrs/Tripowin Lea"
+            },
+            {
                 "name": "Tripowin Mele",
                 "file": "mrs/Tripowin Mele"
             },
@@ -6987,6 +7011,10 @@
                 "file": "vortex/KZ EDX Pro"
             },
             {
+                "name": "KZ x HBB DQ6S",
+                "file": "vortex/KZ x HBB DQ6S"
+            },
+            {
                 "name": "KZ ZAS",
                 "file": "vortex/KZ ZAS"
             },
@@ -7037,6 +7065,10 @@
             {
                 "name": "NF Audio NM2",
                 "file": "vortex/NF Audio NM2"
+            },
+            {
+                "name": "Openheart Resin",
+                "file": "vortex/Openheart Resin"
             },
             {
                 "name": "QKZ VK4",
@@ -7274,6 +7306,14 @@
             {
                 "name": "HarmonicDyne P.D.1",
                 "file": "vsg/HarmonicDyne P.D.1"
+            },
+            {
+                "name": "HarmonicDyne Poseidon",
+                "file": "vsg/HarmonicDyne Poseidon"
+            },
+            {
+                "name": "HarmonicDyne Zeus",
+                "file": "vsg/HarmonicDyne Zeus"
             },
             {
                 "name": "HIFIMAN Arya (2021 Stealth Magnets)",
