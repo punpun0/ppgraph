@@ -1,54 +1,59 @@
 
-@media ( prefers-color-scheme: dark ) {
-}
-
-/* Color theme: Super* */
+/* Primary color theme */
 :root {
-    --accent-color: hsl(215, 67%, 60%);
-    --accent-color-contrast: hsl(215, 67%, 50%);
-    
-    --background-color: hsl(54, 5%, 99%);
-    --background-color-contrast: hsl(54, 5%, 95%);
-    --background-color-contrast-more: hsl(54, 0%, 75%);
-    --background-color-graph: hsl(54, 0%, 100%);
-    
-    --background-color-inputs: hsl(54, 0%, 85%);
+    --accent-color: #C82647;
+    --accent-color-contrast: hsl(0, 0%, 55%);
 
-    --font-color-primary: hsl(215, 20%, 10%);
+    --background-color: hsl(0, 0%, 96%);
+    --background-color-contrast: hsl(0, 0%, 90%);
+    --background-color-contrast-more: hsl(0, 0%, 65%);
+    --background-color-graph: hsl(0, 0%, 100%);
+    
+    --background-color-inputs: hsl(0, 0%, 100%);
+    
+    --font-color-primary: hsl(0, 0%, 10%);
     --font-color-secondary: hsl(0, 0%, 100%);
-    --font-color-inputs: hsl(215, 20%, 20%);
+    --font-color-inputs: hsl(0, 0%, 50%);
     
     --font-primary: 'Open Sans', sans-serif;
     --font-secondary: monospace;
     
     --scrollbar-color: 255,255,255;
     --scrollbar-accent: 0,0,0;
-        
-    --logo-filter: invert(1.0);
-    --svg-filter: grayscale(1) opacity(0.5);
+
+    --header-color: #C82647;
+    --header-links-color: #fff;
+    --header-menu-icon-color: #fff;
+
+    --logo-filter: none;
+    --svg-filter: none;
 }
 
-/* Color theme: Super* Dark */
 body.dark-mode {
-    --accent-color: hsl(54, 100%, 63%);
-    --accent-color-contrast: hsl(54, 100%, 40%);
-    
-    --background-color: hsl(215, 14%, 10%);
-    --background-color-contrast: hsl(215, 14%, 8%);
-    --background-color-contrast-more: hsl(215, 14%, 25%);
-    --background-color-graph: hsl(215, 14%, 7%);
-    
-    --background-color-inputs: hsl(215, 14%, 5%);
-    --font-color-primary: hsl(54, 11%, 87%);
-    --font-color-secondary: #000;
-    --font-color-inputs: hsl(215, 14%, 40%);
-    
+    --accent-color: hsl(0, 0%, 100%);
+    --accent-color-contrast: hsl(0, 0%, 50%);
+
+    --background-color: hsl(0, 0%, 6%);
+    --background-color-contrast: hsl(0, 0%, 15%);
+    --background-color-contrast-more: hsl(0, 0%, 30%);
+    --background-color-graph: hsl(0, 0%, 8%);
+
+    --background-color-inputs: hsl(0, 0%, 15%);
+
+    --font-color-primary: hsl(0, 0%, 80%);
+    --font-color-secondary: hsl(0, 0%, 0%);
+    --font-color-inputs: hsl(0, 0%, 60%);
+
     --font-primary: 'Open Sans', sans-serif;
     --font-secondary: monospace;
-    
+
     --scrollbar-color: 0,0,0;
     --scrollbar-accent: 255,255,255;
-        
+
+    --header-color: #C82647;
+    --header-links-color: #fff;
+    --header-menu-icon-color: #fff;
+
     --logo-filter: none;
-    --svg-filter: grayscale(1.0) opacity(0.5);
+    --svg-filter: none;
 }

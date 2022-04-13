@@ -1,0 +1,13 @@
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+  - rm -rf public && mkdir public
+  - cp -r * public/ || true
+  artifacts:
+    paths:
+    - public
+  only:
+  - main
+

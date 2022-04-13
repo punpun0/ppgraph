@@ -1,13 +1,12 @@
 // Configuration options
 const init_phones = [""],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
-      data_format = "REW",                   // Accepts "AudioTools," "REW," or "other"
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
       default_norm_db = 60,                         // Sets default dB normalization point
       default_norm_hz = 500,                        // Sets default Hz normalization point (500Hz is recommended by IEC)
       max_channel_imbalance = 5,                    // Channel imbalance threshold to show ! in the channel selector
-      alt_layout = true,                           // Toggle between classic and alt layouts
+      alt_layout = true,                            // Toggle between classic and alt layouts
       alt_sticky_graph = true,                      // If active graphs overflows the viewport, does the graph scroll with the page or stick to the viewport?
       alt_animated = false,                         // Determines if new graphs are drawn with a 1-second animation, or appear instantly
       alt_header = false,                           // Display a configurable header at the top of the alt layout
@@ -15,11 +14,11 @@ const init_phones = [""],                      // Optional. Which graphs to disp
       site_url = 'index.html',                      // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
       watermark_text = "punpun0.github.io/ppgraph/",                 // Optional. Watermark appears behind graphs
-      watermark_image_url = "",   // Optional. If image file is in same directory as config, can be just the filename
+      watermark_image_url = "",                     // Optional. If image file is in same directory as config, can be just the filename
       page_title = "PPGraph",                     // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for earphones",
       accessories = false,                          // If true, displays specified HTML at the bottom of the page. Configure further below
-      externalLinksBar = false,                      // If true, displays row of pill-shaped links at the bottom of the page. Configure further below
+      externalLinksBar = true,                      // If true, displays row of pill-shaped links at the bottom of the page. Configure further below
       restricted = false,                           // Enables restricted mode. More restricted options below
       expandable = false,                           // Enables button to expand iframe over the top of the parent page
       expandableOnly = false,                       // Prevents iframe interactions unless the user has expanded it. Accepts "true" or "false" OR a pixel value; if pixel value, that is used as the maximum width at which expandableOnly is used
@@ -27,9 +26,15 @@ const init_phones = [""],                      // Optional. Which graphs to disp
       darkModeButton = true,                        // Adds a "Dark Mode" button the main toolbar to let users set preference
       targetDashed = true,                         // If true, makes target curves dashed lines
       targetColorCustom = false,                    // If false, targets appear as a random gray value. Can replace with a fixed color value to make all targets the specified color, e.g. "black"
-      labelsPosition = "default",                   // Up to four labels will be grouped in a specified corner. Accepts "top-left," bottom-left," "bottom-right," and "default"
-      stickyLabels = false,                         // "Sticky" labels 
-      analyticsEnabled = false;                     // Enables Google Analytics 4 measurement of site usage
+      labelsPosition = "bottom-right",              // Up to four labels will be grouped in a specified corner. Accepts "top-left," bottom-left," "bottom-right," and "default"
+      stickyLabels = true,                          // "Sticky" labels 
+      analyticsEnabled = false,                     // Enables Google Analytics 4 measurement of site usage
+      extraEnabled = true,                          // Enable extra features
+      extraUploadEnabled = true,                    // Enable upload function
+      extraEQEnabled = true,                        // Enable parametic eq function
+      extraEQBands = 10,                            // Default EQ bands available
+      extraEQBandsMax = 20,                         // Max EQ bands available
+      extraToneGeneratorEnabled = true;             // Enable tone generator function
 
 // Specify which targets to display
 const targets = [
@@ -48,41 +53,29 @@ const targets = [
 function watermark(svg) {
     let wm = svg.append("g")
         .attr("transform", "translate("+(pad.l+W/2)+","+(pad.t+H/2-20)+")")
-        .attr("opacity",0.4);
+        .attr("opacity",0.2);
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-400, y:-150, width:800, height:346, "xlink:href":watermark_image_url});
+            .attrs({x:-64, y:-64, width:128, height:128, "xlink:href":watermark_image_url});
     }
     
     if ( watermark_text ) {
         wm.append("text")
-            .attrs({x:0, y:138, "font-size":14, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:0, y:70, "font-size":28, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text);
     }
 }
 
 
-// Set up tsvParse (?) with default values for AudioTools and REW measurements
-function initTsvParse() {
-    if ( data_format.toLowerCase() === "audiotools" ) {
-        var dataStart = 3,
-            dataEnd = 482;
-    } else if ( data_format.toLowerCase() === "rew" ) {
-        var dataStart = 14,
-            dataEnd = 493;
-    } else {
-        // If exporting data from something other than AudioTools or REW, edit these vals to indicate on which lines of your text files the measurements data begins and ends
-        var dataStart = 2,
-            dataEnd = 482;
-    }
-    
-    tsvParse = fr => d3.tsvParseRows(fr).slice(dataStart,dataEnd)
-        .map(r=>r.map(d=>+d));
+
+// Parse fr text data from REW or AudioTool format with whatever separator
+function tsvParse(fr) {
+    return fr.split(/[\r\n]/)
+        .map(l => l.trim()).filter(l => l && l[0] !== '*')
+        .map(l => l.split(/[\s,]+/).map(e => parseFloat(e)).slice(0, 2))
+        .filter(t => !isNaN(t[0]) && !isNaN(t[1]));
 }
-initTsvParse();
-
-
 
 // Apply stylesheet based layout options above
 function setLayout() {
@@ -241,7 +234,8 @@ setupGraphAnalytics();
 
 
 // If alt_header is enabled, these are the items added to the header
-let headerLogoImgUrl = "cringraph-logo.svg",
+let headerLogoText = null,
+    headerLogoImgUrl = "cringraph-logo.svg",
     headerLinks = [
     {
         name: "Sample",
