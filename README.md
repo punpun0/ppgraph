@@ -5,20 +5,20 @@ https://gitlab.com/rohsa/graphtool
 
 # Includes all the frequency response graphs from:
 
-Banbeucmas
-Aftersound
-Audio-Sound Premium
-Bedrock Reviews
-Bry Reviews
-Crinacle
-HBB
-MRS
-Precogvision
-Paul Wasabi
-RikudouGoku
-tgx78
-Vortex Reviews
-TechPowerUp
+- Banbeucmas
+- Aftersound
+- Audio-Sound Premium
+- Bedrock Reviews
+- Bry Reviews
+- Crinacle
+- HBB
+- MRS
+- Precogvision
+- Paul Wasabi
+- RikudouGoku
+- tgx78
+- Vortex Reviews
+- TechPowerUp
 
 All measurement credits go to them!
 
