@@ -6341,6 +6341,20 @@
                 "file": "mrs/Moondrop Blessing 2 Dusk"
             },
             {
+                "name": "Moondrop Chu",
+                "file": [
+                    "mrs/Moondrop Chu",
+                    "mrs/Moondrop Chu (vent - BluTack)",
+                    "mrs/Moondrop Chu (vent - Tanchjim)"
+                ],
+                "suffix": [
+                    "stock",
+                    "(vent blocked: Blu-Tack)",
+                    "(vent blocked: Tanchjim filter)"
+                ],
+                "preferredShop": "Shenzhen Audio"
+            },
+            {
                 "name": "Moondrop Crescent",
                 "file": "mrs/Moondrop Crescent"
             },
@@ -7526,8 +7540,8 @@
                 "file": "tgx78/Tiolake Sr2"
             },
             {
-                "name": "tgxear Serratus (Earbuds Prototype)",
-                "file": "tgx78/Serratus"
+                "name": "tgxear Serratus (Earbuds)",
+                "file": "tgx78/Serratus Production"
             },
             {
                 "name": "Thieaudio Monarch MKII",
@@ -16393,6 +16407,10 @@
             {
                 "name": "Audiosense T160",
                 "file": "asp/Audiosense T160"
+            },
+            {
+                "name": "Audiosense TX15",
+                "file": "asp/TX15"
             },
             {
                 "name": "BGVP DM8",
