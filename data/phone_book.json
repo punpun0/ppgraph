@@ -1371,6 +1371,10 @@
                 "file": "hbb/HS Audio Tech"
             },
             {
+                "name": "Humka Hamlet",
+                "file": "hbb/Humka Hamlet"
+            },
+            {
                 "name": "IBasso iT04",
                 "file": "hbb/IBasso iT04"
             },
@@ -1595,6 +1599,10 @@
                 "file": "hbb/Ovidius RX100"
             },
             {
+                "name": "PENON Serial",
+                "file": "hbb/Penon Serial"
+            },
+            {
                 "name": "PMV PP",
                 "file": "hbb/PMV PP"
             },
@@ -1785,10 +1793,6 @@
             {
                 "name": "Shuoer X HBB EJ07M",
                 "file": "hbb/7Hz i88 2"
-            },
-            {
-                "name": "Shuoer EJ07 CIEM",
-                "file": "hbb/Shuoer EJ07"
             },
             {
                 "name": "Senfer MT300",
@@ -2141,6 +2145,10 @@
             {
                 "name": "Yanyin Canon Dip 3",
                 "file": "hbb/Yanyin Canon Dip 3"
+            },
+            {
+                "name": "Yanyin Aladdin",
+                "file": "hbb/Yanyin Aladdin"
             }
         ]
     },
