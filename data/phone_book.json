@@ -15,7 +15,7 @@
                 "file": "aftersound/4ACOUSTIC SYMPHONIE ALL OFF"
             },
             {
-                "name": "4ACOUSTIC SYMPHONIE ALL OFF",
+                "name": "4ACOUSTIC SYMPHONIE ALL ON",
                 "file": "aftersound/4ACOUSTIC SYMPHONIE ALL ON"
             },
             {
@@ -441,6 +441,10 @@
             {
                 "name": "MOONDROP QUARKS",
                 "file": "aftersound/MOONDROP QUARKS"
+            },
+            {
+                "name": "MOONDROP NEKOCAKE",
+                "file": "aftersound/MOONDROP NEKOCAKE"
             },
             {
                 "name": "MR LEE 5+2",
@@ -2445,6 +2449,19 @@
             {
                 "name": "KZ KZ X HBB DQ6S Silicone",
                 "file": "pw/KZ DQ6Sv3"
+            },
+            {
+                "name": "KZ EDA",
+                "file": [
+                    "pw/KZ EDA Bass",
+                    "pw/KZ EDA Balanced",
+                    "pw/KZ EDA HiRes"
+                ],
+                "suffix": [
+                    "Bass",
+                    "Balanced",
+                    "Hires"
+                ]
             },
             {
                 "name": "KZ EDC",
@@ -6632,6 +6649,11 @@
             {
                 "name": "QDC Uranus",
                 "file": "mrs/QDC Uranus"
+            },
+            {
+                "name": "Raptgo Hook",
+                "file": "mrs/Raptgo Hook",
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "Samsung Earphones tuned by AKG",
