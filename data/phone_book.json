@@ -335,6 +335,18 @@
                 "file": "aftersound/KZ ZS10 PRO"
             },
             {
+                "name": "KZ EDA BALANCE",
+                "file": "aftersound/KZ EDA BALANCE"
+            },
+            {
+                "name": "KZ EDA BASS",
+                "file": "aftersound/KZ EDA BASS"
+            },
+            {
+                "name": "KZ EDA HIGH",
+                "file": "aftersound/KZ EDA HIGH"
+            },
+            {
                 "name": "LZ A7 BLACK MONITOR",
                 "file": "aftersound/LZ A7 BLACK MONITOR"
             },
@@ -457,6 +469,10 @@
             {
                 "name": "MR WATER ARIA",
                 "file": "aftersound/MR WATER ARIA"
+            },
+            {
+                "name": "MUSEHIFI POWER",
+                "file": "aftersound/MUSEHIFI POWER"
             },
             {
                 "name": "NICEHCK DB3",
@@ -2455,12 +2471,14 @@
                 "file": [
                     "pw/KZ EDA Bass",
                     "pw/KZ EDA Balanced",
-                    "pw/KZ EDA HiRes"
+                    "pw/KZ EDA HiRes",
+                    "pw/KZ EDA Balanced 300"
                 ],
                 "suffix": [
                     "Bass",
                     "Balanced",
-                    "Hires"
+                    "Hires",
+                    "Balanced Tanya filter"
                 ]
             },
             {
