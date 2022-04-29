@@ -19,6 +19,13 @@ https://gitlab.com/rohsa/graphtool
 - tgx78
 - Vortex Reviews
 - TechPowerUp
+- Acho Reviews
+- Elise Audio
+- EPLV
+- Hi End Portable
+- ianfann
+- Melatonin
+- nymz
 
 All measurement credits go to them!
 

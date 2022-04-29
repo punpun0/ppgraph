@@ -148,8 +148,8 @@ doc.html(`
               <div class="filters-header">
                 <span>Type</span>
                 <span>Frequency</span>
-                <span>Q</span>
                 <span>Gain</span>
+                <span>Q</span>
               </div>
               <div class="filters">
                 <div class="filter">
@@ -162,8 +162,8 @@ doc.html(`
                       </select>
                     </span>
                     <span><input name="freq" type="number" min="20" max="20000" step="1" value="0"></input></span>
-                    <span><input name="q" type="number" min="0" max="10" step="0.1" value="0"></input></span>
                     <span><input name="gain" type="number" min="-40" max="40" step="0.1" value="0"></input></span>
+                    <span><input name="q" type="number" min="0" max="10" step="0.1" value="0"></input></span>
                 </div>
               </div>
               <div class="settings-row">
@@ -1442,7 +1442,16 @@ let f_values = (function() {
     // Standard frequencies, all phone need to interpolate to this
     let f = [20];
     let step = Math.pow(2, 1/48); // 1/48 octave
-    while (f[f.length-1] < 20000) { f.push(f[f.length-1] * step) }
+    while (f[f.length-1] < 20000) {
+        let value = Math.round(f[f.length-1] * step * 10) / 10;
+        if (value >= 1000) {
+            value = Math.round(value / 10) * 10;
+        } else if (value >= 100) {
+            value = Math.round(value);
+        }
+        f.push(value);
+    }
+    f[f.length-1] = 20000;
     return f;
 })();
 let fr_to_ind = fr => d3.bisect(f_values, fr, 0, f_values.length-1);
@@ -1457,10 +1466,16 @@ let norm_sel = ( default_normalization.toLowerCase() === "db" ) ? 0:1,
 
 function normalizePhone(p) {
     if (norm_sel) { // fr
+        let i = fr_to_ind(norm_fr);
         let avg = l => 20*Math.log10(d3.mean(l, d=>Math.pow(10,d/20)));
-        p.norm = 60 - avg(validChannels(p).map(l=> l[fr_to_ind(norm_fr)][1]));
+        p.norm = 60 - avg(validChannels(p).map(l=>l[i][1]));
     } else { // phon
         p.norm = find_offset(getAvg(p), norm_phon);
+    }
+    if (p.eq) {
+        p.eq.norm = p.norm; // copy parent's norm to child
+    } else if (p.eqParent) {
+        p.norm = p.eqParent.norm; // set child's norm from parent
     }
 }
 
@@ -2291,7 +2306,7 @@ function addExtra() {
             let name = file.name.replace(/\.[^\.]+$/, "");
             let phone = { name: name };
             let ch = [tsvParse(e.target.result)];
-            if (ch[0].length < 128) {
+            if (ch[0].length < 32) {
                 alert("Parse frequence response file failed: invalid format.");
                 return;
             }
@@ -2410,6 +2425,7 @@ function addExtra() {
         let phoneObjEQ = addOrUpdatePhone(phoneObj.brand, phoneEQ,
             phoneObj.rawChannels.map(c => c ? Equalizer.apply(c, filters) : null));
         phoneObj.eq = phoneObjEQ;
+        phoneObjEQ.eqParent = phoneObj;
         showPhone(phoneObjEQ, false);
         activeElem.focus();
     };
@@ -2471,7 +2487,10 @@ function addExtra() {
                 let q = parseFloat(r[6]) || 0;
                 if (type === "LS" || type === "HS") {
                     type += "Q";
-                    q = 0.707;
+                    q = q || 0.707;
+                } else if (type === "LSC" || type === "HSC") {
+                    // Equalizer APO use LSC/HSC instead of LSQ/HSQ
+                    type = type.substr(0, 2) + "Q";
                 }
                 return { disabled, type, freq, q, gain };
             }).filter(f => f);
@@ -2509,7 +2528,12 @@ function addExtra() {
         let settings = "Preamp: " + preamp.toFixed(1) + " dB\r\n";
         filters.forEach((f, i) => {
             let on = (!f.disabled && f.type && f.freq && f.gain && f.q) ? "ON" : "OFF";
-            settings += ("Filter " + (i+1) + ": " + on + " " + f.type + " Fc " +
+            let type = f.type;
+            if (type === "LSQ" || type === "HSQ") {
+                // Equalizer APO use LSC/HSC instead of LSQ/HSQ
+                type = type.substr(0, 2) + "C";
+            }
+            settings += ("Filter " + (i+1) + ": " + on + " " + type + " Fc " +
                 f.freq.toFixed(0) + " Hz Gain " + f.gain.toFixed(1) + " dB Q " +
                 f.q.toFixed(3) + "\r\n");
         });

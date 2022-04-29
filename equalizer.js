@@ -6,23 +6,31 @@ https://github.com/mohayonao/biquad-coeffs/tree/master/packages/biquad-coeffs-co
 
 Equalizer = (function() {
     let config = {
+        // Change sample rate will affect the curve of filters close to nyquist frequency
+        // Here I choosed a common used value, but not all DSP software use this sample rate for EQ
         DefaultSampleRate: 48000,
+        // AutoEQ will avoid filters above this frequency at first batch
         TrebleStartFrom: 7000,
-        // Avoid filters close to nyquist frequence by default, because the behavior is implementation dependent
+        // Avoid filters close to nyquist frequency by default, because the behavior is implementation dependent
         // https://github.com/jaakkopasanen/AutoEq/issues/240
         // https://github.com/jaakkopasanen/AutoEq/issues/411
         AutoEQRange: [20, 15000],
+        // Minimum and maximum Q for AutoEQ feature
         OptimizeQRange: [0.5, 2],
+        // Minimum and maximum Gain for AutoEQ feature
         OptimizeGainRange: [-12, 12],
+        // Delta and step of Freq, Q and Gain used for AutoEQ optimizing
         OptimizeDeltas: [
             [10, 10, 10, 5, 0.1, 0.5],
             [10, 10, 10, 2, 0.1, 0.2],
             [10, 10, 10, 1, 0.1, 0.1],
         ],
+        // Use to get response diff by EQ before smoothing
         GraphicEQRawFrequences: ( // ~= 1/96 octave
             new Array(Math.ceil(Math.log(20000 / 20) / Math.log(1.0072))).fill(null)
             .map((_, i) => 20 * Math.pow(1.0072, i))),
-        GraphicEQFrequences: Array.from(new Set( // 127 bands graphic eq
+        // Smoothed 127 bands frequencies for graphic eq (wavelet)
+        GraphicEQFrequences: Array.from(new Set(
             new Array(Math.ceil(Math.log(20000 / 20) / Math.log(1.0563))).fill(null)
             .map((_, i) => Math.floor(20 * Math.pow(1.0563, i))))).sort((a, b) => a - b)
     };
@@ -133,15 +141,11 @@ Equalizer = (function() {
     };
 
     let calc_preamp = function (fr1, fr2) {
-        let max1 = -Infinity;
-        let max2 = -Infinity;
+        let maxGain = -Infinity;
         for (let i = 0; i < fr1.length; ++i) {
-            max1 = Math.max(max1, fr1[i][1]);
+            maxGain = Math.max(maxGain, fr2[i][1] - fr1[i][1]);
         }
-        for (let i = 0; i < fr2.length; ++i) {
-            max2 = Math.max(max2, fr2[i][1]);
-        }
-        return max1 - max2;
+        return -maxGain;
     };
 
     let calc_distance = function (fr1, fr2) {
@@ -256,6 +260,7 @@ Equalizer = (function() {
     };
 
     let strip = function (filters) {
+        // Make freq, q and gain look better and more compatible to some DSP device
         let [minQ, maxQ] = config.OptimizeQRange;
         let [minGain, maxGain] = config.OptimizeGainRange;
         return filters.map(f => ({
