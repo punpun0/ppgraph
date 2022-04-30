@@ -2428,6 +2428,10 @@
                 ]
             },
             {
+                "name": "HZSOUND Waist Drum",
+                "file": "pw/HZSOUND Waist Drum"
+            },
+            {
                 "name": "KBEAR Aurora",
                 "file": "pw/KBEAR Aurora"
             },
@@ -2743,6 +2747,10 @@
                 "file": "pw/Senfer KP580"
             },
             {
+                "name": "Shortbus EJ07SB",
+                "file": "pw/Shortbus EJ07SB"
+            },
+            {
                 "name": "Shuoer EJ07M",
                 "file": [
                     "pw/Shuoer EJ07M Stock",
@@ -2850,6 +2858,10 @@
             {
                 "name": "THIEAUDIO Legacy 2",
                 "file": "pw/Thieaudio L2"
+            },
+            {
+                "name": "TinHiFi T1S",
+                "file": "pw/Tinhifi T1S"
             },
             {
                 "name": "TinHiFi T2 Plus",
@@ -5573,12 +5585,15 @@
         "name": "Super* Review",
         "phones": [
             {
-                "name": "Project HRP",
-                "file": "mrs/Project HRP"
-            },
-            {
                 "name": "7Hz Timeless",
-                "file": "mrs/7Hz Timeless"
+                "file": [
+                    "mrs/7Hz Timeless",
+                    "mrs/7Hz Timeless (S2)"
+                ],
+                "suffix": [
+                    "(sample 1)",
+                    "(sample 2)"
+                ]
             },
             {
                 "name": "64 Audio Duo",
@@ -5928,12 +5943,14 @@
             {
                 "name": "Etymotic ER2XR",
                 "file": [
+                    "mrs/Etymotic ER2XR (S2)",
                     "mrs/Etymotic ER2XR",
                     "mrs/Etymotic ER2XR (brown)",
                     "mrs/Etymotic ER2XR (white)",
                     "mrs/Etymotic ER2XR (brown + 2F)"
                 ],
                 "suffix": [
+                    "(sample 2)",
                     "(green filter / [stock])",
                     "(brown filter)",
                     "(white filter)",
@@ -6290,6 +6307,10 @@
             {
                 "name": "JVC FX7 Gumy",
                 "file": "mrs/JVC FX7"
+            },
+            {
+                "name": "KBEar Believe",
+                "file": "mrs/KBEar Believe"
             },
             {
                 "name": "KBEar Diamond",
@@ -6695,6 +6716,10 @@
                 "file": "mrs/NiceHCK Topguy"
             },
             {
+                "name": "OpenAudio Mercury",
+                "file": "mrs/OpenAudio Mercury"
+            },
+            {
                 "name": "Oriolus 2nd Gen",
                 "file": "mrs/Oriolus 2nd Gen"
             },
@@ -6712,13 +6737,15 @@
                     "mrs/Prisma Audio Azul (Sedna)",
                     "mrs/Prisma Audio Azul (E-type)",
                     "mrs/Prisma Audio Azul (SpinFit)",
-                    "mrs/Prisma Audio Azul (Spiral Dot)"
+                    "mrs/Prisma Audio Azul (Spiral Dot)",
+                    "mrs/Prisma Audio Azul (S2)"
                 ],
                 "suffix": [
                     "(tips: Azla Sedna [stock])",
                     "(tips: Final E-type)",
                     "(tips: SpinFit)",
-                    "(tips: Spiral Dot)"
+                    "(tips: Spiral Dot)",
+                    "(sample 2)"
                 ]
             },
             {
@@ -6953,12 +6980,14 @@
                 "file": [
                     "mrs/Sony IER-Z1R (S2 - Sedna)",
                     "mrs/Sony IER-Z1R (S2 - Symbio)",
-                    "mrs/Sony IER-Z1R"
+                    "mrs/Sony IER-Z1R",
+                    "mrs/Sony IER-Z1R (S3)"
                 ],
                 "suffix": [
                     "(sample 2 - tips: Azla Sedna)",
                     "(sample 2 - tips: Symbio)",
-                    "(sample 1)"
+                    "(sample 1)",
+                    "(sample 3)"
                 ]
             },
             {
@@ -7331,6 +7360,10 @@
                 "file": "mrs/Vision Ears VE8"
             },
             {
+                "name": "Vsonic GR07",
+                "file": "mrs/Vsonic GR07"
+            },
+            {
                 "name": "Vsonic GR07 Bass Edition",
                 "file": "mrs/Vsonic GR07 (Bass)"
             },
@@ -7365,6 +7398,10 @@
             {
                 "name": "Yinyoo V2",
                 "file": "mrs/Yinyoo V2"
+            },
+            {
+                "name": "Project HRP",
+                "file": "mrs/Project HRP"
             }
         ]
     },
@@ -8225,6 +8262,19 @@
                 "file": "vsg/Audio-Technica ATH-ANC300TW"
             },
             {
+                "name": "Audio-Technica ATH-ANC900BT",
+                "file": [
+                    "vsg/Audio-Technica ATH-ANC900BT",
+                    "vsg/Audio-Technica ATH-ANC900BT ANC",
+                    "vsg/Audio-Technica ATH-ANC900BT HT"
+                ],
+                "suffix": [
+                    "",
+                    "(ANC)",
+                    "(Hear-through)"
+                ]
+            },
+            {
                 "name": "Audeze Euclid",
                 "file": "vsg/Audeze Euclid"
             },
@@ -8316,6 +8366,17 @@
             {
                 "name": "Cleer Roam NC",
                 "file": "vsg/Cleer Roam NC"
+            },
+            {
+                "name": "Cleer Flow II",
+                "file": [
+                    "vsg/Cleer Flow II ANC",
+                    "vsg/Cleer Flow II Ambient"
+                ],
+                "suffix": [
+                    "(ANC)",
+                    "(Ambient)"
+                ]
             },
             {
                 "name": "DUNU FALCON PRO",
@@ -16886,6 +16947,10 @@
                 "file": "asp/KZ DQ6s 9k"
             },
             {
+                "name": "KZ EDA (Green)",
+                "file": "asp/EDA GR"
+            },
+            {
                 "name": "KZ ZES",
                 "file": "asp/KZ ZES"
             },
@@ -17291,6 +17356,10 @@
                 "file": "acho/Hifiman RE600s v2"
             },
             {
+                "name": "Ikko Opal OH02",
+                "file": "acho/Ikko Opal OH02"
+            },
+            {
                 "name": "ITK Unknown Model",
                 "file": "acho/ITK Unknown"
             },
@@ -17375,6 +17444,14 @@
                 "file": "acho/KZ ZST X"
             },
             {
+                "name": "Letshuoer S12 (Sample 1)",
+                "file": "acho/Letshuoer S12 (Sample 1)"
+            },
+            {
+                "name": "Letshuoer S12 (Sample 2)",
+                "file": "acho/Letshuoer S12 (Sample 2)"
+            },
+            {
                 "name": "LZ A4 Pro (Noz.Blk Fil.Blk)",
                 "file": "acho/LZ A4 Pro NzBlk FiBlk"
             },
@@ -17429,6 +17506,10 @@
             {
                 "name": "Moondrop Blessing 2 Dusk (Spifits)",
                 "file": "acho/Moondrop Blessing 2 Dusk (Spinfit)"
+            },
+            {
+                "name": "Moondrop Chu",
+                "file": "acho/Moondrop Chu"
             },
             {
                 "name": "Moondrop Quarks",
