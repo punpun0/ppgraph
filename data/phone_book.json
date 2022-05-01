@@ -2747,7 +2747,11 @@
                 "file": "pw/Senfer KP580"
             },
             {
-                "name": "Shortbus EJ07SB",
+                "name": "Shortbus Audio Autumn",
+                "file": "pw/Shortbus Autumn"
+            },
+            {
+                "name": "Shortbus Audio EJ07SB",
                 "file": "pw/Shortbus EJ07SB"
             },
             {
@@ -6717,7 +6721,8 @@
             },
             {
                 "name": "OpenAudio Mercury",
-                "file": "mrs/OpenAudio Mercury"
+                "file": "mrs/OpenAudio Mercury",
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Oriolus 2nd Gen",
@@ -16991,6 +16996,10 @@
                 "file": "asp/Elven Maiden"
             },
             {
+                "name": "Moondrop CHU",
+                "file": "asp/MD CHU"
+            },
+            {
                 "name": "Moondrop KATO (Steel)",
                 "file": "asp/Moondrop KATO S"
             },
@@ -18859,6 +18868,10 @@
                 "file": "ianfann/CCA CRA+"
             },
             {
+                "name": "CCA CRA+ (STOCK TIPS)",
+                "file": "ianfann/CCA CRA+ (STOCK TIPS)"
+            },
+            {
                 "name": "CCA CRA",
                 "file": "ianfann/CCA CRA"
             },
@@ -19003,8 +19016,20 @@
                 "file": "ianfann/QOA PROTOTYPE 2"
             },
             {
+                "name": "SENNHAISER IE800",
+                "file": "ianfann/SENNHAISER IE800"
+            },
+            {
+                "name": "SENNHAISER IE900",
+                "file": "ianfann/SENNHAISER IE900"
+            },
+            {
                 "name": "TINHIFI T3+",
                 "file": "ianfann/TINHIFI T3+"
+            },
+            {
+                "name": "TINHIFI T1S",
+                "file": "ianfann/TINHIFI T1S"
             },
             {
                 "name": "TANCHJIM OLA",
