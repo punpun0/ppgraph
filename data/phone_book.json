@@ -2307,6 +2307,17 @@
                 "file": "pw/CCA CRA"
             },
             {
+                "name": "CCA CRA+",
+                "file": [
+                    "pw/CCA CRA Plus",
+                    "pw/CCA CRA Plus Tape"
+                ],
+                "suffix": [
+                    "Stock",
+                    "TapeOnVent"
+                ]
+            },
+            {
                 "name": "CCA CS16",
                 "file": "pw/CCA CS16"
             },
@@ -2678,6 +2689,10 @@
                     "Stock",
                     "Taped"
                 ]
+            },
+            {
+                "name": "MiM Dark Magician V2",
+                "file": "pw/MiM Dark Magician v2"
             },
             {
                 "name": "Moondrop A8",
@@ -6196,6 +6211,10 @@
                 "file": "mrs/GS Audio GD3A"
             },
             {
+                "name": "GS Audio GD3C",
+                "file": "mrs/GS Audio GD3C"
+            },
+            {
                 "name": "GS Audio SE11",
                 "file": "mrs/GS Audio SE11"
             },
@@ -8230,6 +8249,10 @@
             {
                 "name": "1MORE ColorBuds 2",
                 "file": "vsg/1MORE ColorBuds 2"
+            },
+            {
+                "name": "1MORE EVO",
+                "file": "vsg/1MORE EVO"
             },
             {
                 "name": "7Hz Eternal",
@@ -17256,6 +17279,10 @@
                 "file": "asp/3DT"
             },
             {
+                "name": "UniqueMelody Maverick Ti",
+                "file": "asp/UM Maverick Ti"
+            },
+            {
                 "name": "UniqueMelody MINI MEST",
                 "file": "asp/UniqueMelody MINI MEST"
             },
@@ -19263,6 +19290,10 @@
             {
                 "name": "KBEAR Diamond",
                 "file": "melatonin/KBEAR Diamond"
+            },
+            {
+                "name": "KBEAR INK",
+                "file": "melatonin/KBEAR INK"
             },
             {
                 "name": "KBEAR Lark",
