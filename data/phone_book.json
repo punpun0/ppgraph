@@ -2770,6 +2770,10 @@
                 "file": "pw/Shortbus EJ07SB"
             },
             {
+                "name": "Shortbus Audio Olina",
+                "file": "pw/Shortbus Olina"
+            },
+            {
                 "name": "Shuoer EJ07M",
                 "file": [
                     "pw/Shuoer EJ07M Stock",
@@ -5411,7 +5415,14 @@
             },
             {
                 "name": "Sony MH750",
-                "file": "rg/Sony MH750"
+                "file": [
+                    "rg/Sony MH750",
+                    "rg/Sony MH750 (Sony Import Foam)"
+                ],
+                "suffix": [
+                    "(stock)",
+                    "(No stock filter/foam, Sony Import Foam)"
+                ]
             },
             {
                 "name": "Sony MH755",
@@ -8528,6 +8539,10 @@
             {
                 "name": "HarmonicDyne Zeus",
                 "file": "vsg/HarmonicDyne Zeus"
+            },
+            {
+                "name": "HiBy Lasya",
+                "file": "vsg/HiBy Lasya"
             },
             {
                 "name": "HIFIMAN Arya (2021 Stealth Magnets)",
@@ -17737,6 +17752,10 @@
                 "file": "elise/LetShuoer EJ07M Lava"
             },
             {
+                "name": "LimeEars Anima",
+                "file": "elise/LimeEars Anima"
+            },
+            {
                 "name": "MMR Thummim",
                 "file": "elise/MMR Thummim"
             },
@@ -17751,6 +17770,14 @@
             {
                 "name": "oBravo Ra 21 C-Cu",
                 "file": "elise/oBravo Ra 21 C-Cu"
+            },
+            {
+                "name": "Oriolus Percivali",
+                "file": "elise/Oriolus Percivali"
+            },
+            {
+                "name": "Sennheiser IE900",
+                "file": "elise/Sennheiser IE900"
             },
             {
                 "name": "Softears RSV",
@@ -18498,6 +18525,10 @@
                 "file": "hep/KBEAR Stellar"
             },
             {
+                "name": "Letshuoer S12",
+                "file": "hep/Shuoer S12"
+            },
+            {
                 "name": "Lypertek Bevi",
                 "file": "hep/Lypertek Bevi"
             },
@@ -18707,10 +18738,6 @@
                 "file": "hep/Shozy V33"
             },
             {
-                "name": "Shuoer S12",
-                "file": "hep/Shuoer S12"
-            },
-            {
                 "name": "Smabat M0",
                 "file": "hep/Smabat M0"
             },
@@ -18885,6 +18912,18 @@
             {
                 "name": "BLON BL07",
                 "file": "ianfann/BLON BL07"
+            },
+            {
+                "name": "BQEYZ AUTUMN (BASS)",
+                "file": "ianfann/BQEYZ AUTUMN (BASS)"
+            },
+            {
+                "name": "BQEYZ AUTUMN (NORMAL)",
+                "file": "ianfann/BQEYZ AUTUMN (NORMAL)"
+            },
+            {
+                "name": "BQEYZ AUTUMN (TREBLE)",
+                "file": "ianfann/BQEYZ AUTUMN (TREBLE)"
             },
             {
                 "name": "CAMPFIRE SABER",
@@ -19194,6 +19233,10 @@
             {
                 "name": "DARUMA AUDIO Vento Conductor T-series Tony ver",
                 "file": "melatonin/Vento Conductor Tony"
+            },
+            {
+                "name": "DARUMA AUDIO Vento Conductor Ethereal",
+                "file": "melatonin/Vento Conductor Ethereal"
             },
             {
                 "name": "DIY 846 Wooeasy EE846(5BA)",
