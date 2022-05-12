@@ -1019,6 +1019,10 @@
                 "file": "hbb/55Hz Secretz 429"
             },
             {
+                "name": "55Hz KAI 2",
+                "file": "hbb/55Hz X HBB KAI"
+            },
+            {
                 "name": "64 Audio Tia Fourte",
                 "file": "hbb/64 Audio Tia Fourte"
             },
@@ -1651,6 +1655,10 @@
                 "file": "hbb/NiceHck Topguy"
             },
             {
+                "name": "OPEN AUDIO Mercury",
+                "file": "hbb/Open Audio Mercury"
+            },
+            {
                 "name": "Oriolus Trailli",
                 "file": "hbb/Oriolus Trailli"
             },
@@ -1853,6 +1861,10 @@
             {
                 "name": "Shuoer X HBB EJ07M",
                 "file": "hbb/7Hz i88 2"
+            },
+            {
+                "name": "Shuoer X HBB EJ07M 2",
+                "file": "hbb/Shuoer Kinda Lava 2"
             },
             {
                 "name": "Senfer MT300",
@@ -2448,7 +2460,14 @@
             },
             {
                 "name": "KBEAR Believe",
-                "file": "pw/KBEAR Believev2"
+                "file": [
+                    "pw/KBEAR Believev2",
+                    "pw/KBEAR Believe Vent"
+                ],
+                "suffix": [
+                    "Stock",
+                    "MP on Vent"
+                ]
             },
             {
                 "name": "KBEAR Diamond",
@@ -2702,11 +2721,13 @@
                 "name": "Moondrop Chu",
                 "file": [
                     "pw/Moondrop Chu",
-                    "pw/Moondrop Chu MP"
+                    "pw/Moondrop Chu MP",
+                    "pw/Moondrop Chu Tanya"
                 ],
                 "suffix": [
                     "Stock",
-                    "Micropore"
+                    "Micropore",
+                    "Tanya"
                 ]
             },
             {
@@ -4141,6 +4162,10 @@
                 "file": "precog/Shuoer Tape Pro"
             },
             {
+                "name": "Simphonio VR1",
+                "file": "precog/Simphonio VR1"
+            },
+            {
                 "name": "Softears Cerberus",
                 "file": "precog/SoftEars Cerberus"
             },
@@ -4458,7 +4483,14 @@
             },
             {
                 "name": "Unique Melody MEXT",
-                "file": "precog/Unique Melody MEXT"
+                "file": [
+                    "precog/Unique Melody MEXT",
+                    "precog/Unique Melody MEXT S2"
+                ],
+                "suffix": [
+                    "S1",
+                    "S2"
+                ]
             },
             {
                 "name": "Vision Ears Erlkonig",
@@ -6613,7 +6645,14 @@
             },
             {
                 "name": "Moondrop S8",
-                "file": "mrs/Moondrop S8"
+                "file": [
+                    "mrs/Moondrop S8",
+                    "mrs/Moondrop S8 (S2)"
+                ],
+                "suffix": [
+                    "(sample 1)",
+                    "(sample 2)"
+                ]
             },
             {
                 "name": "Moondrop Solis",
@@ -8702,7 +8741,7 @@
                 "file": "vsg/Moondrop Aria"
             },
             {
-                "name": "MOONDROP CHU",
+                "name": "MOONDROP Chu",
                 "file": "vsg/Moondrop CHU"
             },
             {
@@ -16742,6 +16781,14 @@
         "name": "Audio Sound Premium",
         "phones": [
             {
+                "name": "1more EVO (normal)",
+                "file": "asp/1more EVO"
+            },
+            {
+                "name": "1more EVO (ANC)",
+                "file": "asp/1more EVO NC"
+            },
+            {
                 "name": "AceFast Active T2 (normal)",
                 "file": "asp/AceFast Active T2"
             },
@@ -16904,6 +16951,10 @@
             {
                 "name": "EnacFire E60",
                 "file": "asp/EnacFire E60"
+            },
+            {
+                "name": "Etymotic Research ER2SE",
+                "file": "asp/ER2SE"
             },
             {
                 "name": "Fender Ten 3",
@@ -17318,6 +17369,14 @@
                 "file": "asp/XROUND FORGE NC"
             },
             {
+                "name": "Yu9 Audio U-554",
+                "file": "asp/Yu9 U-554"
+            },
+            {
+                "name": "Yu9 Audio U-554 (deep)",
+                "file": "asp/Yu9 U-554 deep"
+            },
+            {
                 "name": "ZERO Audio ZIRCO BASSO",
                 "file": "asp/ZA ZIRCO BASSO"
             },
@@ -17639,6 +17698,10 @@
                 "file": "acho/Tin T1 Plus"
             },
             {
+                "name": "Tin Hifi T1S",
+                "file": "acho/Tin T1S"
+            },
+            {
                 "name": "Tin Hifi T2",
                 "file": "acho/Tin T2"
             },
@@ -17661,6 +17724,10 @@
             {
                 "name": "TRN TA1",
                 "file": "acho/TRN TA1"
+            },
+            {
+                "name": "Tri Meteor",
+                "file": "acho/Tri Meteor"
             },
             {
                 "name": "Tripowin Le\u00e1",
@@ -17780,12 +17847,20 @@
                 "file": "elise/Sennheiser IE900"
             },
             {
+                "name": "Sennheiser IE600",
+                "file": "elise/Sennheiser IE600"
+            },
+            {
                 "name": "Softears RSV",
                 "file": "elise/Softears RSV"
             },
             {
                 "name": "Sony IER-Z1R",
                 "file": "elise/Sony IER-Z1R"
+            },
+            {
+                "name": "Symphonium Helios",
+                "file": "elise/Symphonium Helios"
             },
             {
                 "name": "Symphonium Triton",
@@ -18710,6 +18785,10 @@
                 "file": "hep/Reecho SG-01"
             },
             {
+                "name": "Reecho SG-01 OVA",
+                "file": "hep/Reecho SG-01 OVA"
+            },
+            {
                 "name": "Reecho SG-03",
                 "file": "hep/Reecho SG-03"
             },
@@ -19030,6 +19109,18 @@
                 "file": "ianfann/KZ ZS10 PRO"
             },
             {
+                "name": "KZ EDA (GOLD)",
+                "file": "ianfann/KZ EDA (GOLD)"
+            },
+            {
+                "name": "KZ EDA (SILVER)",
+                "file": "ianfann/KZ EDA (SILVER)"
+            },
+            {
+                "name": "KZ EDA (GREEN)",
+                "file": "ianfann/KZ EDA (GREEN)"
+            },
+            {
                 "name": "LAFITEAR LF1",
                 "file": "ianfann/LAFITEAR LF1"
             },
@@ -19199,6 +19290,10 @@
                 "file": "melatonin/CCA CRA"
             },
             {
+                "name": "CCA CRA+",
+                "file": "melatonin/CCA CRA+"
+            },
+            {
                 "name": "CCA CSN",
                 "file": "melatonin/CCA CSN"
             },
@@ -19229,6 +19324,10 @@
             {
                 "name": "DARUMA AUDIO Vento Conductor T-1000",
                 "file": "melatonin/Vento Conductor T-1000"
+            },
+            {
+                "name": "DARUMA AUDIO Vento Conductor T-800",
+                "file": "melatonin/Vento Conductor T-800"
             },
             {
                 "name": "DARUMA AUDIO Vento Conductor T-series Tony ver",
@@ -19658,6 +19757,15 @@
                 ]
             },
             {
+                "name": "CCA CRA+",
+                "file": [
+                    "nymz/CCA CRA+"
+                ],
+                "suffix": [
+                    "(stock)"
+                ]
+            },
+            {
                 "name": "Dunu Titan S",
                 "file": "nymz/Dunu Titan S"
             },
@@ -19725,6 +19833,10 @@
                 ]
             },
             {
+                "name": "KZ CRN",
+                "file": "nymz/KZ CRN"
+            },
+            {
                 "name": "KZ DQ6",
                 "file": "nymz/KZ DQ6"
             },
@@ -19763,6 +19875,21 @@
                     "(stock tips)",
                     "(stock tips + Tanya filter)"
                 ]
+            },
+            {
+                "name": "Penon Serial",
+                "file": [
+                    "nymz/Penon Serial",
+                    "nymz/Penon Serial W01"
+                ],
+                "suffix": [
+                    "(stock tips)",
+                    "(Widebore Tips)"
+                ]
+            },
+            {
+                "name": "Raptgo Hook",
+                "file": "nymz/Raptgo Hook"
             },
             {
                 "name": "Shuoer EJ07",
@@ -19833,6 +19960,10 @@
                 "file": "nymz/Sony MH755"
             },
             {
+                "name": "Tin Hifi T1S",
+                "file": "nymz/Tin Hifi T1S"
+            },
+            {
                 "name": "Tripowin Lea",
                 "file": "nymz/Tripowin Lea"
             },
@@ -19854,6 +19985,10 @@
                     "(Comply TS-500)",
                     "(Double Stock Filter + Comply TS-500)"
                 ]
+            },
+            {
+                "name": "TRZR Wave",
+                "file": "nymz/TRZR Wave"
             },
             {
                 "name": "Xenns Xenns Mangird Tea",
