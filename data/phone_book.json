@@ -1023,6 +1023,10 @@
                 "file": "hbb/55Hz X HBB KAI"
             },
             {
+                "name": "55Hz HBB X",
+                "file": "hbb/HBB Audio X"
+            },
+            {
                 "name": "64 Audio Tia Fourte",
                 "file": "hbb/64 Audio Tia Fourte"
             },
@@ -1587,6 +1591,10 @@
                 "file": "hbb/LZ A4 PRO Silver"
             },
             {
+                "name": "Madoo T711",
+                "file": "hbb/Madoo T711"
+            },
+            {
                 "name": "M-Audio Q40",
                 "file": "hbb/M - Audio Q40"
             },
@@ -2033,6 +2041,10 @@
             {
                 "name": "ThieAudio V16 Divinity",
                 "file": "hbb/Thieaudio V16 Divinity"
+            },
+            {
+                "name": "ThieAudio ELIXIR",
+                "file": "hbb/Thieaudio Elixir"
             },
             {
                 "name": "Tinhifi T2+",
@@ -8072,6 +8084,10 @@
                 "file": "vortex/HZSOUND Heart Mirror"
             },
             {
+                "name": "HZSOUND Waist Drum",
+                "file": "vortex/HZSOUND Waist Drum"
+            },
+            {
                 "name": "Kbear KS1",
                 "file": "vortex/Kbear KS1"
             },
@@ -8844,6 +8860,17 @@
             {
                 "name": "Technics EAH-AZ70W",
                 "file": "vsg/Technics AZ70"
+            },
+            {
+                "name": "ThieAudio Elixir",
+                "file": [
+                    "vsg/ThieAudio Elixir",
+                    "vsg/ThieAudio Elixir Shallow Fit"
+                ],
+                "suffix": [
+                    "",
+                    "(Shallow Fit)"
+                ]
             },
             {
                 "name": "ThieAudio Legacy 2",
@@ -17113,6 +17140,14 @@
                 "file": "asp/MSTW33 NC"
             },
             {
+                "name": "MUINE T1 (normal)",
+                "file": "asp/MUINE T1"
+            },
+            {
+                "name": "MUINE T1 (ANC)",
+                "file": "asp/MUINE T1 NC"
+            },
+            {
                 "name": "newspring NSE1000-B",
                 "file": "asp/NSE1000-B"
             },
@@ -18981,6 +19016,14 @@
         "name": "ianfann",
         "phones": [
             {
+                "name": "AUDIOSENSE DT300",
+                "file": "ianfann/AUDIOSENSE DT300"
+            },
+            {
+                "name": "AUDIOSENSE DT600",
+                "file": "ianfann/AUDIOSENSE DT600"
+            },
+            {
                 "name": "AUR AUDIO DUET PLUS",
                 "file": "ianfann/AUR AUDIO DUET PLUS"
             },
@@ -19007,6 +19050,10 @@
             {
                 "name": "CAMPFIRE SABER",
                 "file": "ianfann/CAMPFIRE SABER"
+            },
+            {
+                "name": "CCA CA10",
+                "file": "ianfann/CCA CA10"
             },
             {
                 "name": "CCA CRA+",
@@ -19057,6 +19104,10 @@
                 "file": "ianfann/INEAR PRO MISSION X"
             },
             {
+                "name": "KBEAR AURORA",
+                "file": "ianfann/KBEAR AURORA"
+            },
+            {
                 "name": "KBEAR KS1",
                 "file": "ianfann/KBEAR KS1"
             },
@@ -19077,12 +19128,28 @@
                 "file": "ianfann/KINERA IDUN GOLDEN"
             },
             {
+                "name": "KINERA URD",
+                "file": "ianfann/KINERA URD"
+            },
+            {
                 "name": "KZ DQ6",
                 "file": "ianfann/KZ DQ6"
             },
             {
                 "name": "KZ DQ6S",
                 "file": "ianfann/KZ DQ6S"
+            },
+            {
+                "name": "KZ EDA (GOLD)",
+                "file": "ianfann/KZ EDA (GOLD)"
+            },
+            {
+                "name": "KZ EDA (SILVER)",
+                "file": "ianfann/KZ EDA (SILVER)"
+            },
+            {
+                "name": "KZ EDA (GREEN)",
+                "file": "ianfann/KZ EDA (GREEN)"
             },
             {
                 "name": "KZ SK10 PRO",
@@ -19107,18 +19174,6 @@
             {
                 "name": "KZ ZS10 PRO",
                 "file": "ianfann/KZ ZS10 PRO"
-            },
-            {
-                "name": "KZ EDA (GOLD)",
-                "file": "ianfann/KZ EDA (GOLD)"
-            },
-            {
-                "name": "KZ EDA (SILVER)",
-                "file": "ianfann/KZ EDA (SILVER)"
-            },
-            {
-                "name": "KZ EDA (GREEN)",
-                "file": "ianfann/KZ EDA (GREEN)"
             },
             {
                 "name": "LAFITEAR LF1",
@@ -19181,6 +19236,10 @@
                 "file": "ianfann/SENNHAISER IE900"
             },
             {
+                "name": "TANCHJIM OLA",
+                "file": "ianfann/TANCHJIM OLA"
+            },
+            {
                 "name": "TINHIFI T3+",
                 "file": "ianfann/TINHIFI T3+"
             },
@@ -19189,12 +19248,16 @@
                 "file": "ianfann/TINHIFI T1S"
             },
             {
-                "name": "TANCHJIM OLA",
-                "file": "ianfann/TANCHJIM OLA"
+                "name": "TRI I3 PRO",
+                "file": "ianfann/TRI I3 PRO"
             },
             {
                 "name": "TRI METEOR",
                 "file": "ianfann/TRI METEOR"
+            },
+            {
+                "name": "TRI STARSEA",
+                "file": "ianfann/TRI STARSEA"
             },
             {
                 "name": "TRIPOWIN LEA",
@@ -19336,6 +19399,10 @@
             {
                 "name": "DARUMA AUDIO Vento Conductor Ethereal",
                 "file": "melatonin/Vento Conductor Ethereal"
+            },
+            {
+                "name": "DARUMA AUDIO Vento Conductor Celestial trial listening",
+                "file": "melatonin/Vento Conductor Celestial"
             },
             {
                 "name": "DIY 846 Wooeasy EE846(5BA)",
@@ -19988,7 +20055,20 @@
             },
             {
                 "name": "TRZR Wave",
-                "file": "nymz/TRZR Wave"
+                "file": [
+                    "nymz/TRZR Wave",
+                    "nymz/TRZR Wave Narrow",
+                    "nymz/TRZR Wave Olina",
+                    "nymz/TRZR Wave Tanya",
+                    "nymz/TRZR Wave EQ"
+                ],
+                "suffix": [
+                    "(Widebore Tips)",
+                    "(Final E tips)",
+                    "(Olina Filter)",
+                    "(Tanya Filter)",
+                    "(EQ)"
+                ]
             },
             {
                 "name": "Xenns Xenns Mangird Tea",
