@@ -2490,6 +2490,10 @@
                 "file": "pw/KBEAR F1"
             },
             {
+                "name": "KBEAR Ink",
+                "file": "pw/KBEAR Ink"
+            },
+            {
                 "name": "KBEAR KB04",
                 "file": "pw/KBEAR KB04v2"
             },
@@ -17410,6 +17414,14 @@
             {
                 "name": "Yu9 Audio U-554 (deep)",
                 "file": "asp/Yu9 U-554 deep"
+            },
+            {
+                "name": "Yu9 Audio U-556",
+                "file": "asp/Yu9 U-556"
+            },
+            {
+                "name": "Yu9 Audio U-556 (deep)",
+                "file": "asp/Yu9 U-556 deep"
             },
             {
                 "name": "ZERO Audio ZIRCO BASSO",
