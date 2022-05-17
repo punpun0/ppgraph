@@ -1235,6 +1235,10 @@
                 "file": "hbb/Dunu Titan S"
             },
             {
+                "name": "DUNU VULKAN",
+                "file": "hbb/Dunu Vulkan"
+            },
+            {
                 "name": "EDIFIER NeoBuds PRO Low Noise",
                 "file": "hbb/Edifier NeoBuds Pro"
             },
@@ -1893,6 +1897,10 @@
             {
                 "name": "Softears VOLUME",
                 "file": "hbb/Moondrop Volume"
+            },
+            {
+                "name": "Softears Turii Ti",
+                "file": "hbb/Moondrop Turii TI"
             },
             {
                 "name": "SONY MH755",
@@ -3389,6 +3397,10 @@
                 "file": "precog/CCA CRA"
             },
             {
+                "name": "CCA CRA+",
+                "file": "precog/CCA CRA+"
+            },
+            {
                 "name": "CCA CSN",
                 "file": "precog/CCA CSN"
             },
@@ -3484,6 +3496,10 @@
             {
                 "name": "DUNU Titan S",
                 "file": "precog/DUNU Titan S"
+            },
+            {
+                "name": "DUNU Vulkan",
+                "file": "precog/DUNU Vulkan"
             },
             {
                 "name": "DUNU Zen",
@@ -3814,6 +3830,10 @@
             {
                 "name": "KZ EDX Pro",
                 "file": "precog/KZ EDX Pro"
+            },
+            {
+                "name": "KZ EDX Ultra",
+                "file": "precog/KZ EDX Ultra"
             },
             {
                 "name": "KZ x Crinacle CRN",
@@ -5496,6 +5516,10 @@
                     "(Sony Import Foam)",
                     "(High-Density Tuning Foam)"
                 ]
+            },
+            {
+                "name": "Sony XBA-A3",
+                "file": "rg/Sony XBA-A3"
             },
             {
                 "name": "Sony XBA-N3AP",
@@ -8543,6 +8567,10 @@
                 ]
             },
             {
+                "name": "FiiO FA7s",
+                "file": "vsg/FiiO FA7s"
+            },
+            {
                 "name": "FiiO FD3",
                 "file": [
                     "vsg/FiiO FD3",
@@ -8782,6 +8810,10 @@
             {
                 "name": "MOONDROP Sparks",
                 "file": "vsg/Moondrop Sparks"
+            },
+            {
+                "name": "MUSE HiFi Power",
+                "file": "vsg/MUSE HiFi Power"
             },
             {
                 "name": "Ovidius RX-100",
@@ -19120,6 +19152,10 @@
                 "file": "ianfann/KBEAR AURORA"
             },
             {
+                "name": "KBEAR INK",
+                "file": "ianfann/KBEAR INK"
+            },
+            {
                 "name": "KBEAR KS1",
                 "file": "ianfann/KBEAR KS1"
             },
@@ -19845,8 +19881,25 @@
                 ]
             },
             {
+                "name": "Dunu VERNUS",
+                "file": [
+                    "nymz/Dunu VERNUS Reference",
+                    "nymz/Dunu VERNUS Atmos",
+                    "nymz/Dunu VERNUS Transpa"
+                ],
+                "suffix": [
+                    "(Reference)",
+                    "(Atmospheric Immersion)",
+                    "(Transparency)"
+                ]
+            },
+            {
                 "name": "Dunu Titan S",
                 "file": "nymz/Dunu Titan S"
+            },
+            {
+                "name": "Dunu Zen Pro",
+                "file": "nymz/Dunu Zen Pro"
             },
             {
                 "name": "Edifier Neobuds Pro",
