@@ -267,6 +267,10 @@
                 "file": "aftersound/HZSOUND HEART MIRROR"
             },
             {
+                "name": "IKKO OH2",
+                "file": "aftersound/IKKO OH2"
+            },
+            {
                 "name": "INTIME GO",
                 "file": "aftersound/INTIME GO"
             },
@@ -405,6 +409,10 @@
             {
                 "name": "MASSDROP PLUS",
                 "file": "aftersound/MASSDROP PLUS"
+            },
+            {
+                "name": "MEE X20",
+                "file": "aftersound/MEE X20"
             },
             {
                 "name": "MOONDROP ARIA",
@@ -613,6 +621,10 @@
             {
                 "name": "SONY MH755",
                 "file": "aftersound/SONY MH755"
+            },
+            {
+                "name": "SYMPHONIUM HELIOS",
+                "file": "aftersound/SYMPHONIUM HELIOS"
             },
             {
                 "name": "T-FORCE YUAN LI (PRE FINAL)",
@@ -1027,6 +1039,10 @@
                 "file": "hbb/HBB Audio X"
             },
             {
+                "name": "55Hz HBB XX",
+                "file": "hbb/Tripowin X Hbb Loki"
+            },
+            {
                 "name": "64 Audio Tia Fourte",
                 "file": "hbb/64 Audio Tia Fourte"
             },
@@ -1209,6 +1225,10 @@
             {
                 "name": "CCA CRA",
                 "file": "hbb/CCA CRA"
+            },
+            {
+                "name": "CCA CRA +",
+                "file": "hbb/CCA CRA +"
             },
             {
                 "name": "DDHiFi Janus",
@@ -2089,6 +2109,10 @@
             {
                 "name": "Tinhifi P1 MAX",
                 "file": "hbb/Tinhifi P1 Max"
+            },
+            {
+                "name": "Tinhifi T1S",
+                "file": "hbb/Tinhifi T1S"
             },
             {
                 "name": "THOR Mjolinir",
@@ -4824,6 +4848,10 @@
                 ]
             },
             {
+                "name": "Dunu VULKAN",
+                "file": "rg/Dunu VULKAN"
+            },
+            {
                 "name": "Dunu Zen",
                 "file": [
                     "rg/Dunu Zen",
@@ -7307,6 +7335,11 @@
                 "file": "mrs/ThieAudio Clairvoyance"
             },
             {
+                "name": "ThieAudio Elixir",
+                "file": "mrs/ThieAudio Elixir",
+                "preferredShop": "Linsoul"
+            },
+            {
                 "name": "ThieAudio Legacy 2",
                 "file": "mrs/ThieAudio Legacy 2"
             },
@@ -7377,6 +7410,11 @@
                     "(stock)",
                     "(vent blocked)"
                 ]
+            },
+            {
+                "name": "Tin Hifi P1 Max",
+                "file": "mrs/Tin Hifi P1 Max",
+                "preferredShop": "HiFiGo"
             },
             {
                 "name": "Tin Hifi P1 Plus",
@@ -8527,6 +8565,10 @@
                     "",
                     "(pre-production)"
                 ]
+            },
+            {
+                "name": "DUNU VULKAN",
+                "file": "vsg/DUNU VULKAN"
             },
             {
                 "name": "Effect Audio Axiom",
@@ -19060,6 +19102,18 @@
         "name": "ianfann",
         "phones": [
             {
+                "name": "EARBUDS BGVP DX6",
+                "file": "ianfann/EARBUDS - BGVP DX6"
+            },
+            {
+                "name": "EARBUDS HZSOUND BELL RHYME",
+                "file": "ianfann/EARBUDS - HZSOUND BELL RHYME"
+            },
+            {
+                "name": "EARBUDS LBBS",
+                "file": "ianfann/EARBUDS - LBBS"
+            },
+            {
                 "name": "AUDIOSENSE DT300",
                 "file": "ianfann/AUDIOSENSE DT300"
             },
@@ -19326,6 +19380,10 @@
             {
                 "name": "TRN MT1 PRO",
                 "file": "ianfann/TRN MT1 PRO"
+            },
+            {
+                "name": "TRN TA1",
+                "file": "ianfann/TRN TA1"
             },
             {
                 "name": "UNIQUE MELODY MEXT",
@@ -20020,7 +20078,7 @@
                 ]
             },
             {
-                "name": "Raptgo Hook",
+                "name": "Raptgo Hook-X",
                 "file": "nymz/Raptgo Hook"
             },
             {
