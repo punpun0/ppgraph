@@ -942,6 +942,10 @@
                 "file": "bedrock/Symphonium Audio Helios"
             },
             {
+                "name": "Symphonium Audio Triton",
+                "file": "bedrock/Symphonium Audio Triton"
+            },
+            {
                 "name": "Tanchjim Ola",
                 "file": "bedrock/Tanchjim Ola"
             },
@@ -5956,12 +5960,7 @@
             {
                 "name": "Dunu EST 112",
                 "file": [
-                    "mrs/Dunu EST 112",
-                    "mrs/Dunu EST 112 (SpinFit)"
-                ],
-                "suffix": [
-                    "(tips: Dunu)",
-                    "(tips: SpinFit)"
+                    "mrs/Dunu EST 112"
                 ]
             },
             {
@@ -6563,8 +6562,21 @@
                 ]
             },
             {
+                "name": "KZ (average)",
+                "file": "mrs/KZ (avg)"
+            },
+            {
                 "name": "Magaosi K3",
-                "file": "mrs/Magaosi K3"
+                "file": [
+                    "mrs/Magaosi K3 (F1)",
+                    "mrs/Magaosi K3 (F2)",
+                    "mrs/Magaosi K3 (F0)"
+                ],
+                "suffix": [
+                    "(filter: hash)",
+                    "(filter: cross)",
+                    "(filter: none)"
+                ]
             },
             {
                 "name": "Magaosi K5",
@@ -13742,6 +13754,10 @@
                 "file": "crinacle/Qx-Over"
             },
             {
+                "name": "Raptgo Hook-X",
+                "file": "crinacle/HOOK-X"
+            },
+            {
                 "name": "Raycon E25",
                 "file": "crinacle/E25"
             },
@@ -14877,6 +14893,10 @@
             {
                 "name": "Tin P1 Plus",
                 "file": "crinacle/P1 Plus"
+            },
+            {
+                "name": "Tin P1 Max",
+                "file": "crinacle/P1 Max"
             },
             {
                 "name": "Tin P2",
@@ -17082,6 +17102,18 @@
                 "file": "asp/Geek Wold GK10"
             },
             {
+                "name": "Hidizs Mermaid MM2 Gold",
+                "file": "asp/Hidizs MM2 Gold"
+            },
+            {
+                "name": "Hidizs Mermaid MM2 Silver",
+                "file": "asp/Hidizs MM2 Silver"
+            },
+            {
+                "name": "Hidizs Mermaid MM2 Red",
+                "file": "asp/Hidizs MM2 Red"
+            },
+            {
                 "name": "HiFiMAN RE2000 Silver",
                 "file": "asp/HiFiMAN RE2000 Silver"
             },
@@ -17148,6 +17180,14 @@
             {
                 "name": "KZ EDA (Green)",
                 "file": "asp/EDA GR"
+            },
+            {
+                "name": "KZ EDX Ultra",
+                "file": "asp/KZ EDX Ultra"
+            },
+            {
+                "name": "KZ EDX Ultra (peak:9kHz)",
+                "file": "asp/KZ EDX Ultra D"
             },
             {
                 "name": "KZ ZES",
