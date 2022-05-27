@@ -627,6 +627,10 @@
                 "file": "aftersound/SYMPHONIUM HELIOS"
             },
             {
+                "name": "SYMPHONIUM HELIOS SPINFIT",
+                "file": "aftersound/SYMPHONIUM HELIOS SPINFIT"
+            },
+            {
                 "name": "T-FORCE YUAN LI (PRE FINAL)",
                 "file": "aftersound/T-FORCE YUAN LI (PRE FINAL)"
             },
@@ -1593,6 +1597,18 @@
             {
                 "name": "KZ X HBB DQ6s",
                 "file": "hbb/KZ DQ6 R Xf"
+            },
+            {
+                "name": "KZ EDA BASS",
+                "file": "hbb/KZ EDA Bass"
+            },
+            {
+                "name": "KZ EDA BALANCED",
+                "file": "hbb/KZ EDA Balanced"
+            },
+            {
+                "name": "KZ EDA RESOLUTION",
+                "file": "hbb/KZ EDA Resolution"
             },
             {
                 "name": "LZ Hifi A7 gold",
@@ -4415,6 +4431,10 @@
                 ]
             },
             {
+                "name": "Thieaudio Elixir",
+                "file": "precog/ThieAudio Elixir"
+            },
+            {
                 "name": "Thieaudio Excalibur",
                 "file": "precog/ThieAudio Excalibur"
             },
@@ -4693,6 +4713,17 @@
             {
                 "name": "AZLA Azel",
                 "file": "rg/AZLA Azel"
+            },
+            {
+                "name": "Bamboo Forest Bird Jinghong",
+                "file": [
+                    "rg/Bamboo Forest Bird Jinghong",
+                    "rg/Bamboo Forest Bird Jinghong (Sony Import Foam)"
+                ],
+                "suffix": [
+                    "(stock)",
+                    "(Sony Import Foam)"
+                ]
             },
             {
                 "name": "Blon BL-01",
@@ -6566,6 +6597,36 @@
                 "file": "mrs/KZ (avg)"
             },
             {
+                "name": "Letshuoer EJ07M",
+                "file": "mrs/Letshuoer EJ07M"
+            },
+            {
+                "name": "Letshuoer EJ07M: Kinda Lava",
+                "file": "mrs/Letshuoer EJ07M Kinda Lava",
+                "preferredShop": "Linsoul"
+            },
+            {
+                "name": "Letshuoer Singer",
+                "file": "mrs/Letshuoer Singer"
+            },
+            {
+                "name": "Letshuoer S12",
+                "file": [
+                    "mrs/Letshuoer S12",
+                    "mrs/Letshuoer S12 (post)",
+                    "mrs/Letshuoer S12 (front vent blocked)",
+                    "mrs/Letshuoer S12 (top vent blocked)",
+                    "mrs/Letshuoer S12 (prepro)"
+                ],
+                "suffix": [
+                    "",
+                    "(post review re-measure)",
+                    "(front vent blocked)",
+                    "(top vent blocked)",
+                    "(pre-production)"
+                ]
+            },
+            {
                 "name": "Magaosi K3",
                 "file": [
                     "mrs/Magaosi K3 (F1)",
@@ -7059,31 +7120,6 @@
             {
                 "name": "Shozy Rouge",
                 "file": "mrs/Shozy Rouge"
-            },
-            {
-                "name": "Shuoer EJ07M",
-                "file": "mrs/Shuoer EJ07M"
-            },
-            {
-                "name": "Shuoer Singer",
-                "file": "mrs/Shuoer Singer"
-            },
-            {
-                "name": "Shuoer S12",
-                "file": [
-                    "mrs/Shuoer S12",
-                    "mrs/Shuoer S12 (post)",
-                    "mrs/Shuoer S12 (front vent blocked)",
-                    "mrs/Shuoer S12 (top vent blocked)",
-                    "mrs/Shuoer S12 (prepro)"
-                ],
-                "suffix": [
-                    "",
-                    "(post review re-measure)",
-                    "(front vent blocked)",
-                    "(top vent blocked)",
-                    "(pre-production)"
-                ]
             },
             {
                 "name": "Shure SE215",
@@ -8082,6 +8118,10 @@
                 "file": "vortex/CCA CRA"
             },
             {
+                "name": "CCA CRA+",
+                "file": "vortex/CCA CRA+"
+            },
+            {
                 "name": "CCA CSA",
                 "file": "vortex/CCA CSA"
             },
@@ -8200,6 +8240,10 @@
             {
                 "name": "KZ EDX Pro",
                 "file": "vortex/KZ EDX Pro"
+            },
+            {
+                "name": "KZ EDX Ultra",
+                "file": "vortex/KZ EDX Ultra"
             },
             {
                 "name": "KZ x HBB DQ6S",
@@ -8356,6 +8400,10 @@
             {
                 "name": "Tripowin X HBB Olina Double Filter",
                 "file": "vortex/Tripowin X HBB Olina Double Filter"
+            },
+            {
+                "name": "TRN BAX",
+                "file": "vortex/TRN BAX"
             },
             {
                 "name": "TRN CS1",
@@ -17002,6 +17050,14 @@
                 "file": "asp/CCA CRA"
             },
             {
+                "name": "CCA CRA+",
+                "file": "asp/CCA CRA P"
+            },
+            {
+                "name": "CCA CRA+ (peak:8.5kHz)",
+                "file": "asp/CCA CRA P 9"
+            },
+            {
                 "name": "CCZ Plume",
                 "file": "asp/CCZ Plume"
             },
@@ -17068,6 +17124,10 @@
             {
                 "name": "Edifier NeoBuds Pro (Dynamic Mode)",
                 "file": "asp/Edifier NeoBuds Pro D"
+            },
+            {
+                "name": "Edifier TWS1 Pro",
+                "file": "asp/Edifier TWS1 Pro"
             },
             {
                 "name": "Edifier X3 To U",
@@ -17200,6 +17260,10 @@
             {
                 "name": "KZ ZEX Pro",
                 "file": "asp/KZ ZEX Pro"
+            },
+            {
+                "name": "Liberfeel T8",
+                "file": "asp/Liberfeel T8"
             },
             {
                 "name": "MacaW GT600s (Silver)",
@@ -19426,6 +19490,10 @@
                 "file": "ianfann/TRN TA1"
             },
             {
+                "name": "TRN TA1 MAX",
+                "file": "ianfann/TRN TA1 MAX"
+            },
+            {
                 "name": "UNIQUE MELODY MEXT",
                 "file": "ianfann/UNIQUE MELODY MEXT"
             },
@@ -19957,16 +20025,12 @@
                 "file": [
                     "nymz/CCA CRA S2",
                     "nymz/CCA CRA",
-                    "nymz/CCA CRA EQ",
-                    "nymz/CCA CRA EQ2",
                     "nymz/CCA CRA EQ3"
                 ],
                 "suffix": [
                     "(Sample 2)",
                     "(Sample 1)",
-                    "(EQ1)",
-                    "(EQ2 target)",
-                    "(EQ3)"
+                    "(EQ)"
                 ]
             },
             {
@@ -20109,12 +20173,12 @@
             {
                 "name": "Penon Serial",
                 "file": [
-                    "nymz/Penon Serial",
-                    "nymz/Penon Serial W01"
+                    "nymz/Penon Serial S2",
+                    "nymz/Penon Serial"
                 ],
                 "suffix": [
-                    "(stock tips)",
-                    "(Widebore Tips)"
+                    "(S2)",
+                    "(S1)"
                 ]
             },
             {
@@ -20191,7 +20255,14 @@
             },
             {
                 "name": "Tin Hifi T1S",
-                "file": "nymz/Tin Hifi T1S"
+                "file": [
+                    "nymz/Tin Hifi T1S",
+                    "nymz/Tin Hifi T1S EQ"
+                ],
+                "suffix": [
+                    "(stock)",
+                    "(EQ)"
+                ]
             },
             {
                 "name": "Tripowin Lea",
