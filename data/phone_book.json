@@ -2285,6 +2285,26 @@
             {
                 "name": "Yanyin Canon 100",
                 "file": "hbb/Yanyin Canon 100"
+            },
+            {
+                "name": "Yanyin Rosemary 10",
+                "file": "hbb/Yanyin Rosemary 10"
+            },
+            {
+                "name": "Yanyin Rosemary 11",
+                "file": "hbb/Yanyin Rosemary 11"
+            },
+            {
+                "name": "Yanyin Rosemary 01",
+                "file": "hbb/Yanyin Rosemary 01"
+            },
+            {
+                "name": "Yanyin Rosemary 00",
+                "file": "hbb/Yanyin Rosemary 00"
+            },
+            {
+                "name": "Yanyin Moonlight",
+                "file": "hbb/Yanyin Moonlight"
             }
         ]
     },
@@ -2517,6 +2537,10 @@
             {
                 "name": "HZSOUND Waist Drum",
                 "file": "pw/HZSOUND Waist Drum"
+            },
+            {
+                "name": "IKKO OH2",
+                "file": "pw/IKKO OH2"
             },
             {
                 "name": "KBEAR Aurora",
@@ -2876,6 +2900,10 @@
             {
                 "name": "Shuoer OGK",
                 "file": "pw/Shuoer OGK"
+            },
+            {
+                "name": "Shuoer S12",
+                "file": "pw/Shuoer S12"
             },
             {
                 "name": "Shuoer Tape Pro",
@@ -4812,6 +4840,17 @@
                 ]
             },
             {
+                "name": "CCA CRA+",
+                "file": [
+                    "rg/CCA CRA+",
+                    "rg/CCA CRA+ (Stock Filter + 350 Mesh)"
+                ],
+                "suffix": [
+                    "(Stock)",
+                    "(Stock Filter + 350 Mesh)"
+                ]
+            },
+            {
                 "name": "CCA NRA",
                 "file": [
                     "rg/CCA NRA (0.66ohm)",
@@ -5219,6 +5258,10 @@
                     "(2 Low-Density Tuning Foams)",
                     "(High-Density Tuning Foam)"
                 ]
+            },
+            {
+                "name": "KZ EDX Ultra",
+                "file": "rg/KZ EDX Ultra"
             },
             {
                 "name": "KZ ZES",
@@ -5969,6 +6012,10 @@
                 "file": "mrs/CCA CRA"
             },
             {
+                "name": "CCA CRA Plus",
+                "file": "mrs/CCA CRA Plus"
+            },
+            {
                 "name": "CCZ Plume",
                 "file": "mrs/CCZ Plume"
             },
@@ -6032,6 +6079,10 @@
                 "suffix": [
                     "(pre-production)"
                 ]
+            },
+            {
+                "name": "Dunu Vulkan",
+                "file": "mrs/Dunu Vulkan"
             },
             {
                 "name": "Dunu Zen",
@@ -7002,6 +7053,10 @@
             {
                 "name": "QDC Uranus",
                 "file": "mrs/QDC Uranus"
+            },
+            {
+                "name": "Radius HP-NEF11",
+                "file": "mrs/Radius HP-NEF11"
             },
             {
                 "name": "Raptgo Hook",
@@ -8286,6 +8341,10 @@
                 "file": "vortex/Mangird Tea"
             },
             {
+                "name": "Mangird Tea 2",
+                "file": "vortex/Mangird Tea 2"
+            },
+            {
                 "name": "MiM Dark Magician",
                 "file": "vortex/MiM Dark Magician"
             },
@@ -8420,6 +8479,14 @@
             {
                 "name": "TRN ST2",
                 "file": "vortex/TRN ST2"
+            },
+            {
+                "name": "TRN TA1",
+                "file": "vortex/TRN TA1"
+            },
+            {
+                "name": "TRN TA1 Max",
+                "file": "vortex/TRN TA1 Max"
             },
             {
                 "name": "TRN VX Pro",
@@ -9071,6 +9138,34 @@
                     "(Sample 1)",
                     "(Sample 2)"
                 ]
+            },
+            {
+                "name": "Westone MACH 20",
+                "file": "vsg/Westone MACH 20"
+            },
+            {
+                "name": "Westone MACH 30",
+                "file": "vsg/Westone MACH 30"
+            },
+            {
+                "name": "Westone MACH 40",
+                "file": "vsg/Westone MACH 40"
+            },
+            {
+                "name": "Westone MACH 50",
+                "file": "vsg/Westone MACH 50"
+            },
+            {
+                "name": "Westone MACH 60",
+                "file": "vsg/Westone MACH 60"
+            },
+            {
+                "name": "Westone MACH 70",
+                "file": "vsg/Westone MACH 70"
+            },
+            {
+                "name": "Westone MACH 80",
+                "file": "vsg/Westone MACH 80"
             },
             {
                 "name": "XENNS Mangird Tea",
@@ -17546,6 +17641,14 @@
                 "file": "asp/HiTune T1 SB"
             },
             {
+                "name": "UGREEN Hitune T3",
+                "file": "asp/HiTune T3"
+            },
+            {
+                "name": "UGREEN Hitune T3 (ANC)",
+                "file": "asp/HiTune T3 ANC"
+            },
+            {
                 "name": "UGREEN Hitune X5",
                 "file": "asp/UGREEN Hitune X5"
             },
@@ -18765,6 +18868,10 @@
                 "file": "hep/Geek Wold GK80 NoMIC"
             },
             {
+                "name": "Hessian TWS7",
+                "file": "hep/Hessian TWS7"
+            },
+            {
                 "name": "Hidizs MS2",
                 "file": "hep/Hidizs MS2"
             },
@@ -18781,8 +18888,40 @@
                 "file": "hep/Hidizs MM2 Treble"
             },
             {
-                "name": "Hessian TWS7",
-                "file": "hep/Hessian TWS7"
+                "name": "Hidizs MD4 Treble",
+                "file": [
+                    "hep/Hidizs MD4 00"
+                ],
+                "suffix": [
+                    "(00)"
+                ]
+            },
+            {
+                "name": "Hidizs MD4 Warm",
+                "file": [
+                    "hep/Hidizs MD4 01"
+                ],
+                "suffix": [
+                    "(01)"
+                ]
+            },
+            {
+                "name": "Hidizs MD4 Balanced",
+                "file": [
+                    "hep/Hidizs MD4 10"
+                ],
+                "suffix": [
+                    "(10)"
+                ]
+            },
+            {
+                "name": "Hidizs MD4 Bass",
+                "file": [
+                    "hep/Hidizs MD4 11"
+                ],
+                "suffix": [
+                    "(11)"
+                ]
             },
             {
                 "name": "Ikko OH1s",
@@ -18998,12 +19137,16 @@
                 "file": "hep/Paiaduio DR2"
             },
             {
-                "name": "Penon Sphere",
-                "file": "hep/Penon Sphere"
+                "name": "Penon Globe",
+                "file": "hep/Penon Globe"
             },
             {
                 "name": "Penon ORB",
                 "file": "hep/Penon ORB"
+            },
+            {
+                "name": "Penon Sphere",
+                "file": "hep/Penon Sphere"
             },
             {
                 "name": "Reecho SG-01",
@@ -19286,6 +19429,14 @@
                 "file": "ianfann/DUNU TITAN S"
             },
             {
+                "name": "FZ AUDIO MAX",
+                "file": "ianfann/FZ AUDIO LIBERTY MAX"
+            },
+            {
+                "name": "FZ AUDIO Z2",
+                "file": "ianfann/FZ AUDIO LIBERTY Z2"
+            },
+            {
                 "name": "HIFIMAN EDITION XS",
                 "file": "ianfann/HIFIMAN EDITION XS"
             },
@@ -19346,15 +19497,15 @@
                 "file": "ianfann/KZ DQ6S"
             },
             {
-                "name": "KZ EDA (GOLD)",
+                "name": "KZ EDA Bass (GOLD)",
                 "file": "ianfann/KZ EDA (GOLD)"
             },
             {
-                "name": "KZ EDA (SILVER)",
+                "name": "KZ EDA Balance (SILVER)",
                 "file": "ianfann/KZ EDA (SILVER)"
             },
             {
-                "name": "KZ EDA (GREEN)",
+                "name": "KZ EDA Hi Res (GREEN)",
                 "file": "ianfann/KZ EDA (GREEN)"
             },
             {
@@ -19524,7 +19675,7 @@
             },
             {
                 "name": "Bose QuietComfort Earbuds",
-                "file": "melatonin/BOSE QC EARBUDS"
+                "file": "melatonin/Bose QC EARBUDS"
             },
             {
                 "name": "CCA A10",
@@ -20184,6 +20335,17 @@
             {
                 "name": "Raptgo Hook-X",
                 "file": "nymz/Raptgo Hook"
+            },
+            {
+                "name": "Sennheiser IE600",
+                "file": [
+                    "nymz/Sennheiser IE600",
+                    "nymz/Sennheiser IE600 Final E"
+                ],
+                "suffix": [
+                    "(stock silicone tips)",
+                    "(Final E tips)"
+                ]
             },
             {
                 "name": "Shuoer EJ07",
