@@ -163,6 +163,10 @@
                 "file": "aftersound/CCA CRA"
             },
             {
+                "name": "CCA CRA+",
+                "file": "aftersound/CCA CRA+"
+            },
+            {
                 "name": "CCA C10",
                 "file": "aftersound/CCA C10"
             },
@@ -323,6 +327,10 @@
                 "file": "aftersound/KZ EDX PRO"
             },
             {
+                "name": "KZ EDX ULTRA",
+                "file": "aftersound/KZ EDX ULTRA"
+            },
+            {
                 "name": "KZ DQ6",
                 "file": "aftersound/KZ DQ6"
             },
@@ -413,6 +421,10 @@
             {
                 "name": "MEE X20",
                 "file": "aftersound/MEE X20"
+            },
+            {
+                "name": "MOONDROP CHU",
+                "file": "aftersound/MOONDROP CHU"
             },
             {
                 "name": "MOONDROP ARIA",
@@ -850,6 +862,10 @@
                 "file": "bedrock/Dunu Titan S"
             },
             {
+                "name": "HZSound Waist Drum",
+                "file": "bedrock/HZSound Waist Drum"
+            },
+            {
                 "name": "Jade Audio EA3",
                 "file": "bedrock/Jade Audio EA3"
             },
@@ -1051,6 +1067,14 @@
                 "file": "hbb/Tripowin X Hbb Loki"
             },
             {
+                "name": "55Hz ST",
+                "file": "hbb/55Hz ST"
+            },
+            {
+                "name": "55Hz SS",
+                "file": "hbb/55Hz Ss"
+            },
+            {
                 "name": "64 Audio Tia Fourte",
                 "file": "hbb/64 Audio Tia Fourte"
             },
@@ -1105,6 +1129,10 @@
             {
                 "name": "Acoustune RS ONE",
                 "file": "hbb/Acoustune RS ONE"
+            },
+            {
+                "name": "Acoustune RS ONE (Foam mod)",
+                "file": "hbb/Acoustine RS ONE (Foam)"
             },
             {
                 "name": "AROMA AUDIO JEWEL",
@@ -1431,6 +1459,10 @@
                 "file": "hbb/HarmonicDyne ZEUS"
             },
             {
+                "name": "HarmonicDyne Planar (raw)",
+                "file": "hbb/Harmonicdyne New"
+            },
+            {
                 "name": "Heartfield DEER",
                 "file": "hbb/Deer"
             },
@@ -1501,6 +1533,10 @@
             {
                 "name": "JQ Audio Hua Jiang",
                 "file": "hbb/JQ Audio Hua Jiang"
+            },
+            {
+                "name": "JQ Audio 4U PRO",
+                "file": "hbb/JQ Audio 4U PRO"
             },
             {
                 "name": "KBear KS1",
@@ -1817,6 +1853,10 @@
             {
                 "name": "Reecho SG-03",
                 "file": "hbb/Reecho SG-03"
+            },
+            {
+                "name": "SEEK Real Airship",
+                "file": "hbb/SEEK Real Airship"
             },
             {
                 "name": "SeeAudio NEO",
@@ -2332,6 +2372,10 @@
                 "file": "pw/Audiosense T100"
             },
             {
+                "name": "BGVP DM6",
+                "file": "pw/BGVP DM6"
+            },
+            {
                 "name": "BLON BL01",
                 "file": "pw/BLON BL01v2"
             },
@@ -2406,11 +2450,13 @@
                 "name": "CCA CRA+",
                 "file": [
                     "pw/CCA CRA Plus",
-                    "pw/CCA CRA Plus Tape"
+                    "pw/CCA CRA Plus Tape",
+                    "pw/CCA CRA Plus Vent"
                 ],
                 "suffix": [
                     "Stock",
-                    "TapeOnVent"
+                    "TapeOnVent",
+                    "Added Vent"
                 ]
             },
             {
@@ -2679,6 +2725,10 @@
             {
                 "name": "KZ ES4",
                 "file": "pw/KZ ES4"
+            },
+            {
+                "name": "KZ ESX",
+                "file": "pw/KZ ESX"
             },
             {
                 "name": "KZ S1 TWS",
@@ -3162,6 +3212,10 @@
             {
                 "name": "UrbanFun YBFISS014",
                 "file": "pw/Urbanfun YBFISS014v2"
+            },
+            {
+                "name": "Velodyne Pink",
+                "file": "pw/Velodyne Pink"
             },
             {
                 "name": "VJJB N30",
@@ -6082,7 +6136,8 @@
             },
             {
                 "name": "Dunu Vulkan",
-                "file": "mrs/Dunu Vulkan"
+                "file": "mrs/Dunu Vulkan",
+                "preferredShop": "HiFiGo"
             },
             {
                 "name": "Dunu Zen",
@@ -7657,6 +7712,17 @@
             {
                 "name": "Project HRP",
                 "file": "mrs/Project HRP"
+            },
+            {
+                "name": "Project Pre-Prod 03",
+                "file": [
+                    "mrs/Pre-Prod 03 (nozzle A)",
+                    "mrs/Pre-Prod 03 (nozzle B)"
+                ],
+                "suffix": [
+                    "(nozzle: A)",
+                    "(nozzle: B)"
+                ]
             }
         ]
     },
@@ -8301,6 +8367,10 @@
                 "file": "vortex/KZ EDX Ultra"
             },
             {
+                "name": "KZ ESX",
+                "file": "vortex/KZ ESX"
+            },
+            {
                 "name": "KZ x HBB DQ6S",
                 "file": "vortex/KZ x HBB DQ6S"
             },
@@ -8331,6 +8401,10 @@
             {
                 "name": "KZ ZSX",
                 "file": "vortex/KZ ZSX"
+            },
+            {
+                "name": "Leisurely Audio L6",
+                "file": "vortex/Leisurely Audio L6"
             },
             {
                 "name": "LETSHUOER S12",
@@ -19429,11 +19503,11 @@
                 "file": "ianfann/DUNU TITAN S"
             },
             {
-                "name": "FZ AUDIO MAX",
+                "name": "FZ AUDIO LIBERTY MAX",
                 "file": "ianfann/FZ AUDIO LIBERTY MAX"
             },
             {
-                "name": "FZ AUDIO Z2",
+                "name": "FZ AUDIO LIBERTY Z2",
                 "file": "ianfann/FZ AUDIO LIBERTY Z2"
             },
             {
@@ -19507,6 +19581,14 @@
             {
                 "name": "KZ EDA Hi Res (GREEN)",
                 "file": "ianfann/KZ EDA (GREEN)"
+            },
+            {
+                "name": "KZ EDX ULTRA",
+                "file": "ianfann/KZ EDX ULTRA"
+            },
+            {
+                "name": "KZ ESX",
+                "file": "ianfann/KZ ESX"
             },
             {
                 "name": "KZ SK10 PRO",
