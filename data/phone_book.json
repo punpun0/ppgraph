@@ -2083,6 +2083,10 @@
                 "file": "hbb/T Force Yuan Li Final"
             },
             {
+                "name": "TH HiFi Face Red",
+                "file": "hbb/TH Hifi Face Red"
+            },
+            {
                 "name": "ThieAudio Clairvoyance",
                 "file": "hbb/Clairvoyance"
             },
@@ -2243,6 +2247,10 @@
                 "file": "hbb/TRN Bax"
             },
             {
+                "name": "TRN TA1 Max",
+                "file": "hbb/TRN TA1 Max"
+            },
+            {
                 "name": "TRI Starsea",
                 "file": "hbb/TRI Starsea"
             },
@@ -2358,6 +2366,19 @@
             {
                 "name": "7Hz Timeless",
                 "file": "pw/7Hz Timeless"
+            },
+            {
+                "name": "7Hz Timeless S2",
+                "file": [
+                    "pw/7Hz Timeless S2",
+                    "pw/7Hz Timeless S2 25ohm",
+                    "pw/7Hz Timeless S2 75ohm"
+                ],
+                "suffix": [
+                    "Stock",
+                    "25ohm",
+                    "75ohm"
+                ]
             },
             {
                 "name": "Audio Lokahi 7BA",
