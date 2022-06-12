@@ -1503,6 +1503,26 @@
                 "file": "hbb/IBasso iT04"
             },
             {
+                "name": "iF AUDIO D2",
+                "file": "hbb/IF Audio D2"
+            },
+            {
+                "name": "iF AUDIO 31",
+                "file": "hbb/iF Audio 31"
+            },
+            {
+                "name": "iF AUDIO 11",
+                "file": "hbb/iF Audio 11"
+            },
+            {
+                "name": "iF AUDIO 51",
+                "file": "hbb/iF Audio 51"
+            },
+            {
+                "name": "iF AUDIO D5",
+                "file": "hbb/iF Audio D5"
+            },
+            {
                 "name": "Ikko OH10",
                 "file": "hbb/Ikko OH10"
             },
@@ -6071,6 +6091,10 @@
                 "file": "mrs/Campfire Audio Andromeda 2020"
             },
             {
+                "name": "Campfire Audio Ara",
+                "file": "mrs/Campfire Audio Ara"
+            },
+            {
                 "name": "Campfire Audio Onyx",
                 "file": "mrs/Campfire Audio Onyx"
             },
@@ -10347,6 +10371,10 @@
                 "file": "crinacle/AQ3"
             },
             {
+                "name": "Audiosense AQ4",
+                "file": "crinacle/AQ4"
+            },
+            {
                 "name": "Audiosense AQ7",
                 "file": "crinacle/AQ7"
             },
@@ -10783,6 +10811,10 @@
             {
                 "name": "CCA NRA",
                 "file": "crinacle/NRA"
+            },
+            {
+                "name": "Clariar i430",
+                "file": "crinacle/i430"
             },
             {
                 "name": "Clariar i640",
@@ -11247,6 +11279,19 @@
                 ]
             },
             {
+                "name": "Elysian Diva",
+                "file": [
+                    "crinacle/Diva Half Bass",
+                    "crinacle/Diva Min Bass",
+                    "crinacle/Diva Max Bass"
+                ],
+                "suffix": [
+                    "(Half bass)",
+                    "(Min bass)",
+                    "(Max bass)"
+                ]
+            },
+            {
                 "name": "Elysian Annihilator/DIO",
                 "file": [
                     "crinacle/Annihilator 2021 S2",
@@ -11471,8 +11516,16 @@
                 "file": "crinacle/Musician Plus"
             },
             {
+                "name": "Fatfreq Musician Plus V2",
+                "file": "crinacle/Musician Plus V2"
+            },
+            {
                 "name": "Fatfreq Musician Pro",
                 "file": "crinacle/Musician Pro FF"
+            },
+            {
+                "name": "Fatfreq Musician Pro SE",
+                "file": "crinacle/Musician Pro SE"
             },
             {
                 "name": "Fatfreq Reference",
@@ -11483,8 +11536,16 @@
                 "file": "crinacle/Reference Plus"
             },
             {
+                "name": "Fatfreq Reference Plus V2",
+                "file": "crinacle/Reference Plus V2"
+            },
+            {
                 "name": "Fatfreq Reference Pro",
                 "file": "crinacle/Reference Pro"
+            },
+            {
+                "name": "Fatfreq Reference Pro SE",
+                "file": "crinacle/Reference Pro SE"
             },
             {
                 "name": "Fatfreq Sakura",
@@ -11537,6 +11598,18 @@
             {
                 "name": "Fatfreq 20.8",
                 "file": "crinacle/20-8"
+            },
+            {
+                "name": "Fatfreq Maestro",
+                "file": "crinacle/Maestro FF"
+            },
+            {
+                "name": "Fatfreq Maestro SE",
+                "file": "crinacle/Maestro SE"
+            },
+            {
+                "name": "Fatfreq Maestro Mini",
+                "file": "crinacle/Maestro Mini"
             },
             {
                 "name": "FAudio Minor",
@@ -13223,6 +13296,14 @@
                 "file": "crinacle/Tevi"
             },
             {
+                "name": "Lypertek PurePlay Z3 2.0",
+                "file": "crinacle/Pureplay Z3 2"
+            },
+            {
+                "name": "Lypertek PurePlay Z7",
+                "file": "crinacle/Pureplay Z7"
+            },
+            {
                 "name": "LZ A2 Pro",
                 "file": "crinacle/A2 Pro"
             },
@@ -13244,6 +13325,10 @@
                     "(Red nozzle) (Black vent)",
                     "(Silver nozzle) (Black vent)"
                 ]
+            },
+            {
+                "name": "Madoo Type 711",
+                "file": "crinacle/Type 711"
             },
             {
                 "name": "Magaosi K5",
@@ -13343,6 +13428,10 @@
             {
                 "name": "Moondrop Nekocake",
                 "file": "crinacle/Nekocake"
+            },
+            {
+                "name": "Moondrop Nekocake (Acht Acht Limited)",
+                "file": "crinacle/Nekocake Acht Acht Limited"
             },
             {
                 "name": "Moondrop Aria (2021)",
@@ -13672,6 +13761,10 @@
             {
                 "name": "Ocharaku Flat-4 Ti Plus",
                 "file": "crinacle/Flat-4 Ti Plus"
+            },
+            {
+                "name": "Open Audio Mercury",
+                "file": "crinacle/Mercury"
             },
             {
                 "name": "Onkyo E900",
@@ -14123,6 +14216,10 @@
                 "file": "crinacle/Kaguya"
             },
             {
+                "name": "Seek Real Airship",
+                "file": "crinacle/Airship"
+            },
+            {
                 "name": "Sendiy M1221",
                 "file": "crinacle/Sendy"
             },
@@ -14218,6 +14315,10 @@
             {
                 "name": "Shanling ME200",
                 "file": "crinacle/ME200"
+            },
+            {
+                "name": "Shanling MTW200",
+                "file": "crinacle/MTW200"
             },
             {
                 "name": "Shanling ME500",
@@ -14459,6 +14560,10 @@
             {
                 "name": "Simphonio VR1",
                 "file": "crinacle/VR1"
+            },
+            {
+                "name": "Softears Volume",
+                "file": "crinacle/Volume"
             },
             {
                 "name": "Softears RSV",
@@ -14801,6 +14906,10 @@
                 "file": "crinacle/Helios Sym"
             },
             {
+                "name": "Symphonium Triton",
+                "file": "crinacle/Triton S2"
+            },
+            {
                 "name": "Tanchjim Tanya",
                 "file": "crinacle/Tanya RM"
             },
@@ -14989,6 +15098,10 @@
             {
                 "name": "TFZ Ti Galaxy",
                 "file": "crinacle/Ti Galaxy"
+            },
+            {
+                "name": "ThieAudio Elixir",
+                "file": "crinacle/Elixir TA"
             },
             {
                 "name": "ThieAudio Legacy 2 (L2)",
@@ -15197,6 +15310,10 @@
                 "file": "crinacle/Dunmer Pro"
             },
             {
+                "name": "Tipsy TTROMSO",
+                "file": "crinacle/Ttromso"
+            },
+            {
                 "name": "Tralucent 1 Plus 1.2",
                 "file": "crinacle/1plus1.2"
             },
@@ -15215,6 +15332,21 @@
             {
                 "name": "Tralucent 1+Xplus",
                 "file": "crinacle/1 Plus X"
+            },
+            {
+                "name": "TRI Starsea",
+                "file": [
+                    "crinacle/Starsea 00",
+                    "crinacle/Starsea 10",
+                    "crinacle/Starsea 02",
+                    "crinacle/Starsea 12"
+                ],
+                "suffix": [
+                    "(00 setting)",
+                    "(10 setting)",
+                    "(02 setting)",
+                    "(12 setting)"
+                ]
             },
             {
                 "name": "TRI Starlight",
@@ -15244,6 +15376,10 @@
             {
                 "name": "TRN BA5",
                 "file": "crinacle/BA5"
+            },
+            {
+                "name": "TRN BAX",
+                "file": "crinacle/BAX"
             },
             {
                 "name": "TRN MT1",
@@ -15646,8 +15782,12 @@
                 "file": "crinacle/W80"
             },
             {
-                "name": "WG T-One",
+                "name": "W+G T-One",
                 "file": "crinacle/T-One"
+            },
+            {
+                "name": "W+G T2",
+                "file": "crinacle/T2 WG"
             },
             {
                 "name": "Whizzer HE01",
@@ -15680,6 +15820,10 @@
             {
                 "name": "Yamaha EPH-100",
                 "file": "crinacle/EPH100"
+            },
+            {
+                "name": "Yanyin Aladdin",
+                "file": "crinacle/Aladdin"
             },
             {
                 "name": "Yanyin Canon",
