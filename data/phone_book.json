@@ -739,6 +739,10 @@
                 "file": "aftersound/TRIPOWIN TC01"
             },
             {
+                "name": "TRIPOWIN OLINA",
+                "file": "aftersound/TRIPOWIN OLINA"
+            },
+            {
                 "name": "TRIPOWIN OLINA (TANYA FILTER)",
                 "file": "aftersound/TRIPOWIN OLINA (TANYA FILTER)"
             },
@@ -769,6 +773,14 @@
             {
                 "name": "VIDO EARBUD",
                 "file": "aftersound/VIDO EARBUD"
+            },
+            {
+                "name": "WEMLIK MISTY 1",
+                "file": "aftersound/WEMLIK MISTY 1"
+            },
+            {
+                "name": "WEMLIK MISTY 2",
+                "file": "aftersound/WEMLIK MISTY 2"
             },
             {
                 "name": "WHIZZER HE01",
@@ -1075,6 +1087,10 @@
                 "file": "hbb/55Hz Ss"
             },
             {
+                "name": "55Hz QK",
+                "file": "hbb/55Hz QK"
+            },
+            {
                 "name": "64 Audio Tia Fourte",
                 "file": "hbb/64 Audio Tia Fourte"
             },
@@ -1217,6 +1233,10 @@
             {
                 "name": "BLON A7b1",
                 "file": "hbb/Blon B72"
+            },
+            {
+                "name": "BLON Fat Girl",
+                "file": "hbb/BLON Fat Girl"
             },
             {
                 "name": "BGVP DM7",
@@ -1879,6 +1899,14 @@
                 "file": "hbb/SEEK Real Airship"
             },
             {
+                "name": "SEEK Real Fusion",
+                "file": "hbb/SEEK Real Fusion"
+            },
+            {
+                "name": "SEEK Real Proser",
+                "file": "hbb/SEEK Real Proser"
+            },
+            {
                 "name": "SeeAudio NEO",
                 "file": "hbb/Seeaudio Neo"
             },
@@ -2269,6 +2297,10 @@
             {
                 "name": "TRN TA1 Max",
                 "file": "hbb/TRN TA1 Max"
+            },
+            {
+                "name": "TRN KIRIN (Reference)",
+                "file": "hbb/TRN Reference"
             },
             {
                 "name": "TRI Starsea",
@@ -3288,6 +3320,10 @@
         "name": "Precogvision",
         "phones": [
             {
+                "name": "64 Audio A3t",
+                "file": "precog/64 Audio A3t"
+            },
+            {
                 "name": "64 Audio A4s",
                 "file": [
                     "precog/64 Audio A4s (M20) Attachment",
@@ -3765,7 +3801,14 @@
             },
             {
                 "name": "FatFreq Maestro Mini",
-                "file": "precog/FatFreq Maestro Mini"
+                "file": [
+                    "precog/FatFreq Maestro Mini",
+                    "precog/FatFreq Maestro Mini S2"
+                ],
+                "suffix": [
+                    "S1",
+                    "S2"
+                ]
             },
             {
                 "name": "FAudio Dark Sky",
@@ -3876,6 +3919,10 @@
                     "ANC",
                     "Transparency"
                 ]
+            },
+            {
+                "name": "GS Audio GD3C",
+                "file": "precog/GS Audio GD3C"
             },
             {
                 "name": "GS Audio SE11",
@@ -4160,6 +4207,10 @@
                 ]
             },
             {
+                "name": "Mystery IEM2",
+                "file": "precog/Secret Proto 2"
+            },
+            {
                 "name": "NF Audio NA2+",
                 "file": "precog/NF Audio NA2+"
             },
@@ -4170,6 +4221,10 @@
             {
                 "name": "oBravo Cupid",
                 "file": "precog/oBravo Cupid"
+            },
+            {
+                "name": "OpenAudio Mercury",
+                "file": "precog/OpenAudio Mercury"
             },
             {
                 "name": "qdc 5SH",
@@ -4355,6 +4410,10 @@
             {
                 "name": "Shuoer EJ07M",
                 "file": "precog/Shuoer EJ07M"
+            },
+            {
+                "name": "Shuoer EJ07M Kinda Lava",
+                "file": "precog/Shuoer EJ07M Kinda Lava"
             },
             {
                 "name": "Shuoer S12",
@@ -4593,7 +4652,14 @@
             },
             {
                 "name": "Thieaudio Monarch MKII",
-                "file": "precog/ThieAudio Monarch MKII"
+                "file": [
+                    "precog/ThieAudio Monarch MKII",
+                    "precog/ThieAudio Monarch MKII S2"
+                ],
+                "suffix": [
+                    "S1",
+                    "S2"
+                ]
             },
             {
                 "name": "Thieaudio Oracle",
@@ -4624,6 +4690,10 @@
                     "S1",
                     "S2"
                 ]
+            },
+            {
+                "name": "Tin Audio P1 Max",
+                "file": "precog/Tin Audio P1 Max"
             },
             {
                 "name": "Tin Audio P2",
@@ -6181,7 +6251,16 @@
             },
             {
                 "name": "Dunu Vulkan",
-                "file": "mrs/Dunu Vulkan",
+                "file": [
+                    "mrs/Dunu Vulkan (S2)",
+                    "mrs/Dunu Vulkan (S2 + red)",
+                    "mrs/Dunu Vulkan"
+                ],
+                "suffix": [
+                    "(sample 2, tips: gray)",
+                    "(sample 2, tips: red)",
+                    "(sample 1)"
+                ],
                 "preferredShop": "HiFiGo"
             },
             {
@@ -8508,6 +8587,10 @@
                 "file": "vortex/QKZ VK4"
             },
             {
+                "name": "Raptgo Hook",
+                "file": "vortex/Raptgo Hook"
+            },
+            {
                 "name": "Softears RSV",
                 "file": "vortex/Softears RSV"
             },
@@ -8815,6 +8898,21 @@
             {
                 "name": "DUNU VULKAN",
                 "file": "vsg/DUNU VULKAN"
+            },
+            {
+                "name": "Edifier STAX SPIRIT S3",
+                "file": [
+                    "vsg/Edifier STAX SPIRIT S3 Lambskin BT",
+                    "vsg/Edifier STAX SPIRIT S3 Lambskin wired",
+                    "vsg/Edifier STAX SPIRIT S3 Mesh BT",
+                    "vsg/Edifier STAX SPIRIT S3 Mesh wired"
+                ],
+                "suffix": [
+                    "(Lambskin Pads, Bluetooth)",
+                    "(Lambskin Pads, Wired)",
+                    "(Mesh Pads, Bluetooth)",
+                    "(Mesh Pads, Wired)"
+                ]
             },
             {
                 "name": "Effect Audio Axiom",
@@ -9169,6 +9267,10 @@
             {
                 "name": "Sivga Robin (SV021)",
                 "file": "vsg/Sivga Robin (SV021)"
+            },
+            {
+                "name": "Sivga SV023",
+                "file": "vsg/Sivga SV023"
             },
             {
                 "name": "Tanchjim New HANA 2021",
@@ -17464,6 +17566,10 @@
                 "file": "asp/Edifier TWS1 Pro"
             },
             {
+                "name": "Edifier TO-U6+",
+                "file": "asp/TO-U6"
+            },
+            {
                 "name": "Edifier X3 To U",
                 "file": "asp/Edifier X3 To U"
             },
@@ -18005,6 +18111,10 @@
                 "file": "acho/CCA CRA"
             },
             {
+                "name": "CCA CRA Plus",
+                "file": "acho/CCA CRA Plus"
+            },
+            {
                 "name": "CCZ Emerald",
                 "file": "acho/CCZ Emerald"
             },
@@ -18291,6 +18401,10 @@
             {
                 "name": "TRN TA1",
                 "file": "acho/TRN TA1"
+            },
+            {
+                "name": "TRN TA1 Max",
+                "file": "acho/TRN TA1 Max"
             },
             {
                 "name": "Tri Meteor",
@@ -20189,15 +20303,15 @@
                 "file": "melatonin/KZ CRN"
             },
             {
-                "name": "KZ KZ EDA HiRes",
+                "name": "KZ EDA HiRes",
                 "file": "melatonin/KZ EDA HighResolution"
             },
             {
-                "name": "KZ KZ EDA Balanced",
+                "name": "KZ EDA Balanced",
                 "file": "melatonin/KZ EDA Balanced"
             },
             {
-                "name": "KZ KZ EDA Bass",
+                "name": "KZ EDA Bass",
                 "file": "melatonin/KZ EDA Heavy Bass"
             },
             {
@@ -20211,6 +20325,10 @@
             {
                 "name": "KZ EDX",
                 "file": "melatonin/KZ EDX"
+            },
+            {
+                "name": "KZ ESX",
+                "file": "melatonin/KZ ESX"
             },
             {
                 "name": "KZ EDX Pro",
@@ -20606,13 +20724,13 @@
                 "name": "Shuoer EJ07m Kinda Lava",
                 "file": [
                     "nymz/Shuoer EJ07m KL",
-                    "nymz/Shuoer EJ07m KL Comply",
-                    "nymz/Shuoer EJ07m KL Ciberthingy"
+                    "nymz/Shuoer EJ07m KL Resin",
+                    "nymz/Shuoer EJ07m KL Comply"
                 ],
                 "suffix": [
-                    "(stock tips)",
-                    "(Comply Foams)",
-                    "(Cyberthingy Unit)"
+                    "(Metallic Shell)",
+                    "(Resin Shell)",
+                    "(Comply Foams)"
                 ]
             },
             {
