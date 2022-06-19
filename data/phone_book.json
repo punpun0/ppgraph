@@ -808,12 +808,8 @@
                 "file": "bedrock/7Hz Eternal"
             },
             {
-                "name": "Ambient Dynamics Lyndale",
-                "file": "bedrock/Ambient Dynamics Lyndale"
-            },
-            {
-                "name": "Audiofly AF1120 MK2",
-                "file": "bedrock/Audiofly AF1120 MK2"
+                "name": "Ambient Dynamics AD-006",
+                "file": "bedrock/Ambient Dynamics AD-006"
             },
             {
                 "name": "Blon BL-05",
@@ -837,8 +833,8 @@
                 ]
             },
             {
-                "name": "Cayin Fantasy",
-                "file": "bedrock/Cayin Fantasy"
+                "name": "CCA C10",
+                "file": "bedrock/CCA C10"
             },
             {
                 "name": "CCA C10 Pro",
@@ -853,8 +849,8 @@
                 "file": "bedrock/CVJ CSA"
             },
             {
-                "name": "Dunu Luna",
-                "file": "bedrock/Dunu Luna"
+                "name": "Dunu DM-480",
+                "file": "bedrock/Dunu DM-480"
             },
             {
                 "name": "Dunu Falcon Pro",
@@ -874,6 +870,18 @@
                 "file": "bedrock/Dunu Titan S"
             },
             {
+                "name": "EZAudio D4 (Modded)",
+                "file": "bedrock/EZAudio D4 (Modded)"
+            },
+            {
+                "name": "EZAudio X3",
+                "file": "bedrock/EZAudio X3"
+            },
+            {
+                "name": "Fiio F1",
+                "file": "bedrock/Fiio F1"
+            },
+            {
                 "name": "HZSound Waist Drum",
                 "file": "bedrock/HZSound Waist Drum"
             },
@@ -886,16 +894,20 @@
                 "file": "bedrock/KBEAR Diamond"
             },
             {
+                "name": "KBEAR KB04",
+                "file": "bedrock/KBEAR KB04"
+            },
+            {
+                "name": "KBEAR KS2",
+                "file": "bedrock/KBEAR KS2"
+            },
+            {
                 "name": "KBEAR Lark",
                 "file": "bedrock/KBEAR Lark"
             },
             {
                 "name": "Kinera BD005 Pro",
                 "file": "bedrock/Kinera BD005 Pro"
-            },
-            {
-                "name": "Kinera Freya",
-                "file": "bedrock/Kinera Freya"
             },
             {
                 "name": "Kinera Tyr",
@@ -906,8 +918,12 @@
                 "file": "bedrock/KZ CRN"
             },
             {
-                "name": "KZ ZAX",
-                "file": "bedrock/KZ ZAX"
+                "name": "KZ DQ6S",
+                "file": "bedrock/KZ DQ6S"
+            },
+            {
+                "name": "Meeture MT3",
+                "file": "bedrock/Meeture MT3"
             },
             {
                 "name": "Moondrop Aria",
@@ -916,10 +932,6 @@
             {
                 "name": "Moondrop Chu",
                 "file": "bedrock/Moondrop Chu"
-            },
-            {
-                "name": "Moondrop Illumination",
-                "file": "bedrock/Moondrop Illumination"
             },
             {
                 "name": "Moondrop Quarks",
@@ -938,12 +950,12 @@
                 "file": "bedrock/Moondrop SSR"
             },
             {
-                "name": "Moondrop Starfield",
-                "file": "bedrock/Moondrop Starfield"
+                "name": "Nicehck M6",
+                "file": "bedrock/Nicehck M6"
             },
             {
-                "name": "Moondrop Variations",
-                "file": "bedrock/Moondrop Variations"
+                "name": "Nicehck N3",
+                "file": "bedrock/Nicehck N3"
             },
             {
                 "name": "Nicehck X49",
@@ -954,28 +966,12 @@
                 "file": "bedrock/SeeAudio Bravery"
             },
             {
-                "name": "SeeAudio Neo",
-                "file": "bedrock/SeeAudio Neo"
-            },
-            {
                 "name": "SeeAudio Yume",
                 "file": "bedrock/SeeAudio Yume"
             },
             {
-                "name": "Shozy Form 1.1",
-                "file": "bedrock/Shozy Form 1.1"
-            },
-            {
-                "name": "Softears RSV",
-                "file": "bedrock/Softears RSV"
-            },
-            {
-                "name": "Symphonium Audio Helios",
-                "file": "bedrock/Symphonium Audio Helios"
-            },
-            {
-                "name": "Symphonium Audio Triton",
-                "file": "bedrock/Symphonium Audio Triton"
+                "name": "Simgot EM1",
+                "file": "bedrock/Simgot EM1"
             },
             {
                 "name": "Tanchjim Ola",
@@ -988,6 +984,25 @@
             {
                 "name": "Thieaudio Legacy 2",
                 "file": "bedrock/Thieaudio Legacy 2"
+            },
+            {
+                "name": "Thieaudio Voyager 3",
+                "file": [
+                    "bedrock/Thieaudio Voyager 3 (00)",
+                    "bedrock/Thieaudio Voyager 3 (10)",
+                    "bedrock/Thieaudio Voyager 3 (02)",
+                    "bedrock/Thieaudio Voyager 3 (12)"
+                ],
+                "suffix": [
+                    "(switch: 00)",
+                    "(switch: 10)",
+                    "(switch: 02)",
+                    "(switch: 12)"
+                ]
+            },
+            {
+                "name": "TinHiFi T1S",
+                "file": "bedrock/TinHiFi T1S"
             },
             {
                 "name": "TinHiFi T2 Plus",
@@ -1006,12 +1021,37 @@
                 "file": "bedrock/TRN BA8"
             },
             {
+                "name": "TRN STM",
+                "file": [
+                    "bedrock/TRN STM (Gold)",
+                    "bedrock/TRN STM (Red)",
+                    "bedrock/TRN STM (Blue)"
+                ],
+                "suffix": [
+                    "(filter: Gold)",
+                    "(filter: Red)",
+                    "(filter: Blue)"
+                ]
+            },
+            {
                 "name": "TRN V90S",
                 "file": "bedrock/TRN V90S"
             },
             {
                 "name": "TRN VX",
                 "file": "bedrock/TRN VX"
+            },
+            {
+                "name": "UiiSii CM5",
+                "file": "bedrock/UiiSii CM5"
+            },
+            {
+                "name": "Yinyoo Ash",
+                "file": "bedrock/Yinyoo Ash"
+            },
+            {
+                "name": "Yinyoo V2",
+                "file": "bedrock/Yinyoo V2"
             }
         ]
     },
@@ -8319,6 +8359,10 @@
                 "file": "vortex/Blon BL Max"
             },
             {
+                "name": "Blon Fat Girl",
+                "file": "vortex/Blon Fat Girl"
+            },
+            {
                 "name": "BQEYZ Autumn Bass",
                 "file": "vortex/BQEYZ Autumn Bass"
             },
@@ -8784,11 +8828,21 @@
             },
             {
                 "name": "Audeze LCD-X (2021)",
-                "file": "vsg/Audeze LCD-X (2021)"
+                "file": [
+                    "vsg/Audeze LCD-X (2021)"
+                ],
+                "suffix": [
+                    "(Leather-free Pads)"
+                ]
             },
             {
                 "name": "Audeze LCD-XC (2021)",
-                "file": "vsg/Audeze LCD-XC (2021)"
+                "file": [
+                    "vsg/Audeze LCD-XC (2021)"
+                ],
+                "suffix": [
+                    "(Leather Pads)"
+                ]
             },
             {
                 "name": "Audio Hekili",
@@ -13536,8 +13590,12 @@
                 "file": "crinacle/Nekocake Acht Acht Limited"
             },
             {
-                "name": "Moondrop Aria (2021)",
+                "name": "Moondrop Aria",
                 "file": "crinacle/Aria 2021"
+            },
+            {
+                "name": "Moondrop Aria Snow Edition",
+                "file": "crinacle/Aria SE"
             },
             {
                 "name": "Moondrop Sparks",
@@ -18127,6 +18185,10 @@
                 "file": "acho/Dunu Titan S"
             },
             {
+                "name": "Dunu Vulcan",
+                "file": "acho/Dunu Vulcan"
+            },
+            {
                 "name": "Effect Audio Axiom",
                 "file": "acho/Effect Audio Axiom"
             },
@@ -19732,6 +19794,10 @@
             {
                 "name": "BLON BL07",
                 "file": "ianfann/BLON BL07"
+            },
+            {
+                "name": "BLON FAT GIRL",
+                "file": "ianfann/BLON FAT GIRL"
             },
             {
                 "name": "BQEYZ AUTUMN (BASS)",
