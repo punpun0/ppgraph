@@ -663,6 +663,10 @@
                 "file": "aftersound/TFZ ESSENCE"
             },
             {
+                "name": "THIEAUDIO ELIXIR",
+                "file": "aftersound/THIEAUDIO ELIXIR"
+            },
+            {
                 "name": "THIEAUDIO LEGACY 3 OFF",
                 "file": "aftersound/THIEAUDIO LEGACY 3 OFF"
             },
@@ -741,6 +745,10 @@
             {
                 "name": "TRIPOWIN OLINA",
                 "file": "aftersound/TRIPOWIN OLINA"
+            },
+            {
+                "name": "TRIPOWIN OLINA VENT COVERED",
+                "file": "aftersound/TRIPOWIN OLINA VENT COVERED"
             },
             {
                 "name": "TRIPOWIN OLINA (TANYA FILTER)",
@@ -1131,6 +1139,10 @@
                 "file": "hbb/55Hz QK"
             },
             {
+                "name": "55Hz 622",
+                "file": "hbb/Tripowin X Hbb Loki"
+            },
+            {
                 "name": "64 Audio Tia Fourte",
                 "file": "hbb/64 Audio Tia Fourte"
             },
@@ -1205,6 +1217,10 @@
             {
                 "name": "Aurisonics ASG 2.5",
                 "file": "hbb/ASG 25"
+            },
+            {
+                "name": "Aurisonics ASG 2.0",
+                "file": "hbb/Aurisonics ASG 2"
             },
             {
                 "name": "Astell & Kern Solaris X",
@@ -1799,6 +1815,10 @@
                 "file": "hbb/Moondrop Chu 3"
             },
             {
+                "name": "Moondrop ARIA Snow",
+                "file": "hbb/Moondrop Aria Snow"
+            },
+            {
                 "name": "MUSE POWER",
                 "file": "hbb/Muse Power"
             },
@@ -1809,6 +1829,10 @@
             {
                 "name": "Noble Audio Sultan",
                 "file": "hbb/Noble Sultan"
+            },
+            {
+                "name": "Noble Audio Kublai Khan",
+                "file": "hbb/Noble Audio Kublai Khan"
             },
             {
                 "name": "NF Audio  NA2",
@@ -1825,6 +1849,10 @@
             {
                 "name": "OPEN AUDIO Mercury",
                 "file": "hbb/Open Audio Mercury"
+            },
+            {
+                "name": "OPEN AUDIO Alkaid",
+                "file": "hbb/Open Audio Alkaid"
             },
             {
                 "name": "Oriolus Trailli",
@@ -1905,6 +1933,14 @@
             {
                 "name": "QKZ ZXDx",
                 "file": "hbb/QKZ ZXD x"
+            },
+            {
+                "name": "QKZ HBB demo",
+                "file": "hbb/55Hz QK"
+            },
+            {
+                "name": "QKZ HBB adjusted",
+                "file": "hbb/QKZ X Hbb"
             },
             {
                 "name": "Raptgo GR-2CP",
@@ -2445,6 +2481,10 @@
             {
                 "name": "Yanyin Moonlight",
                 "file": "hbb/Yanyin Moonlight"
+            },
+            {
+                "name": "Yanyin X HBB Mahina",
+                "file": "hbb/Yanyin X HBB Mahina"
             }
         ]
     },
@@ -2522,6 +2562,10 @@
             {
                 "name": "BLON BL-Max",
                 "file": "pw/BLON BL-Max"
+            },
+            {
+                "name": "BLON Fat Girl",
+                "file": "pw/BLON Fat Girl"
             },
             {
                 "name": "BLON Mini",
@@ -2836,6 +2880,10 @@
                 "file": "pw/KZ EDX Pro"
             },
             {
+                "name": "KZ EDX Ultra",
+                "file": "pw/KZ EDX Ultra"
+            },
+            {
                 "name": "KZ ES4",
                 "file": "pw/KZ ES4"
             },
@@ -3148,6 +3196,19 @@
                 "suffix": [
                     "Stock",
                     "MPonVent"
+                ]
+            },
+            {
+                "name": "Tangzu ShiminLi",
+                "file": [
+                    "pw/Tangzu ShiminLi",
+                    "pw/Tangzu ShiminLi DownUnder",
+                    "pw/Tangzu ShiminLi NoDamper"
+                ],
+                "suffix": [
+                    "Stock",
+                    "DownUnder",
+                    "NoDamper"
                 ]
             },
             {
@@ -3514,6 +3575,10 @@
                     "OFF Old Firmware",
                     "OFF 3E751"
                 ]
+            },
+            {
+                "name": "AstellKern ZERO1",
+                "file": "precog/AK ZERO1"
             },
             {
                 "name": "Audio Lokahi",
@@ -3923,6 +3988,10 @@
                 "file": "precog/Final Audio E500"
             },
             {
+                "name": "Final Audio x Dita Shichiku.Kangen",
+                "file": "precog/Final x Dita Shichiku.Kangen"
+            },
+            {
                 "name": "FLC Technology 8P",
                 "file": [
                     "precog/FLC 8P (Gold)",
@@ -4142,6 +4211,10 @@
             {
                 "name": "Moondrop Aria",
                 "file": "precog/Moondrop Aria"
+            },
+            {
+                "name": "Moondrop Aria Snow",
+                "file": "precog/Moondrop Aria Snow"
             },
             {
                 "name": "Moondrop Blessing",
@@ -6006,7 +6079,8 @@
                 "suffix": [
                     "(sample 1)",
                     "(sample 2)"
-                ]
+                ],
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "64 Audio Duo",
@@ -6238,7 +6312,8 @@
             },
             {
                 "name": "Colorfly Quintet",
-                "file": "mrs/Colorfly Quintet"
+                "file": "mrs/Colorfly Quintet",
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Drop / Massdrop Plus",
@@ -6527,7 +6602,8 @@
                     "(sample 1)",
                     "(sample 2)",
                     "(best of both)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Final Audio A4000",
@@ -6773,7 +6849,8 @@
                     "(tips: stock)",
                     "(tips: E-type TWS)",
                     "(tips: Sedna Light Short)"
-                ]
+                ],
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "Koss KEB90",
@@ -6922,7 +6999,8 @@
                     "(w/ 15 ohm adapter)",
                     "(w/15 ohm adapter + IEMatch+ high)",
                     "(w/ 15 ohm adapter + IEMatch+ ultra)"
-                ]
+                ],
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "MEE Audio M6 Pro 2nd Gen",
@@ -6947,7 +7025,20 @@
             },
             {
                 "name": "Moondrop Aria",
-                "file": "mrs/Moondrop Aria"
+                "file": "mrs/Moondrop Aria",
+                "preferredShop": "Shenzhen Audio"
+            },
+            {
+                "name": "Moondrop Aria: Snow Edition",
+                "file": [
+                    "mrs/Moondrop Aria Snow",
+                    "mrs/Moondrop Aria Snow (Spring)"
+                ],
+                "suffix": [
+                    "(tips: gray)",
+                    "(tips: Spring)"
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop Blessing 2",
@@ -6963,7 +7054,8 @@
             },
             {
                 "name": "Moondrop Blessing 2: Dusk",
-                "file": "mrs/Moondrop Blessing 2 Dusk"
+                "file": "mrs/Moondrop Blessing 2 Dusk",
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop Chu",
@@ -7006,7 +7098,8 @@
                     "(tips: Sedna Light)",
                     "(tips: Spiral Dots)",
                     "(foam filter removed)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop Kanas Pro",
@@ -7021,7 +7114,8 @@
                 "suffix": [
                     "(nozzle: silver)",
                     "(nozzle: gold)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop KXXS",
@@ -7048,11 +7142,13 @@
                     "(EQ: X' Dynamic)",
                     "(EQ: Nobass)",
                     "(EQ: Wennebostel)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop Quarks",
-                "file": "mrs/Moondrop Quarks"
+                "file": "mrs/Moondrop Quarks",
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop S8",
@@ -7098,7 +7194,8 @@
                     "(v1.1.4)",
                     "(v1.1.5)",
                     "(v1.1.7)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop SSP",
@@ -7109,7 +7206,8 @@
                 "suffix": [
                     "(stock)",
                     "(vent blocked)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop SSR",
@@ -7144,7 +7242,8 @@
                     "(S2 + Tanchjim filter)",
                     "(deep insert)",
                     "(S2 + AutoEQ)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Moondrop Stardust",
@@ -7239,13 +7338,15 @@
                     "mrs/QDC Anole VX (000)",
                     "mrs/QDC Anole VX (100)",
                     "mrs/QDC Anole VX (010)",
-                    "mrs/QDC Anole VX (001)"
+                    "mrs/QDC Anole VX (001)",
+                    "mrs/QDC Anole VX (S2 000)"
                 ],
                 "suffix": [
                     "(switches: 000)",
                     "(switches: 100)",
                     "(switches: 010)",
-                    "(switches: 001)"
+                    "(switches: 001)",
+                    "(sample 2 - switches: 000)"
                 ]
             },
             {
@@ -7389,11 +7490,13 @@
             },
             {
                 "name": "Shozy CP",
-                "file": "mrs/Shozy CP"
+                "file": "mrs/Shozy CP",
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "Shozy Rouge",
-                "file": "mrs/Shozy Rouge"
+                "file": "mrs/Shozy Rouge",
+                "preferredShop": "HiFiGo"
             },
             {
                 "name": "Shure SE215",
@@ -7414,7 +7517,8 @@
             },
             {
                 "name": "Softears RSV",
-                "file": "mrs/Softears RSV"
+                "file": "mrs/Softears RSV",
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Softears Volume",
@@ -7437,7 +7541,8 @@
                     "(Apple + 126 ohm)",
                     "(Fiio Q3)",
                     "(Qudelix 5K)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Sony IER-Z1R",
@@ -7511,8 +7616,8 @@
                     "mrs/Sony WF-1000XM4 (EQ - treble boost)",
                     "mrs/Sony WF-1000XM4 (EQ - vocal)",
                     "mrs/Sony WF-1000XM4 (EQ - custom)",
-                    "mrs/Sony WF-1000XM4 (max - EQ - bass boost",
-                    "mrs/Sony WF-1000XM4 (max - EQ - treble boost",
+                    "mrs/Sony WF-1000XM4 (max - EQ - bass boost)",
+                    "mrs/Sony WF-1000XM4 (max - EQ - treble boost)",
                     "mrs/Sony WF-1000XM4 (max - ANC on)",
                     "mrs/Sony WF-1000XM4 (max - ambient on)",
                     "mrs/Sony WF-1000XM4 (max - ANC off)",
@@ -7564,11 +7669,13 @@
                 "suffix": [
                     "(depth 1)",
                     "(depth 2)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Tanchjim Echo",
-                "file": "mrs/Tanchjim Echo"
+                "file": "mrs/Tanchjim Echo",
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Tanchjim Hana",
@@ -7581,11 +7688,13 @@
                     "(tips: stock)",
                     "(tips: Final E-type)",
                     "(tips: Sedna Light)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Tanchjim Hana 2021",
-                "file": "mrs/Tanchjim Hana 2021"
+                "file": "mrs/Tanchjim Hana 2021",
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Tanchjim Ola",
@@ -7602,7 +7711,8 @@
                     "(vent blocked: Blu Tack)",
                     "(S2, filterless)",
                     "(S2, filterless, vent blocked: painters tape)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Tanchjim Oxygen",
@@ -7617,11 +7727,13 @@
                 "suffix": [
                     "(tips: bass)",
                     "(tips: treble)"
-                ]
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Tanchjim Tanya",
-                "file": "mrs/Tanchjim Tanya"
+                "file": "mrs/Tanchjim Tanya",
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Tansio Mirai Spark",
@@ -7663,7 +7775,8 @@
             },
             {
                 "name": "ThieAudio Legacy 2",
-                "file": "mrs/ThieAudio Legacy 2"
+                "file": "mrs/ThieAudio Legacy 2",
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "ThieAudio Legacy 4",
@@ -7676,7 +7789,8 @@
                     "(switch off)",
                     "(switch on)",
                     "(tips: Spring)"
-                ]
+                ],
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "ThieAudio Legacy 5",
@@ -7699,7 +7813,8 @@
                     "(S1 + impedance adapter: 126 ohm)",
                     "(S1 + driver seized)",
                     "(S2 + impedance adapter: 15 ohm)"
-                ]
+                ],
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "ThieAudio Monarch",
@@ -7851,7 +7966,8 @@
             },
             {
                 "name": "Xenns Mangird Tea",
-                "file": "mrs/Xenns Mangird Tea"
+                "file": "mrs/Xenns Mangird Tea",
+                "preferredShop": "Linsoul"
             },
             {
                 "name": "Xenns Mangird Tea 2",
@@ -8134,10 +8250,6 @@
                 "file": "tgx78/Moondrop Kato"
             },
             {
-                "name": "Newbsound 32Pro (Earbuds)",
-                "file": "tgx78/Newbsound 32Pro"
-            },
-            {
                 "name": "NF Audio NM2+",
                 "file": "tgx78/NF Audio NM2"
             },
@@ -8250,8 +8362,8 @@
                 "file": "tgx78/Bt"
             },
             {
-                "name": "tgxear Tantalus (Earbuds Prototype)",
-                "file": "tgx78/Tantalus"
+                "name": "tgxear Tantalus (Earbuds)",
+                "file": "tgx78/Tantan"
             },
             {
                 "name": "tgxear Tio Lake White (Earbuds)",
@@ -8647,6 +8759,10 @@
                 "file": "vortex/SuperEQ Q2 Pro"
             },
             {
+                "name": "Symphonium Audio Triton",
+                "file": "vortex/Symphonium Audio Triton"
+            },
+            {
                 "name": "Tanchjim Ola",
                 "file": "vortex/Tanchjim Ola"
             },
@@ -8657,6 +8773,10 @@
             {
                 "name": "TFZ My Love Edition 2021",
                 "file": "vortex/TFZ My Love Edition 2021"
+            },
+            {
+                "name": "ThieAudio Elixir",
+                "file": "vortex/ThieAudio Elixir"
             },
             {
                 "name": "ThieAudio V16",
@@ -9969,6 +10089,11 @@
             {
                 "name": "64 Audio V2 (1964 Ears)",
                 "file": "crinacle/V2"
+            },
+            {
+                "name": "7Hz Dioko",
+                "collab": "crinacle",
+                "file": "crinacle/Dioko"
             },
             {
                 "name": "7Hz Eternal",
@@ -18185,8 +18310,8 @@
                 "file": "acho/Dunu Titan S"
             },
             {
-                "name": "Dunu Vulcan",
-                "file": "acho/Dunu Vulcan"
+                "name": "Dunu Vulkan",
+                "file": "acho/Dunu Vulkan"
             },
             {
                 "name": "Effect Audio Axiom",
@@ -19588,6 +19713,10 @@
                 "file": "hep/Rose QT9 MK2"
             },
             {
+                "name": "Rose QT9 MK2s",
+                "file": "hep/Rose QT9 MK2s"
+            },
+            {
                 "name": "RY4S MMCX PLUS 32",
                 "file": "hep/RY4S MMCX PLUS 32"
             },
@@ -19640,6 +19769,10 @@
             {
                 "name": "SoundMagic T60BT",
                 "file": "hep/SoundMagic T60BT"
+            },
+            {
+                "name": "SuperTFZ Force1",
+                "file": "hep/SuperTFZ Force1"
             },
             {
                 "name": "Symphonium Audio Helios",
@@ -19812,6 +19945,10 @@
                 "file": "ianfann/BQEYZ AUTUMN (TREBLE)"
             },
             {
+                "name": "BQEYZ TOPAZ",
+                "file": "ianfann/BQEYZ TOPAZ"
+            },
+            {
                 "name": "CAMPFIRE SABER",
                 "file": "ianfann/CAMPFIRE SABER"
             },
@@ -19976,6 +20113,10 @@
                 "file": "ianfann/MOONDROP ARIA"
             },
             {
+                "name": "MOONDROP ARIA SNOW",
+                "file": "ianfann/MOONDROP ARIA SNOW"
+            },
+            {
                 "name": "MOONDROP CHU",
                 "file": "ianfann/MOONDROP CHU"
             },
@@ -20024,6 +20165,10 @@
                 "file": "ianfann/TANCHJIM OLA"
             },
             {
+                "name": "TANGZU SHIMINLI",
+                "file": "ianfann/TANGZU SHIMINLI"
+            },
+            {
                 "name": "TINHIFI T3+",
                 "file": "ianfann/TINHIFI T3+"
             },
@@ -20058,6 +20203,10 @@
             {
                 "name": "TRIPOWIN TC01",
                 "file": "ianfann/TRIPOWIN TC01"
+            },
+            {
+                "name": "TRN KIRIN",
+                "file": "ianfann/TRN KIRIN"
             },
             {
                 "name": "TRN MT1 PRO",
@@ -20513,6 +20662,10 @@
                 "file": "melatonin/WF1000XM4"
             },
             {
+                "name": "SeeAudio BRAVERY ALE",
+                "file": "melatonin/SeeAudio BRAVERY ALE"
+            },
+            {
                 "name": "SOUNDPEATS Q35+",
                 "file": "melatonin/SOUNDPEATS Q35+"
             },
@@ -20791,12 +20944,14 @@
                 "file": [
                     "nymz/Shuoer EJ07m KL",
                     "nymz/Shuoer EJ07m KL Resin",
+                    "nymz/Shuoer EJ07m KL Resin Com",
                     "nymz/Shuoer EJ07m KL Comply"
                 ],
                 "suffix": [
                     "(Metallic Shell)",
                     "(Resin Shell)",
-                    "(Comply Foams)"
+                    "(Resin Shell + Comply Foams)",
+                    "(Metallic Shell + Comply Foams)"
                 ]
             },
             {
@@ -20835,8 +20990,8 @@
                     "nymz/Softears Volume Tanya"
                 ],
                 "suffix": [
-                    "(stock)",
-                    "(Gryphon)",
+                    "(Topping NX7/L30)",
+                    "(iFi xDSD Gryphon)",
                     "(Comply Foams)",
                     "(Tanya Filters - Gryphon)",
                     "(Tanya Filters)"
