@@ -507,6 +507,10 @@
                 "file": "aftersound/MUSEHIFI POWER"
             },
             {
+                "name": "NFAUDIO NM2",
+                "file": "aftersound/NFAUDIO NM2"
+            },
+            {
                 "name": "NICEHCK DB3",
                 "file": "aftersound/NICEHCK DB3"
             },
@@ -849,6 +853,10 @@
                 "file": "bedrock/CCA C10 Pro"
             },
             {
+                "name": "CCA CRA+",
+                "file": "bedrock/CCA CRA+"
+            },
+            {
                 "name": "CCA CSN",
                 "file": "bedrock/CCA CSN"
             },
@@ -876,6 +884,10 @@
             {
                 "name": "Dunu Titan S",
                 "file": "bedrock/Dunu Titan S"
+            },
+            {
+                "name": "Dunu Vulkan",
+                "file": "bedrock/Dunu Vulkan"
             },
             {
                 "name": "EZAudio D4 (Modded)",
@@ -1169,6 +1181,18 @@
             {
                 "name": "7Hz Timeless",
                 "file": "hbb/7Hz Planar"
+            },
+            {
+                "name": "7Hz Sample",
+                "file": "hbb/7Hz Sample"
+            },
+            {
+                "name": "7Hz Sample Shallow",
+                "file": "hbb/7Hz Sample Shal"
+            },
+            {
+                "name": "7Hz Sample Medium",
+                "file": "hbb/7Hz Sample Med"
             },
             {
                 "name": "7Hz Timeless (no filter)",
@@ -3310,6 +3334,19 @@
                 "file": "pw/TRN IM2"
             },
             {
+                "name": "TRN Kirin",
+                "file": [
+                    "pw/TRN Kirin Reference",
+                    "pw/TRN Kirin Transparent",
+                    "pw/TRN Kirin Atmosphere"
+                ],
+                "suffix": [
+                    "Reference",
+                    "Transparent",
+                    "Atmosphere"
+                ]
+            },
+            {
                 "name": "TRN MT1",
                 "file": "pw/TRN MT1v2"
             },
@@ -3552,6 +3589,10 @@
                     "M15",
                     "M20"
                 ]
+            },
+            {
+                "name": "7Hz Dioko",
+                "file": "precog/7Hz Dioko"
             },
             {
                 "name": "7Hz Eternal",
@@ -4207,6 +4248,10 @@
                     "Normal",
                     "Vent Blocked"
                 ]
+            },
+            {
+                "name": "MiM Dark Magician V2",
+                "file": "precog/MiM Dark Magician V2"
             },
             {
                 "name": "Moondrop Aria",
@@ -6071,6 +6116,16 @@
         "name": "Super* Review",
         "phones": [
             {
+                "name": "7Hz Salnotes Dioko",
+                "file": [
+                    "mrs/7Hz Dioko"
+                ],
+                "suffix": [
+                    "(defect)"
+                ],
+                "preferredShop": "Linsoul"
+            },
+            {
                 "name": "7Hz Timeless",
                 "file": [
                     "mrs/7Hz Timeless",
@@ -6277,6 +6332,10 @@
             {
                 "name": "Campfire Audio Ara",
                 "file": "mrs/Campfire Audio Ara"
+            },
+            {
+                "name": "Campfire Audio Dorado 2020",
+                "file": "mrs/Campfire Audio Dorado 2020"
             },
             {
                 "name": "Campfire Audio Onyx",
@@ -18773,6 +18832,10 @@
             {
                 "name": "Vision Ears Elysium",
                 "file": "elise/Vision Ears Elysium"
+            },
+            {
+                "name": "Westone Mach 60",
+                "file": "elise/Westone Mach 60"
             }
         ]
     },
