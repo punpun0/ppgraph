@@ -131,8 +131,16 @@
                 "file": "aftersound/BINARYACOUSTIC VOID"
             },
             {
+                "name": "BLON FAT GIRL",
+                "file": "aftersound/BLON FAT GIRL"
+            },
+            {
                 "name": "BLON BL03",
                 "file": "aftersound/BLON BL03"
+            },
+            {
+                "name": "BLON BL07",
+                "file": "aftersound/BLON BL07"
             },
             {
                 "name": "BLON MINI",
@@ -237,6 +245,14 @@
             {
                 "name": "FIIO F1",
                 "file": "aftersound/FIIO F1"
+            },
+            {
+                "name": "FIIO JD3",
+                "file": "aftersound/FIIO JD3"
+            },
+            {
+                "name": "FIIO JH3",
+                "file": "aftersound/FIIO JH3"
             },
             {
                 "name": "FIIO FD5 LARGE NOZZLE",
@@ -1183,16 +1199,8 @@
                 "file": "hbb/7Hz Planar"
             },
             {
-                "name": "7Hz Sample",
-                "file": "hbb/7Hz Sample"
-            },
-            {
-                "name": "7Hz Sample Shallow",
-                "file": "hbb/7Hz Sample Shal"
-            },
-            {
-                "name": "7Hz Sample Medium",
-                "file": "hbb/7Hz Sample Med"
+                "name": "7Hz X Crinacle Dioko",
+                "file": "hbb/7Hz Dioko"
             },
             {
                 "name": "7Hz Timeless (no filter)",
@@ -1225,6 +1233,10 @@
             {
                 "name": "Acoustune RS ONE (Foam mod)",
                 "file": "hbb/Acoustine RS ONE (Foam)"
+            },
+            {
+                "name": "AKG 371",
+                "file": "hbb/AKG 371"
             },
             {
                 "name": "AROMA AUDIO JEWEL",
@@ -1337,6 +1349,10 @@
             {
                 "name": "BQEYZ Autumn Treble",
                 "file": "hbb/BQEYZ Autumn Treble"
+            },
+            {
+                "name": "BQEYZ Topaz",
+                "file": "hbb/BQEYZ Topaz"
             },
             {
                 "name": "Cat Ears Mia",
@@ -1767,6 +1783,14 @@
                 "file": "hbb/KZ EDA Resolution"
             },
             {
+                "name": "KZ ESX",
+                "file": "hbb/KZ ESX"
+            },
+            {
+                "name": "Leisurely Audio L8",
+                "file": "hbb/Leisurely Audio L8"
+            },
+            {
                 "name": "LZ Hifi A7 gold",
                 "file": "hbb/LZ A7 Gold"
             },
@@ -1921,6 +1945,10 @@
             {
                 "name": "QoA Mojito",
                 "file": "hbb/QoA Mojito"
+            },
+            {
+                "name": "QoA Margarita",
+                "file": "hbb/QOA Margarita"
             },
             {
                 "name": "QKZ VK4",
@@ -2205,6 +2233,10 @@
             {
                 "name": "Tansio Mirai TSMR 8 (Bass)",
                 "file": "hbb/TSMR 8 Bass"
+            },
+            {
+                "name": "Tansio Mirai TSMR SANDS (020)",
+                "file": "hbb/Tansio Mirai Sands 020"
             },
             {
                 "name": "TFZ LIVE 3",
@@ -2508,7 +2540,7 @@
             },
             {
                 "name": "Yanyin X HBB Mahina",
-                "file": "hbb/Yanyin X HBB Mahina"
+                "file": "hbb/Yanyin X HBB Final"
             }
         ]
     },
@@ -2537,16 +2569,20 @@
                 ]
             },
             {
-                "name": "Audio Lokahi 7BA",
-                "file": "pw/Audio Lokahi 7BAv2"
-            },
-            {
                 "name": "Astrotec Vesna",
                 "file": "pw/Astrotec Vesna"
             },
             {
+                "name": "Audio Lokahi 7BA",
+                "file": "pw/Audio Lokahi 7BAv2"
+            },
+            {
                 "name": "AudioSense T100",
                 "file": "pw/Audiosense T100"
+            },
+            {
+                "name": "AXS Audio Pro Earbuds TWS",
+                "file": "pw/AXS Audio Pro Earbuds"
             },
             {
                 "name": "BGVP DM6",
@@ -2602,6 +2638,10 @@
             {
                 "name": "BQEYZ Summer",
                 "file": "pw/BQEYZ Summer"
+            },
+            {
+                "name": "BQEYZ Topaz",
+                "file": "pw/BQEYZ Topaz"
             },
             {
                 "name": "CCA C10 Pro",
@@ -3045,6 +3085,19 @@
                 "file": "pw/Moondrop A8"
             },
             {
+                "name": "Moondrop Aria Snow Edition",
+                "file": [
+                    "pw/Moondrop Aria Snow",
+                    "pw/Moondrop Aria Snow MP",
+                    "pw/Moondrop Aria Snow NoFoam"
+                ],
+                "suffix": [
+                    "Stock",
+                    "Micropore on Vent",
+                    "Foam Removed"
+                ]
+            },
+            {
                 "name": "Moondrop Chu",
                 "file": [
                     "pw/Moondrop Chu",
@@ -3286,7 +3339,8 @@
                     "pw/Tripowin Olina Dual",
                     "pw/Tripowin Olina Dual Open",
                     "pw/Tripowin Olina 1TanyaMP",
-                    "pw/Tripowin Olina NoFilter"
+                    "pw/Tripowin Olina NoFilter",
+                    "pw/Tripowin Olina HighDensity Foam OlinaD"
                 ],
                 "suffix": [
                     "Stock",
@@ -3297,7 +3351,8 @@
                     "Dual Damper",
                     "Dual Damper Open Vent",
                     "1Tanya MP on Vent",
-                    "No Filter"
+                    "No Filter",
+                    "HighDensityFoam OlinaDamper"
                 ]
             },
             {
@@ -4133,6 +4188,10 @@
             {
                 "name": "Ikko Gems OH1s",
                 "file": "precog/Ikko Gems OH1s"
+            },
+            {
+                "name": "INM Audio INM4",
+                "file": "precog/INM Audio INM4"
             },
             {
                 "name": "Intime Sora",
@@ -6434,8 +6493,7 @@
                     "(sample 2, tips: gray)",
                     "(sample 2, tips: red)",
                     "(sample 1)"
-                ],
-                "preferredShop": "HiFiGo"
+                ]
             },
             {
                 "name": "Dunu Zen",
@@ -7103,11 +7161,13 @@
                 "name": "Moondrop Blessing 2",
                 "file": [
                     "mrs/Moondrop Blessing 2",
-                    "mrs/Moondrop Blessing 2 (Moondrop filter)"
+                    "mrs/Moondrop Blessing 2 (Moondrop filter)",
+                    "mrs/Moondrop Blessing 2 (E-type)"
                 ],
                 "suffix": [
                     "(no filter)",
-                    "(w/ Moondrop filter)"
+                    "(w/ Moondrop filter)",
+                    "(tips: E-type)"
                 ],
                 "preferredShop": "Shenzhen Audio"
             },
@@ -8502,6 +8562,10 @@
                 "file": "vortex/7hz Timeless"
             },
             {
+                "name": "7hz x Crinacle Dioko",
+                "file": "vortex/7hz x Crinacle Dioko"
+            },
+            {
                 "name": "AuR Audio Neon",
                 "file": "vortex/AuR Audio Neon"
             },
@@ -8806,6 +8870,10 @@
                 "file": "vortex/Raptgo Hook"
             },
             {
+                "name": "Seek Real Airship",
+                "file": "vortex/Seek Real Airship"
+            },
+            {
                 "name": "Softears RSV",
                 "file": "vortex/Softears RSV"
             },
@@ -8824,6 +8892,10 @@
             {
                 "name": "Tanchjim Ola",
                 "file": "vortex/Tanchjim Ola"
+            },
+            {
+                "name": "Tangzu Shimin Li",
+                "file": "vortex/Tangzu Shimin Li"
             },
             {
                 "name": "TFZ Live 3",
@@ -18341,6 +18413,10 @@
                 "file": "acho/Blon BL05s"
             },
             {
+                "name": "Blon Fat Girl",
+                "file": "acho/Blon Fat Girl"
+            },
+            {
                 "name": "Blon T1",
                 "file": "acho/Blon T1"
             },
@@ -18585,6 +18661,10 @@
                 "file": "acho/Reecho SG03"
             },
             {
+                "name": "Seek Real Airship",
+                "file": "acho/Seek Real Airship"
+            },
+            {
                 "name": "SeeAudio Yume Midnight",
                 "file": "acho/SeeAudio Yume Midnight"
             },
@@ -18611,6 +18691,10 @@
             {
                 "name": "Tanchjim Ola",
                 "file": "acho/Tanchjim Ola"
+            },
+            {
+                "name": "Tangzu Shimin Li",
+                "file": "acho/Tangzu Shimin Li"
             },
             {
                 "name": "Thieaudio Legacy 2",
@@ -19404,6 +19488,10 @@
                 "file": "hep/BQEYZ Summer"
             },
             {
+                "name": "BQEYZ Topaz",
+                "file": "hep/BQEYZ Topaz"
+            },
+            {
                 "name": "Cozoy Hera C103",
                 "file": "hep/Cozoy Hera C103"
             },
@@ -19545,6 +19633,10 @@
             {
                 "name": "ISN Rambo II",
                 "file": "hep/ISN Rambo II"
+            },
+            {
+                "name": "JH Audio TriFi 10th Anniversary ",
+                "file": "hep/JH TriFi"
             },
             {
                 "name": "KBEAR KB04",
@@ -19740,8 +19832,8 @@
                 "file": "hep/Paiaduio DR2"
             },
             {
-                "name": "Penon Globe",
-                "file": "hep/Penon Globe"
+                "name": "Penon GLOBE",
+                "file": "hep/Penon GLOBE"
             },
             {
                 "name": "Penon ORB",
@@ -19902,48 +19994,51 @@
                 "file": "hep/Tri Meteor"
             },
             {
-                "name": "Tronsmart Apollo Bold",
+                "name": "TRN Kirin Atmospheric Inmersion",
+                "file": [
+                    "hep/TRN Kirin Atmospheric"
+                ]
+            },
+            {
+                "name": "TRN Kirin Reference",
+                "file": [
+                    "hep/TRN Kirin Reference"
+                ]
+            },
+            {
+                "name": "TRN Kirin Transparency",
+                "file": [
+                    "hep/TRN Kirin Transparency"
+                ]
+            },
+            {
+                "name": "Tronsmart Apollo Bold NORMAL",
                 "file": [
                     "hep/Tronsmart Apollo Bold"
-                ],
-                "suffix": [
-                    "(NORMAL)"
                 ]
             },
             {
-                "name": "Tronsmart Apollo Bold",
+                "name": "Tronsmart Apollo Bold CLASSIC",
                 "file": [
                     "hep/Tronsmart Apollo Bold CLASSIC"
-                ],
-                "suffix": [
-                    "(CLASSIC)"
                 ]
             },
             {
-                "name": "Tronsmart Apollo Bold",
+                "name": "Tronsmart Apollo Bold JAZZ",
                 "file": [
                     "hep/Tronsmart Apollo Bold JAZZ"
-                ],
-                "suffix": [
-                    "(JAZZ)"
                 ]
             },
             {
-                "name": "Tronsmart Apollo Bold",
+                "name": "Tronsmart Apollo Bold POP",
                 "file": [
                     "hep/Tronsmart Apollo Bold POP"
-                ],
-                "suffix": [
-                    "(POP)"
                 ]
             },
             {
-                "name": "Tronsmart Apollo Bold",
+                "name": "Tronsmart Apollo Bold ROCK",
                 "file": [
                     "hep/Tronsmart Apollo Bold ROCK"
-                ],
-                "suffix": [
-                    "(ROCK)"
                 ]
             },
             {
@@ -19970,6 +20065,10 @@
             {
                 "name": "EARBUDS LBBS",
                 "file": "ianfann/EARBUDS - LBBS"
+            },
+            {
+                "name": "7HZ DIOKO CRINACLE",
+                "file": "ianfann/7HZ DIOKO"
             },
             {
                 "name": "AUDIOSENSE DT300",
@@ -20216,6 +20315,22 @@
                 "file": "ianfann/QOA PROTOTYPE 2"
             },
             {
+                "name": "REVONEXT RH-215",
+                "file": "ianfann/REVONEXT RH-215"
+            },
+            {
+                "name": "ROSE TECHNIC AURA EVO",
+                "file": "ianfann/ROSE TECHNIC AURA EVO"
+            },
+            {
+                "name": "ROSE TECHNIC PHOTON",
+                "file": "ianfann/ROSE TECHNIC PHOTON"
+            },
+            {
+                "name": "SEEK REAL AIRSHIP",
+                "file": "ianfann/SEEK REAL AIRSHIP"
+            },
+            {
                 "name": "SENNHAISER IE800",
                 "file": "ianfann/SENNHAISER IE800"
             },
@@ -20232,12 +20347,16 @@
                 "file": "ianfann/TANGZU SHIMINLI"
             },
             {
+                "name": "TINHIFI T1S",
+                "file": "ianfann/TINHIFI T1S"
+            },
+            {
                 "name": "TINHIFI T3+",
                 "file": "ianfann/TINHIFI T3+"
             },
             {
-                "name": "TINHIFI T1S",
-                "file": "ianfann/TINHIFI T1S"
+                "name": "TINHIFI TINBUDS 3",
+                "file": "ianfann/TINHIFI TINBUDS 3"
             },
             {
                 "name": "TRI I3 PRO",
@@ -20969,6 +21088,25 @@
                 ]
             },
             {
+                "name": "Oriveti O400",
+                "file": "nymz/Oriveti O400"
+            },
+            {
+                "name": "Oriveti OV800",
+                "file": [
+                    "nymz/Oriveti OV800 00",
+                    "nymz/Oriveti OV800 10",
+                    "nymz/Oriveti OV800 11",
+                    "nymz/Oriveti OV800 01"
+                ],
+                "suffix": [
+                    "(00 - Normal)",
+                    "(10 - Bass Switch)",
+                    "(11 - Bass + Treble Switch)",
+                    "(01 - Treble Switch)"
+                ]
+            },
+            {
                 "name": "Penon Serial",
                 "file": [
                     "nymz/Penon Serial S2",
@@ -20986,12 +21124,16 @@
             {
                 "name": "Sennheiser IE600",
                 "file": [
-                    "nymz/Sennheiser IE600",
-                    "nymz/Sennheiser IE600 Final E"
+                    "nymz/Sennheiser IE600 S1",
+                    "nymz/Sennheiser IE600 S2",
+                    "nymz/Sennheiser IE600 Final E",
+                    "nymz/Sennheiser IE600 Foams"
                 ],
                 "suffix": [
-                    "(stock silicone tips)",
-                    "(Final E tips)"
+                    "(Sample 1)",
+                    "(Sample 2)",
+                    "(Final E tips)",
+                    "(Stock Foam tips)"
                 ]
             },
             {
