@@ -2007,6 +2007,10 @@
                 "file": "hbb/Raptgo Hook X"
             },
             {
+                "name": "Raptgo Leaf",
+                "file": "hbb/Raptgo Leaf"
+            },
+            {
                 "name": "Raptgo HOOK X Closed Back",
                 "file": "hbb/Raptgo Hook X Closed Back"
             },
@@ -2121,6 +2125,14 @@
             {
                 "name": "Shuoer S12",
                 "file": "hbb/Shuoer S12"
+            },
+            {
+                "name": "Shuoer Z12",
+                "file": "hbb/Shuoer Z12"
+            },
+            {
+                "name": "Shuoer SB S12",
+                "file": "hbb/Shuoer SB S12"
             },
             {
                 "name": "Shuoer Soloist",
@@ -2560,12 +2572,16 @@
                 "file": [
                     "pw/7Hz Timeless S2",
                     "pw/7Hz Timeless S2 25ohm",
-                    "pw/7Hz Timeless S2 75ohm"
+                    "pw/7Hz Timeless S2 75ohm",
+                    "pw/7Hz Timeless S2 MPFront",
+                    "pw/7Hz Timeless S2 MPBack"
                 ],
                 "suffix": [
                     "Stock",
                     "25ohm",
-                    "75ohm"
+                    "75ohm",
+                    "Micropore on Front",
+                    "Micropore on Back"
                 ]
             },
             {
@@ -2699,6 +2715,19 @@
             {
                 "name": "CCA CX4 TWS",
                 "file": "pw/CCA CX4"
+            },
+            {
+                "name": "CCA Lyra",
+                "file": [
+                    "pw/CCA Lyra",
+                    "pw/CCA Lyra Y2",
+                    "pw/CCA Lyra Y1"
+                ],
+                "suffix": [
+                    "Stock",
+                    "3mm Y2 on Mesh",
+                    "3mm Y1 on Mesh"
+                ]
             },
             {
                 "name": "CCA NRA",
@@ -3089,12 +3118,14 @@
                 "file": [
                     "pw/Moondrop Aria Snow",
                     "pw/Moondrop Aria Snow MP",
-                    "pw/Moondrop Aria Snow NoFoam"
+                    "pw/Moondrop Aria Snow NoFoam",
+                    "pw/Moondrop Aria Snow NoFoam MP"
                 ],
                 "suffix": [
                     "Stock",
                     "Micropore on Vent",
-                    "Foam Removed"
+                    "Foam Removed",
+                    "Foam Removed with MP"
                 ]
             },
             {
@@ -3242,11 +3273,15 @@
                 "name": "Tanchjim Tanya",
                 "file": [
                     "pw/Tanchjim Tanyav2",
-                    "pw/Tanchjim Tanya Olina"
+                    "pw/Tanchjim Tanya Olina",
+                    "pw/Tanchjim Tanya OpenBack",
+                    "pw/Tanchjim Tanya OpenBack Olina"
                 ],
                 "suffix": [
                     "Stock",
-                    "Olina"
+                    "Olina",
+                    "Open Back",
+                    "Open Back with Olina Filter"
                 ]
             },
             {
@@ -3646,8 +3681,12 @@
                 ]
             },
             {
-                "name": "7Hz Dioko",
+                "name": "7Hz Dioko (Wrong Filter)",
                 "file": "precog/7Hz Dioko"
+            },
+            {
+                "name": "7Hz Dioko",
+                "file": "precog/7Hz Dioko (Correct)"
             },
             {
                 "name": "7Hz Eternal",
@@ -4621,6 +4660,10 @@
                 "file": "precog/Shanling ME800"
             },
             {
+                "name": "Shuoer D13",
+                "file": "precog/Shuoer D13"
+            },
+            {
                 "name": "Shuoer EJ07",
                 "file": "precog/Shuoer EJ07"
             },
@@ -5259,6 +5302,23 @@
                 ]
             },
             {
+                "name": "DIY 10mm Bio",
+                "file": [
+                    "rg/10mm Bio V1",
+                    "rg/10mm Bio V2",
+                    "rg/10mm Bio V3",
+                    "rg/10mm Bio V4",
+                    "rg/10mm Bio V5"
+                ],
+                "suffix": [
+                    "(V1)",
+                    "(V2)",
+                    "(V3)",
+                    "(V4)",
+                    "(V5)"
+                ]
+            },
+            {
                 "name": "Dunu EST112",
                 "file": [
                     "rg/Dunu EST112",
@@ -5277,11 +5337,23 @@
                 "name": "Dunu Falcon Pro",
                 "file": [
                     "rg/Dunu Falcon Pro (Transparent filter)",
+                    "rg/Dunu Falcon Pro (Transparent filter, 2 outer vent blutack, high-density tuning foam)",
+                    "rg/Dunu Falcon Pro (Transparent filter, 2 outer vent blutack, low-density tuning foam)",
+                    "rg/Dunu Falcon Pro (Transparent filter, 2 outer vent blutack, 1 inner vent blutack, low-density tuning foam)",
+                    "rg/Dunu Falcon Pro (Transparent filter, 2 outer vent 500 WTF, 1 inner vent 500 WTF, low-density tuning foam)",
+                    "rg/Dunu Falcon Pro (Transparent filter, 2 outer vent PK foam, low-density tuning foam)",
+                    "rg/Dunu Falcon Pro (Transparent filter, 2 outer vent PK foam, high-density tuning foam)",
                     "rg/Dunu Falcon Pro (Reference filter)",
                     "rg/Dunu Falcon Pro (Atmospheric Immersion filter)"
                 ],
                 "suffix": [
                     "(Transparent filter)",
+                    "(Transparent filter, 2 outer vent blutack, high-density tuning foam)",
+                    "(Transparent filter, 2 outer vent blutack, low-density tuning foam)",
+                    "(Transparent filter, 2 outer vent blutack, 1 inner vent blutack, low-density tuning foam)",
+                    "(Transparent filter, 2 outer vent 500 WTF, 1 inner vent 500 WTF, low-density tuning foam)",
+                    "(Transparent filter, 2 outer vent PK foam, low-density tuning foam)",
+                    "(Transparent filter, 2 outer vent PK foam, high-density tuning foam)",
                     "(Reference filter)",
                     "(Atmospheric Immersion filter)"
                 ]
@@ -6761,49 +6833,28 @@
                 "file": "mrs/Final VR3000"
             },
             {
-                "name": "FLC 8P (golden nozzle)",
+                "name": "FLC 8P",
                 "file": [
+                    "mrs/FLC 8P (gold-gray-gunmetal)",
                     "mrs/FLC 8P (gold-black-gunmetal)",
                     "mrs/FLC 8P (gold-black-red)",
-                    "mrs/FLC 8P (gold-gray-gunmetal)",
                     "mrs/FLC 8P (gold-white-gunmetal)",
-                    "mrs/FLC 8P (gold-white-transparent)"
-                ],
-                "suffix": [
-                    "golden / black / gunmetal",
-                    "golden / black / red",
-                    "golden / gray / gunmetal (stock)",
-                    "golden / white / gunmetal",
-                    "golden / white / transparent"
-                ]
-            },
-            {
-                "name": "FLC 8P (green nozzle)",
-                "file": [
-                    "mrs/FLC 8P (green-gray-gunmetal)"
-                ],
-                "suffix": [
-                    "green / gray / gunmetal"
-                ]
-            },
-            {
-                "name": "FLC 8P (gunmetal nozzle)",
-                "file": [
+                    "mrs/FLC 8P (gold-white-transparent)",
+                    "mrs/FLC 8P (green-gray-gunmetal)",
                     "mrs/FLC 8P (gunmetal-black-gunmetal)",
-                    "mrs/FLC 8P (gunmetal-gray-gunmetal)"
-                ],
-                "suffix": [
-                    "gunmetal / black / gunmetal",
-                    "gunmetal / gray / gunmetal"
-                ]
-            },
-            {
-                "name": "FLC 8P (silver nozzle)",
-                "file": [
+                    "mrs/FLC 8P (gunmetal-gray-gunmetal)",
                     "mrs/FLC 8P (silver-gray-gunmetal)"
                 ],
                 "suffix": [
-                    "silver / gray / gunmetal"
+                    "golden / gray / gunmetal) (stock)",
+                    "(golden / black / gunmetal)",
+                    "(golden / black / red",
+                    "(golden / white / gunmetal)",
+                    "(golden / white / transparent)",
+                    "(green / gray / gunmetal)",
+                    "(gunmetal / black / gunmetal)",
+                    "(gunmetal / gray / gunmetal)",
+                    "(silver / gray / gunmetal)"
                 ]
             },
             {
@@ -7061,6 +7112,19 @@
                 "file": "mrs/KZ (avg)"
             },
             {
+                "name": "Letshuoer D13",
+                "file": [
+                    "mrs/Letshuoer D13 (silver)",
+                    "mrs/Letshuoer D13 (gold)",
+                    "mrs/Letshuoer D13 (pre-prod - nozzle A)"
+                ],
+                "suffix": [
+                    "(nozzle: silver)",
+                    "(nozzle: gold)",
+                    "(pre-production)"
+                ]
+            },
+            {
                 "name": "Letshuoer EJ07M",
                 "file": "mrs/Letshuoer EJ07M"
             },
@@ -7139,6 +7203,10 @@
             {
                 "name": "Mi True Wireless Earbuds Basic 2",
                 "file": "mrs/Mi True Wireless Earbuds Basic 2"
+            },
+            {
+                "name": "MiM Audio Dark Magician (Revised)",
+                "file": "mrs/MiM Dark Magician Revised"
             },
             {
                 "name": "Moondrop Aria",
@@ -8028,6 +8096,11 @@
                 ]
             },
             {
+                "name": "Tin Hifi Tin Buds 3",
+                "file": "mrs/Tin Hifi Tin Buds 3",
+                "preferredShop": "Linsoul"
+            },
+            {
                 "name": "Tripowin Lea",
                 "file": "mrs/Tripowin Lea"
             },
@@ -8111,17 +8184,6 @@
             {
                 "name": "Project HRP",
                 "file": "mrs/Project HRP"
-            },
-            {
-                "name": "Project Pre-Prod 03",
-                "file": [
-                    "mrs/Pre-Prod 03 (nozzle A)",
-                    "mrs/Pre-Prod 03 (nozzle B)"
-                ],
-                "suffix": [
-                    "(nozzle: A)",
-                    "(nozzle: B)"
-                ]
             }
         ]
     },
@@ -8395,6 +8457,10 @@
             {
                 "name": "Penon Volt",
                 "file": "tgx78/Penon Volt"
+            },
+            {
+                "name": "Penon Vortex",
+                "file": "tgx78/Penon Vortex"
             },
             {
                 "name": "PMV PP",
@@ -8722,6 +8788,10 @@
                 "file": "vortex/Hidizs MM2 Treble"
             },
             {
+                "name": "Hisenior T2",
+                "file": "vortex/Hisenior T2"
+            },
+            {
                 "name": "HZSOUND Heart Mirror",
                 "file": "vortex/HZSOUND Heart Mirror"
             },
@@ -8928,6 +8998,10 @@
             {
                 "name": "Tin Hifi T3 Plus",
                 "file": "vortex/Tin Hifi T3 Plus"
+            },
+            {
+                "name": "Tin Hifi Tin Buds 3",
+                "file": "vortex/Tin Hifi Tin Buds 3"
             },
             {
                 "name": "TKZK Wave",
@@ -10224,7 +10298,16 @@
             {
                 "name": "7Hz Dioko",
                 "collab": "crinacle",
-                "file": "crinacle/Dioko"
+                "file": [
+                    "crinacle/Dioko S1",
+                    "crinacle/Dioko S2",
+                    "crinacle/Dioko"
+                ],
+                "suffix": [
+                    "S1",
+                    "S2",
+                    "Prototype"
+                ]
             },
             {
                 "name": "7Hz Eternal",
@@ -14311,6 +14394,10 @@
                 "file": "crinacle/Azul"
             },
             {
+                "name": "Project Null",
+                "file": "crinacle/Null"
+            },
+            {
                 "name": "QCY T5",
                 "file": "crinacle/T5"
             },
@@ -17712,6 +17799,18 @@
                 "file": "asp/1more EVO NC"
             },
             {
+                "name": "64Audio U6t (m20)",
+                "file": "asp/U6t m20"
+            },
+            {
+                "name": "64Audio U6t (m15)",
+                "file": "asp/U6t m15"
+            },
+            {
+                "name": "64Audio U6t (mX)",
+                "file": "asp/U6t mX"
+            },
+            {
                 "name": "AceFast Active T2 (normal)",
                 "file": "asp/AceFast Active T2"
             },
@@ -18020,6 +18119,10 @@
                 "file": "asp/Liberfeel T8"
             },
             {
+                "name": "Lypertek LEVI",
+                "file": "asp/Lypertek LEVI"
+            },
+            {
                 "name": "MacaW GT600s (Silver)",
                 "file": "asp/MacaW GT600s S"
             },
@@ -18132,8 +18235,16 @@
                 "file": "asp/SeeAudio Bravery"
             },
             {
+                "name": "Shuoer S12",
+                "file": "asp/Shuoer S12"
+            },
+            {
                 "name": "Shure AONIC 3",
                 "file": "asp/Shure AONIC 3"
+            },
+            {
+                "name": "Shure AONIC 5",
+                "file": "asp/AONIC 5"
             },
             {
                 "name": "SonicMemory SM2",
@@ -18250,6 +18361,10 @@
             {
                 "name": "Tranya T10-B (Bass Boost)",
                 "file": "asp/Tranya T10-B BB"
+            },
+            {
+                "name": "Tranya T30",
+                "file": "asp/Tranya T30"
             },
             {
                 "name": "Tripowin Lea",
@@ -18393,8 +18508,13 @@
                 "file": "acho/7Hz Timeless"
             },
             {
-                "name": "Audeze iSine LX (Spinfit)",
-                "file": "acho/Audeze iSine LX (Spinfit)"
+                "name": "Audeze iSine LX",
+                "file": [
+                    "acho/Audeze iSine LX (Spinfit)"
+                ],
+                "suffix": [
+                    "(Spinfit Tips)"
+                ]
             },
             {
                 "name": "Aune Jasper",
@@ -18473,12 +18593,15 @@
                 "file": "acho/ITK Unknown"
             },
             {
-                "name": "KBEAR Lark (Sample 1)",
-                "file": "acho/KBEAR Lark (S1)"
-            },
-            {
-                "name": "KBEAR Lark (Sample 2)",
-                "file": "acho/KBEAR Lark (S2)"
+                "name": "KBEAR Lark",
+                "file": [
+                    "acho/KBEAR Lark (S1)",
+                    "acho/KBEAR Lark (S2)"
+                ],
+                "suffix": [
+                    "(Sample 1)",
+                    "(Sample 2)"
+                ]
             },
             {
                 "name": "KBEAR Robin",
@@ -18553,60 +18676,46 @@
                 "file": "acho/KZ ZST X"
             },
             {
-                "name": "Letshuoer S12 (Sample 1)",
-                "file": "acho/Letshuoer S12 (Sample 1)"
+                "name": "Letshuoer S12",
+                "file": [
+                    "acho/Letshuoer S12 (S1)",
+                    "acho/Letshuoer S12 (S2)"
+                ],
+                "suffix": [
+                    "(Sample 1)",
+                    "(Sample 2)"
+                ]
             },
             {
-                "name": "Letshuoer S12 (Sample 2)",
-                "file": "acho/Letshuoer S12 (Sample 2)"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Blk Fil.Blk)",
-                "file": "acho/LZ A4 Pro NzBlk FiBlk"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Blk Fil.Blu)",
-                "file": "acho/LZ A4 Pro NzBlk FiBlu"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Blk Fil.Red)",
-                "file": "acho/LZ A4 Pro NzBlk FiRed"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Blu Fil.Blk)",
-                "file": "acho/LZ A4 Pro NzBlu FiBlk"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Blu Fil.Blu)",
-                "file": "acho/LZ A4 Pro NzBlu FiBlu"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Blu Fil.Red)",
-                "file": "acho/LZ A4 Pro NzBlu FiRed"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Red Fil.Blk)",
-                "file": "acho/LZ A4 Pro NzRed FiBlk"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Red Fil.Blu)",
-                "file": "acho/LZ A4 Pro NzRed FiBlu"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Red Fil.Red)",
-                "file": "acho/LZ A4 Pro NzRed FiRed"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Sil Fil.Blk)",
-                "file": "acho/LZ A4 Pro NzSil FiBlk"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Sil Fil.Blu)",
-                "file": "acho/LZ A4 Pro NzSil FiBlu"
-            },
-            {
-                "name": "LZ A4 Pro (Noz.Sil Fil.Red)",
-                "file": "acho/LZ A4 Pro NzSil FiRed"
+                "name": "LZ A4 Pro",
+                "file": [
+                    "acho/LZ A4 Pro NzBlk FiBlk",
+                    "acho/LZ A4 Pro NzBlk FiBlu",
+                    "acho/LZ A4 Pro NzBlk FiRed",
+                    "acho/LZ A4 Pro NzBlu FiBlk",
+                    "acho/LZ A4 Pro NzBlu FiBlu",
+                    "acho/LZ A4 Pro NzBlu FiRed",
+                    "acho/LZ A4 Pro NzRed FiBlk",
+                    "acho/LZ A4 Pro NzRed FiBlu",
+                    "acho/LZ A4 Pro NzRed FiRed",
+                    "acho/LZ A4 Pro NzSil FiBlk",
+                    "acho/LZ A4 Pro NzSil FiBlu",
+                    "acho/LZ A4 Pro NzSil FiRed"
+                ],
+                "suffix": [
+                    "(Black Nozzle & Black Filter)",
+                    "(Black Nozzle & Blue Filter)",
+                    "(Black Nozzle & Red Filter)",
+                    "(Blue Nozzle & Black Filter)",
+                    "(Blue Nozzle & Blue Filter)",
+                    "(Blue Nozzle & Red Filter)",
+                    "(Red Nozzle & Black Filter)",
+                    "(Red Nozzle & Blue Filter)",
+                    "(Red Nozzle & Red Filter)",
+                    "(Silver Nozzle & Black Filter)",
+                    "(Silver Nozzle & Blue Filter)",
+                    "(Silver Nozzle & Red Filter)"
+                ]
             },
             {
                 "name": "Moondrop Aria",
@@ -18750,11 +18859,11 @@
             },
             {
                 "name": "Urbanfun YBF-ISS014 (Sample 1)",
-                "file": "acho/Urbanfun YBB-ISS014 (S1)"
+                "file": "acho/Urbanfun YBF-ISS014 (S1)"
             },
             {
-                "name": "Urbanfun YBF-ISS014 (Sample 1)",
-                "file": "acho/Urbanfun YBB-ISS014 (S1)"
+                "name": "Urbanfun YBF-ISS014 (Sample 2)",
+                "file": "acho/Urbanfun YBF-ISS014 (S2)"
             }
         ]
     },
@@ -18935,8 +19044,28 @@
                 "file": "eplv/1More PistonClassic"
             },
             {
+                "name": "ADVANCED S2000",
+                "file": "eplv/ADVANCED S20009"
+            },
+            {
                 "name": "ALPEX HR-4000",
                 "file": "eplv/ALPEX HR-4000"
+            },
+            {
+                "name": "ALPEX HSE-A2000",
+                "file": "eplv/ALPEX HSE-A20009"
+            },
+            {
+                "name": "Audiosense DT100",
+                "file": "eplv/Audiosense DT100S"
+            },
+            {
+                "name": "Audiosense DT300",
+                "file": "eplv/Audiosense DT300"
+            },
+            {
+                "name": "Audiosense T800",
+                "file": "eplv/AudioSense T8009"
             },
             {
                 "name": "Altec Lansing iM716 HD",
@@ -18975,12 +19104,32 @@
                 "file": "eplv/AZLA AZEL"
             },
             {
+                "name": "BGVP DMG Bkfil",
+                "file": "eplv/BGVP DMGBk9"
+            },
+            {
                 "name": "BLON BL-03",
                 "file": "eplv/BLON BL-03"
             },
             {
                 "name": "BLON BL-Mini",
                 "file": "eplv/BLON BL-Mini"
+            },
+            {
+                "name": "BLON Fat Girl",
+                "file": "eplv/BLON FatGirl9"
+            },
+            {
+                "name": "BONAKO Royole",
+                "file": "eplv/BONAKO Royole"
+            },
+            {
+                "name": "BQEYZ KB1",
+                "file": "eplv/BQEYZ KB19"
+            },
+            {
+                "name": "BUSAX JS81",
+                "file": "eplv/BUSAX JS81"
             },
             {
                 "name": "CCA C10",
@@ -19001,6 +19150,14 @@
             {
                 "name": "CCZ Emerald",
                 "file": "eplv/CCZ Emerald"
+            },
+            {
+                "name": "Creative EP-630",
+                "file": "eplv/Creative EP-6309"
+            },
+            {
+                "name": "Cyberdrive IMPACT DURA Bass",
+                "file": "eplv/CYBERDRIVE IMPDURBass9"
             },
             {
                 "name": "DAISO AL-001",
@@ -19051,6 +19208,10 @@
                 "file": "eplv/ELECOM EHP-CH1000"
             },
             {
+                "name": "ELECOM EHP-CH3000",
+                "file": "eplv/ELECOM EHP-CH30009"
+            },
+            {
                 "name": "ELECOM EHP-CS200A",
                 "file": "eplv/ELECOM EHP-CS200A"
             },
@@ -19061,6 +19222,10 @@
             {
                 "name": "ELECOM EHP-GB2000",
                 "file": "eplv/ELECOM EHP-GB2000"
+            },
+            {
+                "name": "Eono Eonobuds2",
+                "file": "eplv/Eono Eonobuds2"
             },
             {
                 "name": "Etymotic Research ER-4S",
@@ -19095,7 +19260,7 @@
                 "file": "eplv/final E2000"
             },
             {
-                "name": "final FI-EVA2020",
+                "name": "final EVA2020",
                 "file": "eplv/final EVA2020"
             },
             {
@@ -19111,6 +19276,10 @@
                 "file": "eplv/GLIDiC TW-5100"
             },
             {
+                "name": "G-Most E8",
+                "file": "eplv/G-Most E89"
+            },
+            {
                 "name": "GuideRay GR-i18",
                 "file": "eplv/GuideRay GR-i18"
             },
@@ -19123,12 +19292,24 @@
                 "file": "eplv/HZSOUND HeartMirror"
             },
             {
+                "name": "HZSOUND Waist Drum",
+                "file": "eplv/HZSound WaistDrum9"
+            },
+            {
                 "name": "Ikko OH2",
                 "file": "eplv/Ikko OH2"
             },
             {
                 "name": "intime SORA light 2019",
                 "file": "eplv/intime SORAlight2019"
+            },
+            {
+                "name": "intime SORA2",
+                "file": "eplv/intime SORA29"
+            },
+            {
+                "name": "JPRiDE 1984 Premium Freedom",
+                "file": "eplv/JPRiDE 1984Premium"
             },
             {
                 "name": "JVC HA-A7T",
@@ -19143,6 +19324,10 @@
                 "file": "eplv/KBEAR F1"
             },
             {
+                "name": "KBEAR KS1",
+                "file": "eplv/KBEAR KS19"
+            },
+            {
                 "name": "KBEAR Lark",
                 "file": "eplv/KBEAR Lark"
             },
@@ -19155,8 +19340,16 @@
                 "file": "eplv/KBEAR NEON+100Ohm"
             },
             {
+                "name": "KBEAR ST1",
+                "file": "eplv/KBEAR ST19"
+            },
+            {
                 "name": "Kinden UE",
                 "file": "eplv/Kinden UE"
+            },
+            {
+                "name": "Kinera TYR",
+                "file": "eplv/Kinera TYR9"
             },
             {
                 "name": "Koss The Plug",
@@ -19165,6 +19358,10 @@
             {
                 "name": "Ksound EP-K05",
                 "file": "eplv/Ksound EP-K05"
+            },
+            {
+                "name": "KZ ASX",
+                "file": "eplv/KZ ASX9"
             },
             {
                 "name": "KZ AS06",
@@ -19219,6 +19416,14 @@
                 "file": "eplv/KZ ZS6"
             },
             {
+                "name": "KZ ZS7",
+                "file": "eplv/KZ ZS79"
+            },
+            {
+                "name": "KZ ZSA",
+                "file": "eplv/KZ ZSA9"
+            },
+            {
                 "name": "KZ ZSN",
                 "file": "eplv/KZ ZSN"
             },
@@ -19247,12 +19452,20 @@
                 "file": "eplv/MassdropxNoble Univ"
             },
             {
+                "name": "Moondrop Chu",
+                "file": "eplv/Moondrop Chu"
+            },
+            {
                 "name": "Moondrop Quarks",
                 "file": "eplv/Moondrop Quarks"
             },
             {
                 "name": "Moondrop Spaceship",
                 "file": "eplv/Moondrop Spaceship"
+            },
+            {
+                "name": "Mulazo BT1019-m",
+                "file": "eplv/Mulazo BT1019-m"
             },
             {
                 "name": "NAGAOKA P608",
@@ -19279,8 +19492,16 @@
                 "file": "eplv/NICEHCK NX7PeoEd"
             },
             {
+                "name": "NICEHCK DB3",
+                "file": "eplv/NICEHCK DB39"
+            },
+            {
                 "name": "NICEHCK X49",
                 "file": "eplv/NICEHCK X49"
+            },
+            {
+                "name": "NOKIA E3511",
+                "file": "eplv/NOKIA E35119"
             },
             {
                 "name": "Panasonic RP-HJE50",
@@ -19297,6 +19518,10 @@
             {
                 "name": "Pioneer SE-CL20",
                 "file": "eplv/Pioneer SE-CL20"
+            },
+            {
+                "name": "PROfundo focus 01",
+                "file": "eplv/PROfundo focus01"
             },
             {
                 "name": "OKCSC ED10",
@@ -19327,24 +19552,80 @@
                 "file": "eplv/RevoNext RX8"
             },
             {
+                "name": "Seeaudio Anou jp",
+                "file": "eplv/Seeaudio AnouJp"
+            },
+            {
+                "name": "Senfer DT6 pro",
+                "file": "eplv/Senfer DT6pro9"
+            },
+            {
                 "name": "Senfer DT9",
                 "file": "eplv/Senfer DT9"
+            },
+            {
+                "name": "Shuoer TAPE",
+                "file": "eplv/Shuoer TAPE9"
+            },
+            {
+                "name": "SIMGOT EM2R",
+                "file": "eplv/SIMGOT EM2R9"
             },
             {
                 "name": "SHURE E2c",
                 "file": "eplv/SHURE E2c"
             },
             {
+                "name": "Soundpeats MiniPro",
+                "file": "eplv/Soundpeats MiniPro"
+            },
+            {
+                "name": "Soundpeats T3 ANC OFF",
+                "file": "eplv/Soundpeats T3Off"
+            },
+            {
+                "name": "Soundpeats T3 ANC ON",
+                "file": "eplv/Soundpeats T3On"
+            },
+            {
                 "name": "Tanchjim Tanya",
                 "file": "eplv/Tanchjim Tanya"
+            },
+            {
+                "name": "TFZ BALANCE1",
+                "file": "eplv/TFZ BALANCE19"
+            },
+            {
+                "name": "TIMMKOO C610",
+                "file": "eplv/TIMMKOO C6109"
             },
             {
                 "name": "TinHiFi T2 plus",
                 "file": "eplv/TinHiFi T2Plus"
             },
             {
+                "name": "TinHiFi T3",
+                "file": "eplv/TinHiFi T39"
+            },
+            {
+                "name": "TinHiFi T3 pro",
+                "file": "eplv/TinHiFi T3pro9"
+            },
+            {
+                "name": "TinHiFi T5",
+                "file": "eplv/TinHiFi T59"
+            },
+            {
                 "name": "Tripowin Le\u00e1",
                 "file": "eplv/TRIPOWIN Le\u00e1"
+            },
+            {
+                "name": "Tripowin TC01",
+                "file": "eplv/Tripowin TC019"
+            },
+            {
+                "name": "TRN BA5",
+                "file": "eplv/TRN BA59"
             },
             {
                 "name": "TRN BA8",
@@ -19359,6 +19640,10 @@
                 "file": "eplv/TRN TA1"
             },
             {
+                "name": "TRN V80",
+                "file": "eplv/TRN V809"
+            },
+            {
                 "name": "TRN V90",
                 "file": "eplv/TRN V90"
             },
@@ -19367,12 +19652,24 @@
                 "file": "eplv/TRN V90S"
             },
             {
-                "name": "TTR Co-Donguri Shizuku",
-                "file": "eplv/TTR Co-DonguriShizuku"
+                "name": "TRN VX",
+                "file": "eplv/TRN VX9"
             },
             {
-                "name": "TTR Co-Donguri Brass",
-                "file": "eplv/TTR Co-DonguriBrass"
+                "name": "TRN VX pro",
+                "file": "eplv/TRN VXpro9"
+            },
+            {
+                "name": "TTR Co-donguri Brass",
+                "file": "eplv/TTR Co-donguriBrass"
+            },
+            {
+                "name": "TTR Co-donguri Shizuku",
+                "file": "eplv/TTR Co-DonguriShizuku9"
+            },
+            {
+                "name": "UNCJC iRock",
+                "file": "eplv/UNCJC iRock9"
             },
             {
                 "name": "Urban Utility UEHE-EP2",
@@ -20191,6 +20488,10 @@
                 "file": "ianfann/KBEAR KS2"
             },
             {
+                "name": "KBEAR LITTLE Q",
+                "file": "ianfann/KBEAR LITTLE Q"
+            },
+            {
                 "name": "KBEAR NEON",
                 "file": "ianfann/KBEAR NEON"
             },
@@ -20297,6 +20598,10 @@
             {
                 "name": "MOONDROP CHU (SF 145)",
                 "file": "ianfann/MOONDROP CHU (SF 145)"
+            },
+            {
+                "name": "NF AUDIO NA3",
+                "file": "ianfann/NF AUDIO NA3"
             },
             {
                 "name": "NF AUDIO NM2",
@@ -21205,6 +21510,10 @@
             {
                 "name": "Sony MH755",
                 "file": "nymz/Sony MH755"
+            },
+            {
+                "name": "Sony IER-Z1R",
+                "file": "nymz/Sony Z1R"
             },
             {
                 "name": "Tin Hifi T1S",
