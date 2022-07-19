@@ -2463,8 +2463,16 @@
                 "file": "hbb/TRI I3"
             },
             {
+                "name": "TRI X HBB KAI",
+                "file": "hbb/TRI X HBB Kai 2"
+            },
+            {
                 "name": "TRI I3 PRO",
                 "file": "hbb/TRI I3 Pro"
+            },
+            {
+                "name": "TruthEar X Crinacle ZERO",
+                "file": "hbb/Truthear X Crinacle Zero"
             },
             {
                 "name": "UNIQUE MELODY MEST MK II",
@@ -2904,6 +2912,17 @@
             {
                 "name": "KZ ASF",
                 "file": "pw/KZ ASFv2"
+            },
+            {
+                "name": "KZ AS16 Pro",
+                "file": [
+                    "pw/KZ AS16 Pro",
+                    "pw/KZ AS16 Pro 25ohm"
+                ],
+                "suffix": [
+                    "Stock",
+                    "25ohm"
+                ]
             },
             {
                 "name": "KZ AST",
@@ -7205,6 +7224,10 @@
                 "file": "mrs/Mi True Wireless Earbuds Basic 2"
             },
             {
+                "name": "MiM Audio Dark Magician",
+                "file": "mrs/MiM Dark Magician"
+            },
+            {
                 "name": "MiM Audio Dark Magician (Revised)",
                 "file": "mrs/MiM Dark Magician Revised"
             },
@@ -8125,6 +8148,10 @@
                 "file": "mrs/TRN V90"
             },
             {
+                "name": "Truthear Zero",
+                "file": "mrs/Truthear Zero"
+            },
+            {
                 "name": "Unique Melody MEST",
                 "file": "mrs/Unique Melody MEST"
             },
@@ -8806,6 +8833,10 @@
             {
                 "name": "Kbear KS2",
                 "file": "vortex/Kbear KS2"
+            },
+            {
+                "name": "KZ AS16 Pro",
+                "file": "vortex/KZ AS16 Pro"
             },
             {
                 "name": "KZ ASX",
@@ -14394,10 +14425,6 @@
                 "file": "crinacle/Azul"
             },
             {
-                "name": "Project Null",
-                "file": "crinacle/Null"
-            },
-            {
                 "name": "QCY T5",
                 "file": "crinacle/T5"
             },
@@ -15899,6 +15926,11 @@
             {
                 "name": "TRN X7",
                 "file": "crinacle/X7"
+            },
+            {
+                "name": "Truthear Zero",
+                "collab": "crinacle",
+                "file": "crinacle/Zero TE"
             },
             {
                 "name": "UFOEar UFO-111",
@@ -18243,8 +18275,16 @@
                 "file": "asp/Shure AONIC 3"
             },
             {
-                "name": "Shure AONIC 5",
-                "file": "asp/AONIC 5"
+                "name": "Shure AONIC 5 (Clear)",
+                "file": "asp/AONIC 5 Clear"
+            },
+            {
+                "name": "Shure AONIC 5 (Grey)",
+                "file": "asp/AONIC 5 Grey"
+            },
+            {
+                "name": "Shure AONIC 5 (Black)",
+                "file": "asp/AONIC 5 Black"
             },
             {
                 "name": "SonicMemory SM2",
@@ -18499,6 +18539,10 @@
     {
         "name": "Acho Reviews",
         "phones": [
+            {
+                "name": "7Hz Dioko",
+                "file": "acho/7Hz Dioko"
+            },
             {
                 "name": "7Hz Eternal",
                 "file": "acho/7Hz Eternal"
@@ -19044,6 +19088,10 @@
                 "file": "eplv/1More PistonClassic"
             },
             {
+                "name": "7Hz Salnotes Dioko",
+                "file": "eplv/Salnotes Dioko"
+            },
+            {
                 "name": "ADVANCED S2000",
                 "file": "eplv/ADVANCED S20009"
             },
@@ -19396,6 +19444,10 @@
                 "file": "eplv/KZ ES4"
             },
             {
+                "name": "KZ ZAS",
+                "file": "eplv/KZ ZAS"
+            },
+            {
                 "name": "KZ ZEX pro",
                 "file": "eplv/KZ ZEXpro"
             },
@@ -19590,6 +19642,10 @@
             {
                 "name": "Tanchjim Tanya",
                 "file": "eplv/Tanchjim Tanya"
+            },
+            {
+                "name": "Tangzu Shimin Li",
+                "file": "eplv/TANGZU ShiminLi"
             },
             {
                 "name": "TFZ BALANCE1",
@@ -20420,6 +20476,10 @@
                 "file": "ianfann/CCA CRA+"
             },
             {
+                "name": "CCA LYRA",
+                "file": "ianfann/CCA LYRA"
+            },
+            {
                 "name": "CCA CRA+ (STOCK TIPS)",
                 "file": "ianfann/CCA CRA+ (STOCK TIPS)"
             },
@@ -20506,6 +20566,10 @@
             {
                 "name": "KINERA URD",
                 "file": "ianfann/KINERA URD"
+            },
+            {
+                "name": "KZ AS16 PRO",
+                "file": "ianfann/KZ AS16 PRO"
             },
             {
                 "name": "KZ DQ6",
@@ -20706,6 +20770,10 @@
             {
                 "name": "TRN TA1 MAX",
                 "file": "ianfann/TRN TA1 MAX"
+            },
+            {
+                "name": "TRUTHEAR ZERO X CRINACLE",
+                "file": "ianfann/TRUTHEAR ZERO"
             },
             {
                 "name": "UNIQUE MELODY MEXT",
@@ -21539,14 +21607,22 @@
                 "file": [
                     "nymz/Tripowin Olina",
                     "nymz/Tripowin Olina Dual",
+                    "nymz/Tripowin Olina Dual Vent",
                     "nymz/Tripowin Olina Comply",
-                    "nymz/Tripowin Olina Dual Comply"
+                    "nymz/Tripowin Olina Dual Comply",
+                    "nymz/Tripowin Olina US Full",
+                    "nymz/Tripowin Olina US Half",
+                    "nymz/Tripowin Olina US Full Naked"
                 ],
                 "suffix": [
                     "(stock)",
                     "(Double Stock Filter)",
+                    "(Double Stock Filter + Stock Filter on Vent)",
                     "(Comply TS-500)",
-                    "(Double Stock Filter + Comply TS-500)"
+                    "(Double Stock Filter + Comply TS-500)",
+                    "(Stock filter + Sony Imported Foams)",
+                    "(Stock filter + Half Sony Imported Foams)",
+                    "(No filter + Sony Imported Foams)"
                 ]
             },
             {
