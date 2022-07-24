@@ -387,6 +387,10 @@
                 "file": "aftersound/KZ EDA HIGH"
             },
             {
+                "name": "KZ AS16 PRO",
+                "file": "aftersound/KZ AS16 PRO"
+            },
+            {
                 "name": "LZ A7 BLACK MONITOR",
                 "file": "aftersound/LZ A7 BLACK MONITOR"
             },
@@ -617,6 +621,14 @@
             {
                 "name": "SENNHEISER  IE300",
                 "file": "aftersound/SENNHEISER IE300"
+            },
+            {
+                "name": "SENNHEISER  IE600",
+                "file": "aftersound/SENNHEISER IE600"
+            },
+            {
+                "name": "SENNHEISER  IE600 AET08",
+                "file": "aftersound/SENNHEISER IE600 AET08"
             },
             {
                 "name": "SG AIRLINE  IEM",
@@ -998,6 +1010,10 @@
                 "file": "bedrock/Nicehck X49"
             },
             {
+                "name": "Raptgo Hook-X",
+                "file": "bedrock/Raptgo Hook-X"
+            },
+            {
                 "name": "SeeAudio Bravery",
                 "file": "bedrock/SeeAudio Bravery"
             },
@@ -1078,6 +1094,10 @@
                 "file": "bedrock/TRN VX"
             },
             {
+                "name": "Truthear Zero",
+                "file": "bedrock/Truthear Zero"
+            },
+            {
                 "name": "UiiSii CM5",
                 "file": "bedrock/UiiSii CM5"
             },
@@ -1140,7 +1160,7 @@
             },
             {
                 "name": "55Hz KAI",
-                "file": "hbb/55Hz Secretz 429"
+                "file": "hbb/Trihbk"
             },
             {
                 "name": "55Hz KAI 2",
@@ -1165,6 +1185,22 @@
             {
                 "name": "55Hz QK",
                 "file": "hbb/55Hz QK"
+            },
+            {
+                "name": "55Hz 350",
+                "file": "hbb/55Hz 1"
+            },
+            {
+                "name": "55Hz 1",
+                "file": "hbb/55Hz QK"
+            },
+            {
+                "name": "55Hz 111",
+                "file": "hbb/55Hz 111"
+            },
+            {
+                "name": "55Hz 1111",
+                "file": "hbb/55Hz 1111"
             },
             {
                 "name": "55Hz 622",
@@ -1907,6 +1943,10 @@
                 "file": "hbb/Oriolus Trailli"
             },
             {
+                "name": "Oriolus Szalayi",
+                "file": "hbb/Oriolus Szalayi"
+            },
+            {
                 "name": "Ovidius RX 100",
                 "file": "hbb/Ovidius RX100"
             },
@@ -2395,10 +2435,6 @@
                 "file": "hbb/Tripowin X HBB Mele Blue"
             },
             {
-                "name": "Tripowin H1",
-                "file": "hbb/Tripowin H1"
-            },
-            {
                 "name": "Tripowin X HBB Olina",
                 "file": "hbb/Olina No Filter"
             },
@@ -2464,7 +2500,7 @@
             },
             {
                 "name": "TRI X HBB KAI",
-                "file": "hbb/TRI X HBB Kai 2"
+                "file": "hbb/55Hz X HBB KAI"
             },
             {
                 "name": "TRI I3 PRO",
@@ -2917,11 +2953,13 @@
                 "name": "KZ AS16 Pro",
                 "file": [
                     "pw/KZ AS16 Pro",
-                    "pw/KZ AS16 Pro 25ohm"
+                    "pw/KZ AS16 Pro TK2",
+                    "pw/KZ AS16 Pro BTX"
                 ],
                 "suffix": [
                     "Stock",
-                    "25ohm"
+                    "TK2",
+                    "BTX"
                 ]
             },
             {
@@ -3223,6 +3261,10 @@
             {
                 "name": "Shortbus Audio Olina",
                 "file": "pw/Shortbus Olina"
+            },
+            {
+                "name": "Shortbus Audio Unknown Soldier",
+                "file": "pw/Shortbus UnknownSoldier"
             },
             {
                 "name": "Shuoer EJ07M",
@@ -5099,7 +5141,22 @@
         "phones": [
             {
                 "name": "7Hz Timeless",
-                "file": "rg/7Hz Timeless"
+                "file": [
+                    "rg/7Hz Timeless",
+                    "rg/7Hz Timeless (Sony Import Foam)",
+                    "rg/7Hz Timeless (Sony Import Foam, Super Thin HS Foam inner vent)",
+                    "rg/7Hz Timeless (350 Mesh, stock tuning foam, Super Thin HS Foam inner vent)",
+                    "rg/7Hz Timeless (350 Mesh, stock tuning foam sideways, Super Thin HS Foam inner vent)",
+                    "rg/7Hz Timeless (Tanchjim Filter, stock tuning foam sideways, Super Thin HS Foam inner vent)"
+                ],
+                "suffix": [
+                    "(stock)",
+                    "(Sony Import Foam)",
+                    "(Sony Import Foam, Super Thin HS Foam inner vent)",
+                    "(350 Mesh, stock tuning foam, Super Thin HS Foam inner vent)",
+                    "(350 Mesh, stock tuning foam sideways, Super Thin HS Foam inner vent)",
+                    "(Tanchjim Filter, stock tuning foam sideways, Super Thin HS Foam inner vent)"
+                ]
             },
             {
                 "name": "Aiderlot M5",
@@ -5363,6 +5420,10 @@
                     "rg/Dunu Falcon Pro (Transparent filter, 2 outer vent PK foam, low-density tuning foam)",
                     "rg/Dunu Falcon Pro (Transparent filter, 2 outer vent PK foam, high-density tuning foam)",
                     "rg/Dunu Falcon Pro (Reference filter)",
+                    "rg/Dunu Falcon Pro (Reference filter, 2 outer vent blutack)",
+                    "rg/Dunu Falcon Pro (Reference filter, 2 outer vent blutack, high-density tuning foam)",
+                    "rg/Dunu Falcon Pro (Reference filter, 2 outer vent PK foam, high-density tuning foam)",
+                    "rg/Dunu Falcon Pro (Reference filter, 2 outer vent PK foam)",
                     "rg/Dunu Falcon Pro (Atmospheric Immersion filter)"
                 ],
                 "suffix": [
@@ -5374,6 +5435,10 @@
                     "(Transparent filter, 2 outer vent PK foam, low-density tuning foam)",
                     "(Transparent filter, 2 outer vent PK foam, high-density tuning foam)",
                     "(Reference filter)",
+                    "(Reference filter, 2 outer vent blutack)",
+                    "(Reference filter, 2 outer vent blutack, high-density tuning foam)",
+                    "(Reference filter, 2 outer vent PK foam, high-density tuning foam)",
+                    "(Reference filter, 2 outer vent PK foam)",
                     "(Atmospheric Immersion filter)"
                 ]
             },
@@ -6268,9 +6333,13 @@
             {
                 "name": "7Hz Salnotes Dioko",
                 "file": [
+                    "mrs/7Hz Dioko (post-op)",
+                    "mrs/7Hz Dioko (pre-op)",
                     "mrs/7Hz Dioko"
                 ],
                 "suffix": [
+                    "7Hz Dioko (post-op)",
+                    "(pre-op)",
                     "(defect)"
                 ],
                 "preferredShop": "Linsoul"
@@ -8149,7 +8218,15 @@
             },
             {
                 "name": "Truthear Zero",
-                "file": "mrs/Truthear Zero"
+                "file": [
+                    "mrs/Truthear Zero (S2)",
+                    "mrs/Truthear Zero"
+                ],
+                "suffix": [
+                    "(sample 2)",
+                    "(sample 1)"
+                ],
+                "preferredShop": "Shenzhen Audio"
             },
             {
                 "name": "Unique Melody MEST",
@@ -8749,6 +8826,10 @@
             {
                 "name": "CCA CST",
                 "file": "vortex/CCA CST"
+            },
+            {
+                "name": "CCA Lyra",
+                "file": "vortex/CCA Lyra"
             },
             {
                 "name": "CCA NRA",
@@ -9412,6 +9493,21 @@
                 ]
             },
             {
+                "name": "HarmonicDyne G200",
+                "file": [
+                    "vsg/HarmonicDyne G200 Lambskin",
+                    "vsg/HarmonicDyne G200 Flannel",
+                    "vsg/HarmonicDyne G200 Yaxi Leather",
+                    "vsg/HarmonicDyne G200 Yaxi Alcantara"
+                ],
+                "suffix": [
+                    "(Lambskin Pads)",
+                    "(Flannel Pads)",
+                    "(Yaxi Leather Pads)",
+                    "(Yaxi Alcantara Pads)"
+                ]
+            },
+            {
                 "name": "HarmonicDyne P.D.1",
                 "file": "vsg/HarmonicDyne P.D.1"
             },
@@ -9609,7 +9705,14 @@
             },
             {
                 "name": "MUSE HiFi Power",
-                "file": "vsg/MUSE HiFi Power"
+                "file": [
+                    "vsg/MUSE HiFi Power Sample 1",
+                    "vsg/MUSE HiFi Power Sample 2"
+                ],
+                "suffix": [
+                    "(Sample 1)",
+                    "(Sample 2)"
+                ]
             },
             {
                 "name": "Ovidius RX-100",
@@ -9758,6 +9861,10 @@
             {
                 "name": "Tronsmart Apollo Air+",
                 "file": "vsg/Tronsmart Apollo Air+"
+            },
+            {
+                "name": "Truthear x Crinacle ZERO",
+                "file": "vsg/Truthear x Crinacle Zero"
             },
             {
                 "name": "United Airlines Complimentary IEMs",
@@ -10327,7 +10434,20 @@
                 "file": "crinacle/V2"
             },
             {
-                "name": "7Hz Dioko",
+                "name": "7Hz-Salnotes Zero",
+                "file": [
+                    "crinacle/Zero Salnotes",
+                    "crinacle/Zero Salnotes S2",
+                    "crinacle/Zero Salnotes S3"
+                ],
+                "suffix": [
+                    "S1",
+                    "S2",
+                    "S3"
+                ]
+            },
+            {
+                "name": "7Hz-Salnotes Dioko",
                 "collab": "crinacle",
                 "file": [
                     "crinacle/Dioko S1",
@@ -10341,11 +10461,11 @@
                 ]
             },
             {
-                "name": "7Hz Eternal",
+                "name": "7Hz-Salnotes Eternal",
                 "file": "crinacle/Eternal"
             },
             {
-                "name": "7Hz Timeless",
+                "name": "7Hz-Salnotes Timeless",
                 "file": "crinacle/Timeless"
             },
             {
@@ -15930,7 +16050,30 @@
             {
                 "name": "Truthear Zero",
                 "collab": "crinacle",
-                "file": "crinacle/Zero TE"
+                "file": [
+                    "crinacle/Zero TE S2",
+                    "crinacle/Zero TE S3",
+                    "crinacle/Zero TE S4",
+                    "crinacle/Zero TE S5",
+                    "crinacle/Zero TE S6",
+                    "crinacle/Zero TE S7",
+                    "crinacle/Zero TE S8",
+                    "crinacle/Zero TE S9",
+                    "crinacle/Zero TE S10",
+                    "crinacle/Zero TE S1"
+                ],
+                "suffix": [
+                    "S2",
+                    "S3",
+                    "S4",
+                    "S5",
+                    "S6",
+                    "S7",
+                    "S8",
+                    "S9",
+                    "S10",
+                    "S1 (Pre-production)"
+                ]
             },
             {
                 "name": "UFOEar UFO-111",
@@ -18127,6 +18270,10 @@
                 "file": "asp/EDA GR"
             },
             {
+                "name": "KZ EDX Pro",
+                "file": "asp/EDX Pro"
+            },
+            {
                 "name": "KZ EDX Ultra",
                 "file": "asp/KZ EDX Ultra"
             },
@@ -18265,6 +18412,14 @@
             {
                 "name": "SeeAudio Bravery",
                 "file": "asp/SeeAudio Bravery"
+            },
+            {
+                "name": "Shuoer D13 (Silver)",
+                "file": "asp/D13 S"
+            },
+            {
+                "name": "Shuoer D13 (Gold)",
+                "file": "asp/D13 G"
             },
             {
                 "name": "Shuoer S12",
@@ -18517,6 +18672,10 @@
             {
                 "name": "Yu9 Audio U-556 (deep)",
                 "file": "asp/Yu9 U-556 deep"
+            },
+            {
+                "name": "ZERO Audio CARBO DUOZA 2",
+                "file": "asp/CARBO DUOZA 2"
             },
             {
                 "name": "ZERO Audio ZIRCO BASSO",
@@ -19442,6 +19601,10 @@
             {
                 "name": "KZ ES4",
                 "file": "eplv/KZ ES4"
+            },
+            {
+                "name": "KZ ESX",
+                "file": "eplv/KZ ESX9"
             },
             {
                 "name": "KZ ZAS",
@@ -20716,6 +20879,10 @@
                 "file": "ianfann/TANGZU SHIMINLI"
             },
             {
+                "name": "THHIFI CHARACTER",
+                "file": "ianfann/THHIFI CHARACTER"
+            },
+            {
                 "name": "TINHIFI T1S",
                 "file": "ianfann/TINHIFI T1S"
             },
@@ -20895,6 +21062,10 @@
             {
                 "name": "DARUMA AUDIO Vento Conductor Ethereal",
                 "file": "melatonin/Vento Conductor Ethereal"
+            },
+            {
+                "name": "DARUMA AUDIO Vento Conductor Celestial",
+                "file": "melatonin/Vento Conductor Celestial2"
             },
             {
                 "name": "DARUMA AUDIO Vento Conductor Celestial trial listening",
@@ -21536,13 +21707,17 @@
                 "name": "Shuoer S12",
                 "file": [
                     "nymz/Shuoer S12",
+                    "nymz/Shuoer S12 Sony",
+                    "nymz/Shuoer S12 Sony Deep",
                     "nymz/Shuoer S12 XbassII",
                     "nymz/Shuoer S12 BassheadEQ"
                 ],
                 "suffix": [
                     "(stock)",
+                    "(Sony Imported Foams)",
+                    "(Sony Imported Foams - Deep fit)",
                     "(XbassII)",
-                    "(BassheadEQ)"
+                    "(BassheadEQ + XbassII)"
                 ]
             },
             {
@@ -21580,6 +21755,10 @@
                 "file": "nymz/Sony MH755"
             },
             {
+                "name": "Sony XBA-N3",
+                "file": "nymz/Sony XBA-N3"
+            },
+            {
                 "name": "Sony IER-Z1R",
                 "file": "nymz/Sony Z1R"
             },
@@ -21612,7 +21791,9 @@
                     "nymz/Tripowin Olina Dual Comply",
                     "nymz/Tripowin Olina US Full",
                     "nymz/Tripowin Olina US Half",
-                    "nymz/Tripowin Olina US Full Naked"
+                    "nymz/Tripowin Olina US Full Naked",
+                    "nymz/Tripowin Olina US Half Naked",
+                    "nymz/Tripowin Olina US Half Tan"
                 ],
                 "suffix": [
                     "(stock)",
@@ -21622,7 +21803,9 @@
                     "(Double Stock Filter + Comply TS-500)",
                     "(Stock filter + Sony Imported Foams)",
                     "(Stock filter + Half Sony Imported Foams)",
-                    "(No filter + Sony Imported Foams)"
+                    "(No filter + Sony Imported Foams)",
+                    "(No filter + Half Sony Imported Foams)",
+                    "(Tanya filter + Half Sony Imported Foams)"
                 ]
             },
             {
