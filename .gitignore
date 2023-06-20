@@ -1,0 +1,6 @@
+data_mrs/*
+.DS_Store
+download_data.py
+links.txt
+new_links.txt
+phone_book_template.json
