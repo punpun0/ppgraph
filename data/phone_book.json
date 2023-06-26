@@ -1984,8 +1984,8 @@
                 "file": "hbb/55 2"
             },
             {
-                "name": "55Hz K",
-                "file": "hbb/55 Ki"
+                "name": "55Hz 625",
+                "file": "hbb/55kk"
             },
             {
                 "name": "55Hz Blended",
@@ -2568,8 +2568,12 @@
                 "file": "hbb/Sample 1"
             },
             {
-                "name": "HarmonicDyne ZEUS (Raw)",
+                "name": "HarmonicDyne ZEUS",
                 "file": "hbb/HarmonicDyne ZEUS"
+            },
+            {
+                "name": "HarmonicDyne ZEUS Elite",
+                "file": "hbb/Harzu"
             },
             {
                 "name": "HarmonicDyne DEVIL",
@@ -2774,6 +2778,14 @@
             {
                 "name": "Kiwi Ears Cadenza",
                 "file": "hbb/Kiwi Ears Cadenza"
+            },
+            {
+                "name": "Kiwi Ears Quintet",
+                "file": "hbb/55 Ki"
+            },
+            {
+                "name": "Kiwi Ears Quintet 10 ohm",
+                "file": "hbb/5510"
             },
             {
                 "name": "KZ ZAX",
@@ -4456,6 +4468,17 @@
                 "file": "pw/CVJ CSK"
             },
             {
+                "name": "CVJ KE-S",
+                "file": [
+                    "pw/CVJ KE-S",
+                    "pw/CVJ KE-S MP"
+                ],
+                "suffix": [
+                    "Stock",
+                    "Taped"
+                ]
+            },
+            {
                 "name": "DUNU EST112",
                 "file": "pw/DUNU EST112"
             },
@@ -4621,6 +4644,21 @@
                     "1000",
                     "Pauls",
                     "Pauls2"
+                ]
+            },
+            {
+                "name": "Joyodio VZ10",
+                "file": [
+                    "pw/Joyodio VZ10",
+                    "pw/Joyodio VZ10 01110111",
+                    "pw/Joyodio VZ10 11110111",
+                    "pw/Joyodio VZ10 01110000"
+                ],
+                "suffix": [
+                    "0111 1111",
+                    "0111 0111",
+                    "1111 0111",
+                    "0000 0000"
                 ]
             },
             {
@@ -8024,6 +8062,15 @@
                 ]
             },
             {
+                "name": "DIY 1",
+                "file": [
+                    "rg/10Clear Hmax-1 V13"
+                ],
+                "suffix": [
+                    "(V13)"
+                ]
+            },
+            {
                 "name": "DIY 8CU",
                 "file": [
                     "rg/8CU V1",
@@ -10253,6 +10300,10 @@
             {
                 "name": "KZ (average)",
                 "file": "mrs/KZ (avg)"
+            },
+            {
+                "name": "Letshuoer Cadenza 12",
+                "file": "mrs/Letshuoer Cadenza 12"
             },
             {
                 "name": "Letshuoer D13",
@@ -24063,6 +24114,19 @@
                 "file": "acho/Hifiman Svanar"
             },
             {
+                "name": "Hifiman Svanar Wireless",
+                "file": [
+                    "acho/Hifiman Svanar Wireless (HiFi)",
+                    "acho/Hifiman Svanar Wireless (ANC)",
+                    "acho/Hifiman Svanar Wireless (Transparency)"
+                ],
+                "suffix": [
+                    "(HiFi)",
+                    "(ANC)",
+                    "(Transparency)"
+                ]
+            },
+            {
                 "name": "Hifiman TWS800",
                 "file": "acho/Hifiman TWS800"
             },
@@ -24150,6 +24214,10 @@
                     "(1-1)",
                     "(1-0)"
                 ]
+            },
+            {
+                "name": "Kiwi Ears Quintet",
+                "file": "acho/Kiwi Ears Quintet"
             },
             {
                 "name": "Koss KEB90",
@@ -24447,6 +24515,10 @@
             {
                 "name": "Tangzu Shimin Li",
                 "file": "acho/Tangzu Shimin Li"
+            },
+            {
+                "name": "Tangzu Change Le",
+                "file": "acho/Tangzu Change Le"
             },
             {
                 "name": "Tangzu Wan'er SG",
@@ -27639,6 +27711,10 @@
                 "file": "ianfann/JOYODIO SHINE STANDARD"
             },
             {
+                "name": "JOYODIO VZ10",
+                "file": "ianfann/JOYODIO VZ10"
+            },
+            {
                 "name": "KBEAR AURORA",
                 "file": "ianfann/KBEAR AURORA"
             },
@@ -27745,6 +27821,10 @@
             {
                 "name": "KIWI EARS QUARTET UU",
                 "file": "ianfann/KIWIEARS QUARTET UU"
+            },
+            {
+                "name": "KIWI EARS QUINTET",
+                "file": "ianfann/KIWIEARS QUINTET"
             },
             {
                 "name": "KZ AS16 PRO",
@@ -29836,12 +29916,12 @@
             {
                 "name": "Symphonium Helios SE",
                 "file": [
-                    "nymz/Symphonium Helios SE Sed",
-                    "nymz/Symphonium Helios SE"
+                    "nymz/Symphonium Helios SE S2",
+                    "nymz/Symphonium Helios SE Sed"
                 ],
                 "suffix": [
-                    "(Sample 1 - Azla)",
-                    "(Sample 1 - Red Tips)"
+                    "(50/50 - Azla Stock Tips)",
+                    "(X66 - Azla Stock Tips)"
                 ]
             },
             {
@@ -30251,6 +30331,10 @@
                 "file": "harpo/Kiwi Ears Cadenza"
             },
             {
+                "name": "Kiwi Ears Dolce",
+                "file": "harpo/Kiwi Ears Dolce"
+            },
+            {
                 "name": "Kiwi Ears Quartet UU",
                 "file": "harpo/Kiwi Ears Quartet UU"
             },
@@ -30407,6 +30491,10 @@
                 "file": "harpo/Simgot EA500"
             },
             {
+                "name": "Simgot EW100P",
+                "file": "harpo/Simgot EW100P"
+            },
+            {
                 "name": "Softears Studio4",
                 "file": "harpo/Softears Studio4"
             },
@@ -30429,6 +30517,10 @@
             {
                 "name": "Soundcore by Anker G2",
                 "file": "harpo/G2"
+            },
+            {
+                "name": "Soundpeats Engine 4",
+                "file": "harpo/Soundpeats Engine 4"
             },
             {
                 "name": "StageSound Stage Magic Plus",
@@ -32000,6 +32092,21 @@
             {
                 "name": "Etymotic ER4SR",
                 "file": "recode/er4sr"
+            },
+            {
+                "name": "Fatfreq Grand Maestro",
+                "file": [
+                    "recode/gmupblue",
+                    "recode/gmupblack",
+                    "recode/gmdownblue",
+                    "recode/gmdownblack"
+                ],
+                "suffix": [
+                    "Switch Up Blue Module",
+                    "Switch Up Black Module",
+                    "Switch Down Blue Module",
+                    "Switch Down Black Module"
+                ]
             },
             {
                 "name": "FIIO FD5",
