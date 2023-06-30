@@ -367,6 +367,10 @@
                 "file": "aftersound/CHIKYUU SEKAI COSMOS 5"
             },
             {
+                "name": "CVJ KE-S",
+                "file": "aftersound/CVJ KE-S"
+            },
+            {
                 "name": "CVJ CSN",
                 "file": "aftersound/CVJ CSN"
             },
@@ -793,6 +797,58 @@
             {
                 "name": "KZ D-FI DDDU FINAL E",
                 "file": "aftersound/KZ D-FI DDDU FINAL E"
+            },
+            {
+                "name": "KZ AS24 DDDD DDDD",
+                "file": "aftersound/KZ AS24 DDDD DDDD"
+            },
+            {
+                "name": "KZ AS24 UDDD DDDD",
+                "file": "aftersound/KZ AS24 UDDD DDDD"
+            },
+            {
+                "name": "KZ AS24 DUDD DDDD",
+                "file": "aftersound/KZ AS24 DUDD DDDD"
+            },
+            {
+                "name": "KZ AS24 DUDD DDDD",
+                "file": "aftersound/KZ AS24 DUDD DDDD"
+            },
+            {
+                "name": "KZ AS24 DDUD DDDD",
+                "file": "aftersound/KZ AS24 DDUD DDDD"
+            },
+            {
+                "name": "KZ AS24 DDDU DDDD",
+                "file": "aftersound/KZ AS24 DDDU DDDD"
+            },
+            {
+                "name": "KZ AS24 DDDD UDDD",
+                "file": "aftersound/KZ AS24 DDDD UDDD"
+            },
+            {
+                "name": "KZ AS24 DDDD DUDD",
+                "file": "aftersound/KZ AS24 DDDD DUDD"
+            },
+            {
+                "name": "KZ AS24 DDDD DDUD",
+                "file": "aftersound/KZ AS24 DDDD DDUD"
+            },
+            {
+                "name": "KZ AS24 DDDD DDDU",
+                "file": "aftersound/KZ AS24 DDDD DDDU"
+            },
+            {
+                "name": "KZ AS24 DDDD UUDD",
+                "file": "aftersound/KZ AS24 DDDD UUDD"
+            },
+            {
+                "name": "KZ AS24 DDDU DUDD",
+                "file": "aftersound/KZ AS24 DDDU DUDD"
+            },
+            {
+                "name": "KZ AS24 UDDU DUDD",
+                "file": "aftersound/KZ AS24 UDDU DUDD"
             },
             {
                 "name": "KZ KZ PR2",
@@ -5344,6 +5400,10 @@
             {
                 "name": "Simgot EW100P",
                 "file": "pw/SIMGOT EW100P"
+            },
+            {
+                "name": "Simgot EW200",
+                "file": "pw/Simgot EW200"
             },
             {
                 "name": "Simgot EM2 Roltion",
@@ -10179,6 +10239,13 @@
                     "(switches: off - off)",
                     "(switches: off - on)",
                     "(switches: on - off)"
+                ],
+                "preferredShop": "Linsoul"
+            },
+            {
+                "name": "Kiwi Ears Quintet",
+                "file": [
+                    "mrs/Kiwi Ears Quintet"
                 ],
                 "preferredShop": "Linsoul"
             },
@@ -19493,6 +19560,10 @@
                 "file": "crinacle/E25"
             },
             {
+                "name": "Razer Moray",
+                "file": "crinacle/Moray"
+            },
+            {
                 "name": "RHA CL1",
                 "file": "crinacle/CL1"
             },
@@ -26594,6 +26665,33 @@
                 ]
             },
             {
+                "name": "Hidizs MS3 Bass",
+                "file": [
+                    "hep/Hidizs MS3 Red"
+                ],
+                "suffix": [
+                    "(Charm Red)"
+                ]
+            },
+            {
+                "name": "Hidizs MS3 Balanced",
+                "file": [
+                    "hep/Hidizs MS3 Rose"
+                ],
+                "suffix": [
+                    "(Rose Gold)"
+                ]
+            },
+            {
+                "name": "Hidizs MS3 Treble",
+                "file": [
+                    "hep/Hidizs MS3 Silver"
+                ],
+                "suffix": [
+                    "(Quiet Silver)"
+                ]
+            },
+            {
                 "name": "Hidizs MS5 Bass",
                 "file": "hep/Hidizs MS5 Bass"
             },
@@ -26813,6 +26911,10 @@
                 "suffix": [
                     "(Silver)"
                 ]
+            },
+            {
+                "name": "LetShuoer DZ4",
+                "file": "hep/LetShuoer DZ4_"
             },
             {
                 "name": "Lypertek Bevi",
@@ -27411,6 +27513,10 @@
                 "file": "ianfann/AUDIO HEKILI"
             },
             {
+                "name": "AUDIOSENSE AQ7",
+                "file": "ianfann/AUDIOSENSE AQ7"
+            },
+            {
                 "name": "AUDIOSENSE DT300",
                 "file": "ianfann/AUDIOSENSE DT300"
             },
@@ -27627,6 +27733,10 @@
                 "file": "ianfann/FATFREQ MAESTRO SE"
             },
             {
+                "name": "FLOAUDIO BLUELOVER",
+                "file": "ianfann/FLOAUDIO BLUELOVER"
+            },
+            {
                 "name": "FLOAUDIO CALLA",
                 "file": "ianfann/FLOAUDIO CALLA"
             },
@@ -27801,6 +27911,10 @@
             {
                 "name": "KINERA URD",
                 "file": "ianfann/KINERA URD"
+            },
+            {
+                "name": "KIWI EARS DOLCE",
+                "file": "ianfann/KIWIEARS DOLCE"
             },
             {
                 "name": "KIWI EARS ORCHESTRA LITE",
@@ -28267,6 +28381,10 @@
                 "file": "ianfann/SIMGOT EN1000 N3A000"
             },
             {
+                "name": "SIMGOT EW200",
+                "file": "ianfann/SIMGOT EW200"
+            },
+            {
                 "name": "SIMGOT EW100P",
                 "file": "ianfann/SIMGOT EW100P"
             },
@@ -28505,6 +28623,10 @@
             {
                 "name": "WHIZZER BS1",
                 "file": "ianfann/WHIZZER BS1"
+            },
+            {
+                "name": "WHIZZER H1",
+                "file": "ianfann/WHIZZER H1"
             },
             {
                 "name": "WHIZZER HE10",
@@ -29212,6 +29334,10 @@
     {
         "name": "nymz",
         "phones": [
+            {
+                "name": "7th Acoustic Supernova",
+                "file": "nymz/7th Acoustic Supernova"
+            },
             {
                 "name": "7hz Legato",
                 "file": "nymz/7hz LEGATO"
@@ -30253,6 +30379,10 @@
             {
                 "name": "Dunu EST 112",
                 "file": "harpo/Dunu EST 112"
+            },
+            {
+                "name": "EPZ G10",
+                "file": "harpo/EPZ G10"
             },
             {
                 "name": "EPZ Q1 ",
@@ -31467,6 +31597,23 @@
                 "file": "iemworld/FINAL E1000"
             },
             {
+                "name": "Kinera Skuld",
+                "file": [
+                    "iemworld/Kinera Skuld (Original Silicone)",
+                    "iemworld/Kinera Skuld (Tripowin Foam)",
+                    "iemworld/Kinera Skuld (MoonDrop Spring Tips)",
+                    "iemworld/Kinera Skuld (Whizzer Easytips ET100AB)",
+                    "iemworld/Kinera Skuld (Final E Tips)"
+                ],
+                "suffix": [
+                    "(ORIGNAL SILICON)",
+                    "(Tripowin Foam)",
+                    "(MoonDrop Spring Tips)",
+                    "(Whizzer Easytips ET100AB)",
+                    "(FINAL EARTIPS)"
+                ]
+            },
+            {
                 "name": "KZ HBB DQ6S",
                 "file": "iemworld/KZ HBB DQ6S"
             },
@@ -31656,6 +31803,23 @@
             {
                 "name": "Shozy Black Hole Mini Stainless Steel Version",
                 "file": "iemworld/Shozy Black Hole Mini Stainless Steel Version"
+            },
+            {
+                "name": "Sony IER M9",
+                "file": [
+                    "iemworld/Sony IER M9 (Original Silicone)",
+                    "iemworld/Sony IER M9 (Original Foam)",
+                    "iemworld/Sony IER M9 (MoonDrop Spring Tips)",
+                    "iemworld/Sony IER M9 (Whizzer Easytips ET100AB)",
+                    "iemworld/Sony IER M9 (Tripowin Foam)"
+                ],
+                "suffix": [
+                    "(ORIGNAL SILICON)",
+                    "(Original Foam)",
+                    "(MoonDrop Spring Tips)",
+                    "(Whizzer Easytips ET100AB)",
+                    "(Tripowin Foam)"
+                ]
             },
             {
                 "name": "Sony IER Z1R",
