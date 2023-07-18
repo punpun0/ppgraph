@@ -487,6 +487,10 @@
                 "file": "aftersound/EPZ K1"
             },
             {
+                "name": "EPZ K5",
+                "file": "aftersound/EPZ K5"
+            },
+            {
                 "name": "ETYMOTIC ER4SR",
                 "file": "aftersound/ETYMOTIC ER4SR"
             },
@@ -1956,98 +1960,6 @@
         "name": "HBB",
         "phones": [
             {
-                "name": "55Hz 622",
-                "file": "hbb/Tripowin X Hbb Loki"
-            },
-            {
-                "name": "55Hz 55 bass",
-                "file": "hbb/55 BQ B"
-            },
-            {
-                "name": "55Hz 55 HB",
-                "file": "hbb/55 Hbb"
-            },
-            {
-                "name": "55Hz 55 HB L",
-                "file": "hbb/55 Hbl"
-            },
-            {
-                "name": "55Hz 55 Treb",
-                "file": "hbb/55 BQ T"
-            },
-            {
-                "name": "55Hz Cc",
-                "file": "hbb/55 Cc"
-            },
-            {
-                "name": "55Hz 55",
-                "file": "hbb/55 BQ"
-            },
-            {
-                "name": "55Hz J1s",
-                "file": "hbb/J1b"
-            },
-            {
-                "name": "55Hz J4s",
-                "file": "hbb/J4s"
-            },
-            {
-                "name": "55Hz J4b",
-                "file": "hbb/Jb4"
-            },
-            {
-                "name": "55Hz J3s",
-                "file": "hbb/J3s"
-            },
-            {
-                "name": "55Hz J1234s",
-                "file": "hbb/J1234s"
-            },
-            {
-                "name": "55Hz J3b",
-                "file": "hbb/J3b"
-            },
-            {
-                "name": "55Hz J2s",
-                "file": "hbb/J2s"
-            },
-            {
-                "name": "55Hz J2b",
-                "file": "hbb/J2b"
-            },
-            {
-                "name": "55Hz El",
-                "file": "hbb/Elemento"
-            },
-            {
-                "name": "55Hz Hk",
-                "file": "hbb/55 Hk"
-            },
-            {
-                "name": "55Hz Hkk",
-                "file": "hbb/55 Hkk"
-            },
-            {
-                "name": "55Hz H20",
-                "file": "hbb/Simgot Ew 200"
-            },
-            {
-                "name": "55Hz T1",
-                "file": "hbb/55 1"
-            },
-            {
-                "name": "55Hz T2",
-                "file": "hbb/55 2"
-            },
-            {
-                "name": "55Hz 625",
-                "file": "hbb/55kk"
-            },
-            {
-                "name": "55Hz Blended",
-                "file": "hbb/55 Kailua"
-            },
-            {
                 "name": "64 Audio Tia Fourte",
                 "file": "hbb/64 Audio Tia Fourte"
             },
@@ -2254,6 +2166,10 @@
             {
                 "name": "BLON Fat Girl",
                 "file": "hbb/BLON Fat Girl"
+            },
+            {
+                "name": "BLON X ZEOS jojo",
+                "file": "hbb/Blon jojo"
             },
             {
                 "name": "BLON  X HBB Z300 ",
@@ -3004,6 +2920,14 @@
                 "file": "hbb/Letshuoer Galileo"
             },
             {
+                "name": "LetShuoer DZ4",
+                "file": "hbb/Lets DZ4"
+            },
+            {
+                "name": "LetShuoer DZ4 PR pulled blocked",
+                "file": "hbb/Rascal"
+            },
+            {
                 "name": "LetShuoer CADENZA 12",
                 "file": "hbb/Letshuoer 12"
             },
@@ -3492,18 +3416,6 @@
                 "file": "hbb/Sam 2dd 3ba L"
             },
             {
-                "name": "Sample BQE",
-                "file": "hbb/Sam Bqe"
-            },
-            {
-                "name": "Sample TRI",
-                "file": "hbb/Sam Tri"
-            },
-            {
-                "name": "Sample Sample 2",
-                "file": "hbb/Sample 2"
-            },
-            {
                 "name": "Semkarch CNT1",
                 "file": "hbb/Semkarch CNT"
             },
@@ -3816,6 +3728,10 @@
                 "file": "hbb/Thieaudio Monarch MK2"
             },
             {
+                "name": "ThieAudio Monarch MKIII",
+                "file": "hbb/Thi Mk3"
+            },
+            {
                 "name": "ThieAudio V16 Divinity",
                 "file": "hbb/Thieaudio V16 Divinity"
             },
@@ -3936,8 +3852,8 @@
                 "file": "hbb/Olina Se 2 Foam"
             },
             {
-                "name": "Tripowin Piccolo",
-                "file": "hbb/Tripowin Piccolo"
+                "name": "Tripowin X HBB Kailua",
+                "file": "hbb/55 K"
             },
             {
                 "name": "Tripowin Lea'",
@@ -4555,6 +4471,10 @@
                 "file": "pw/DUNU Titan Tanya"
             },
             {
+                "name": "EPZ G10",
+                "file": "pw/EPZ G10"
+            },
+            {
                 "name": "EPZ Q1",
                 "file": "pw/EPZ Q1"
             },
@@ -4944,6 +4864,19 @@
                 "file": "pw/KZ ESX"
             },
             {
+                "name": "KZ Krila",
+                "file": [
+                    "pw/KZ Krilla 1111",
+                    "pw/KZ Krilla 0000",
+                    "pw/KZ Krilla 1111 No8k"
+                ],
+                "suffix": [
+                    "1111",
+                    "0000",
+                    "No 8K Coupler"
+                ]
+            },
+            {
                 "name": "KZ Ling Long",
                 "file": "pw/KZ Linlong"
             },
@@ -4966,10 +4899,12 @@
                 "name": "KZ x HBB PR2",
                 "file": [
                     "pw/KZ x HBB PR2",
+                    "pw/KZ x HBB PR2 S2",
                     "pw/KZ x HBB PR2 MP"
                 ],
                 "suffix": [
                     "Stock",
+                    "Set2",
                     "MP"
                 ]
             },
@@ -5134,6 +5069,10 @@
             {
                 "name": "Kiwi Ears Orchestra Lite",
                 "file": "pw/Kiwi Ears Orchestra Lite"
+            },
+            {
+                "name": "Kiwi Ears Quintet",
+                "file": "pw/Kiwi Ears Quintet"
             },
             {
                 "name": "LetShuoer D13",
@@ -5398,6 +5337,10 @@
                 ]
             },
             {
+                "name": "Simgot EM6L",
+                "file": "pw/Simgot EM6L"
+            },
+            {
                 "name": "Simgot EW100P",
                 "file": "pw/SIMGOT EW100P"
             },
@@ -5660,6 +5603,10 @@
             {
                 "name": "TRI Meteor",
                 "file": "pw/TRI Meteor"
+            },
+            {
+                "name": "Tripowin X HBB Kailua",
+                "file": "pw/Tripowin x HBB Kailua"
             },
             {
                 "name": "Tripowin X HBB Mele",
@@ -5930,6 +5877,17 @@
                 ]
             },
             {
+                "name": "Zhulinniao Zhulinniao QingLuan Z4",
+                "file": [
+                    "pw/Zhulinniao QingLuan White",
+                    "pw/Zhulinniao QingLuan Red"
+                ],
+                "suffix": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
                 "name": "Zhulinniao ShuangHua Z2",
                 "file": [
                     "pw/Zhulinniao ShuangHua Z2"
@@ -5944,8 +5902,20 @@
         "name": "Precogvision",
         "phones": [
             {
+                "name": "64 Audio A2e",
+                "file": "precog/64 Audio A2e"
+            },
+            {
+                "name": "64 Audio A3e",
+                "file": "precog/64 Audio A3e"
+            },
+            {
                 "name": "64 Audio A3t",
                 "file": "precog/64 Audio A3t"
+            },
+            {
+                "name": "64 Audio A3t (Demo)",
+                "file": "precog/64 Audio U3t"
             },
             {
                 "name": "64 Audio A4s",
@@ -6806,6 +6776,10 @@
                 ]
             },
             {
+                "name": "Juzear 41T",
+                "file": "precog/Juzear 41T"
+            },
+            {
                 "name": "JVC FX7 Gumy",
                 "file": "precog/JVC FX7 Gumy"
             },
@@ -6828,6 +6802,10 @@
             {
                 "name": "Kinera Norn",
                 "file": "precog/Kinera Norn"
+            },
+            {
+                "name": "Kiwi Ears Quartet",
+                "file": "precog/KiwiEars Quartet (OFF)"
             },
             {
                 "name": "Kiwi Ears Orchestra",
@@ -7415,6 +7393,10 @@
                     "Symphonium Tips",
                     "Azla SednaEarfit"
                 ]
+            },
+            {
+                "name": "Symphonium Helios SE",
+                "file": "precog/Symphonium Helios SE"
             },
             {
                 "name": "Symphonium Meteor",
@@ -9201,12 +9183,23 @@
                     "(pre-op)",
                     "(defect)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=iTf9m_7VzlA",
+                "price": "$100",
+                "shopLink": "https://www.linsoul.com/products/7hz-x-crinacle-salnotes-dioko",
+                "amazon": "https://amzn.to/3I8yhYA"
             },
             {
                 "name": "7Hz Salnotes Zero",
                 "file": "mrs/7Hz Zero",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=vftKamJfh-A",
+                "price": "$23",
+                "shopLink": "https://www.linsoul.com/products/7hz-salnotes-zero",
+                "amazon": "https://amzn.to/3cRoydS",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DDwzLar"
             },
             {
                 "name": "7Hz Timeless",
@@ -9218,11 +9211,21 @@
                     "(sample 1)",
                     "(sample 2)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=Eg9I4bpIspg",
+                "price": "$220",
+                "shopLink": "https://www.linsoul.com/products/7hz-timeless",
+                "amazon": "https://amzn.to/3BQFf0D",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AZpQu3"
             },
             {
                 "name": "7th Acoustics Proxima",
-                "file": "mrs/7th Acoustics Proxima"
+                "file": "mrs/7th Acoustics Proxima",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=N7CTigmE8tI",
+                "price": "$100",
+                "shopLink": ""
             },
             {
                 "name": "7th Acoustics Supernova",
@@ -9233,19 +9236,35 @@
                 "suffix": [
                     "(sample 1)",
                     "(sample 2)"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=cPwoHIvgBHA",
+                "price": "$750",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio Duo",
-                "file": "mrs/64 Audio Duo"
+                "file": "mrs/64 Audio Duo",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$1,200",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio Fourte",
-                "file": "mrs/64 Audio Fourte"
+                "file": "mrs/64 Audio Fourte",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=PJgfdV3t3M8",
+                "price": "$3,600",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio Fourte Blanc",
-                "file": "mrs/64 Audio Fourte Blanc"
+                "file": "mrs/64 Audio Fourte Blanc",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$3,700",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio Nio",
@@ -9270,11 +9289,19 @@
                     "(sample 1 - m20)",
                     "(sample 1 - m15)",
                     "(sample 1 - mX)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=PJgfdV3t3M8",
+                "price": "$1,700",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio Trio",
-                "file": "mrs/64 Audio Trio"
+                "file": "mrs/64 Audio Trio",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=PJgfdV3t3M8",
+                "price": "$2,300",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio U4s",
@@ -9302,7 +9329,11 @@
                     "(sample 1 - m12)",
                     "(sample 1 - mX)"
                 ],
-                "preferredShop": "Headphonesdotcom"
+                "preferredShop": "Headphonesdotcom",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=d_qH0HT0_Ds",
+                "price": "$1,100",
+                "shopLink": "https://headphones.com/products/64-audio-u4s-in-ear-headphones"
             },
             {
                 "name": "64 Audio U6t",
@@ -9311,7 +9342,11 @@
                 ],
                 "suffix": [
                     "(m15)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$1,300",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio U12t",
@@ -9334,7 +9369,11 @@
                     "(m20)",
                     "(m15)",
                     "(mX)"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=PJgfdV3t3M8",
+                "price": "$2,000",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio U18s",
@@ -9343,7 +9382,11 @@
                 ],
                 "suffix": [
                     "(m20)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=PJgfdV3t3M8",
+                "price": "$3,000",
+                "shopLink": ""
             },
             {
                 "name": "64 Audio U18t",
@@ -9356,7 +9399,11 @@
                     "(m20)",
                     "(m15)",
                     "(mX)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=PJgfdV3t3M8",
+                "price": "$3,000",
+                "shopLink": ""
             },
             {
                 "name": "Aful Acoustics Performer 5",
@@ -9371,15 +9418,29 @@
                     "(impedance adapter: 15 ohm)",
                     "(impedance adapter: 36 ohm)",
                     "(impedance adapter: 75 ohm)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=hNtGmjzPk5Q",
+                "price": "$220",
+                "shopLink": "https://amzn.to/3RkEyFn",
+                "amazon": "https://amzn.to/3RkEyFn",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DnObiQP"
             },
             {
                 "name": "Akoustyx R-120",
-                "file": "mrs/Akoustyx R-120"
+                "file": "mrs/Akoustyx R-120",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=FBOlEhoNKDQ",
+                "price": "$170",
+                "shopLink": ""
             },
             {
                 "name": "Akoustyx R-220",
-                "file": "mrs/Akoustyx R-220"
+                "file": "mrs/Akoustyx R-220",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=FBOlEhoNKDQ",
+                "price": "$200",
+                "shopLink": ""
             },
             {
                 "name": "Akoustyx S-6",
@@ -9392,7 +9453,11 @@
                     "(sample 2)",
                     "(S2 + Tanchjim filter)",
                     "(sample 1)"
-                ]
+                ],
+                "reviewScore": "1",
+                "reviewLink": "https://www.youtube.com/watch?v=U8__QSKeUrk",
+                "price": "$250",
+                "shopLink": ""
             },
             {
                 "name": "Apple AirPods Pro",
@@ -9401,35 +9466,75 @@
                 ],
                 "suffix": [
                     "(firmware 3A283)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=IckxU2ZDuck",
+                "price": "$250",
+                "shopLink": "https://amzn.to/3gRrOnM",
+                "amazon": "https://amzn.to/3gRrOnM"
             },
             {
                 "name": "Audio Hekili",
-                "file": "mrs/Audio Hekili"
+                "file": "mrs/Audio Hekili",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$300",
+                "shopLink": ""
             },
             {
                 "name": "Audio Lokahi",
-                "file": "mrs/Audio Lokahi 7BA"
+                "file": "mrs/Audio Lokahi 7BA",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$240",
+                "shopLink": ""
             },
             {
                 "name": "Audiosense AQ7",
-                "file": "mrs/Audiosense AQ7"
+                "file": "mrs/Audiosense AQ7",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=giydUZaRr-Y",
+                "price": "$500",
+                "shopLink": "https://www.aliexpress.com/item/4001248898347.html",
+                "aliexpress": "https://www.aliexpress.com/item/4001248898347.html"
             },
             {
                 "name": "Audiosense DT200",
-                "file": "mrs/Audiosense DT200"
+                "file": "mrs/Audiosense DT200",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$150",
+                "shopLink": "https://www.aliexpress.com/item/1005001290130280.html",
+                "aliexpress": "https://www.aliexpress.com/item/1005001290130280.html"
             },
             {
                 "name": "Audiosense T180",
-                "file": "mrs/Audiosense T180"
+                "file": "mrs/Audiosense T180",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$41",
+                "shopLink": "https://amzn.to/2Us3QYH",
+                "amazon": "https://amzn.to/2Us3QYH",
+                "aliexpress": "https://www.aliexpress.com/item/32982997571.html"
             },
             {
                 "name": "Auglamour F300",
-                "file": "mrs/Auglamour F300"
+                "file": "mrs/Auglamour F300",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=3gBxaCAUr_o",
+                "price": "$40",
+                "shopLink": "https://s.click.aliexpress.com/e/_A8QcRB",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A8QcRB"
             },
             {
                 "name": "Auglamour RT-3",
-                "file": "mrs/Auglamour RT-3"
+                "file": "mrs/Auglamour RT-3",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=1OOZQTYU18Q",
+                "price": "$120",
+                "shopLink": "https://amzn.to/3xzxtWa",
+                "amazon": "https://amzn.to/3xzxtWa",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AdLWNb"
             },
             {
                 "name": "Aune Jasper",
@@ -9440,15 +9545,40 @@
                 "suffix": [
                     "(stock)",
                     "(Tanchjim filter)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$300",
+                "shopLink": ""
             },
             {
                 "name": "BGVP DM6",
-                "file": "mrs/BGVP DM6"
+                "file": "mrs/BGVP DM6",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=T7KG50JDTRI",
+                "price": "$200",
+                "shopLink": "https://s.click.aliexpress.com/e/_9zRwiN",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9zRwiN"
             },
             {
                 "name": "BGVP DM8",
-                "file": "mrs/BGVP DM8"
+                "file": "mrs/BGVP DM8",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=fC9golEdlwo",
+                "price": "$350",
+                "shopLink": "https://amzn.to/3xG87WJ",
+                "amazon": "https://amzn.to/3xG87WJ",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DEcEp9V"
+            },
+            {
+                "name": "BGVP DM9",
+                "file": "mrs/BGVP DM9",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$680",
+                "shopLink": "https://amzn.to/3OgSjoC",
+                "amazon": "https://amzn.to/3OgSjoC",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DBPQjg1"
             },
             {
                 "name": "BGVP DMG",
@@ -9457,7 +9587,12 @@
                 ],
                 "suffix": [
                     "(silver filter)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$140",
+                "shopLink": "https://s.click.aliexpress.com/e/_A1VuOz",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A1VuOz"
             },
             {
                 "name": "BGVP Melody",
@@ -9470,7 +9605,13 @@
                     "(nozzle: balanced)",
                     "(nozzle: hifi)",
                     "(nozzle: pop)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$120",
+                "shopLink": "https://amzn.to/3B7Jo0Z",
+                "amazon": "https://amzn.to/3B7Jo0Z",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DndNtHz"
             },
             {
                 "name": "BGVP NS9",
@@ -9487,27 +9628,61 @@
                     "(silver filter)",
                     "(tips: black)",
                     "(tips: black, no mesh)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=yF8UTJi-A6U",
+                "price": "$170",
+                "shopLink": "https://amzn.to/2Si1cEd",
+                "amazon": "https://amzn.to/2Si1cEd",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AOhqLn"
             },
             {
                 "name": "Blon A8 Prometheus",
-                "file": "mrs/Blon A8 Prometheus"
+                "file": "mrs/Blon A8 Prometheus",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=XXoqcJHAK6I",
+                "price": "$88",
+                "shopLink": "https://amzn.to/3qhBY5x",
+                "amazon": "https://amzn.to/3qhBY5x",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9J641x"
             },
             {
                 "name": "Blon BL03",
-                "file": "mrs/Blon BL03"
+                "file": "mrs/Blon BL03",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$39",
+                "shopLink": "https://amzn.to/35JJhcK",
+                "amazon": "https://amzn.to/35JJhcK",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9u6J3j"
             },
             {
                 "name": "Blon BL05",
-                "file": "mrs/Blon BL05"
+                "file": "mrs/Blon BL05",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://amzn.to/35E72mq",
+                "amazon": "https://amzn.to/35E72mq",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Abl1cV"
             },
             {
                 "name": "Blon Z300",
-                "file": "mrs/Blon Z300"
+                "file": "mrs/Blon Z300",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$35",
+                "shopLink": "https://amzn.to/42W6vIm",
+                "amazon": "https://amzn.to/42W6vIm",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DmzaGsH"
             },
             {
                 "name": "Brainwavz Koel",
-                "file": "mrs/Brainwavz Koel"
+                "file": "mrs/Brainwavz Koel",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": ""
             },
             {
                 "name": "BQEYZ Autumn",
@@ -9520,78 +9695,163 @@
                     "(normal)",
                     "(bass)",
                     "(treble)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$200",
+                "shopLink": "https://amzn.to/3Jp0Jod",
+                "amazon": "https://amzn.to/3Jp0Jod",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ALJD73"
             },
             {
                 "name": "Campfire Audio Andromeda 2019",
-                "file": "mrs/Campfire Audio Andromeda 2019"
+                "file": "mrs/Campfire Audio Andromeda 2019",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$1,000",
+                "shopLink": ""
             },
             {
                 "name": "Campfire Audio Andromeda 2020",
-                "file": "mrs/Campfire Audio Andromeda 2020"
+                "file": "mrs/Campfire Audio Andromeda 2020",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$1,100",
+                "shopLink": ""
             },
             {
                 "name": "Campfire Audio Ara",
-                "file": "mrs/Campfire Audio Ara"
+                "file": "mrs/Campfire Audio Ara",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$1,300",
+                "shopLink": "https://amzn.to/3zyhxYG",
+                "amazon": "https://amzn.to/3zyhxYG"
             },
             {
                 "name": "Campfire Audio Dorado 2020",
-                "file": "mrs/Campfire Audio Dorado 2020"
+                "file": "mrs/Campfire Audio Dorado 2020",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=pdHKyta1GRI",
+                "price": "$1,100",
+                "shopLink": ""
             },
             {
                 "name": "Campfire Audio Onyx",
-                "file": "mrs/Campfire Audio Onyx"
+                "file": "mrs/Campfire Audio Onyx",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$229",
+                "shopLink": ""
             },
             {
                 "name": "Campfire Audio Pathfinder",
-                "file": "mrs/Campfire Audio Pathfinder"
+                "file": "mrs/Campfire Audio Pathfinder",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$1,900",
+                "shopLink": ""
             },
             {
                 "name": "Cayin Fantasy",
-                "file": "mrs/Cayin Fantasy"
+                "file": "mrs/Cayin Fantasy",
+                "reviewScore": "1",
+                "reviewLink": "https://www.youtube.com/watch?v=DC0Vxr_LXw0",
+                "price": "$800",
+                "shopLink": "https://s.click.aliexpress.com/e/_9vvQhL",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9vvQhL"
             },
             {
                 "name": "CCA C10",
-                "file": "mrs/CCA C10"
+                "file": "mrs/CCA C10",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=a5xE1bdp6VQ",
+                "price": "$50",
+                "shopLink": "https://amzn.to/3zKGg9A",
+                "amazon": "https://amzn.to/3zKGg9A",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A1dyhb"
             },
             {
                 "name": "CCA CRA",
-                "file": "mrs/CCA CRA"
+                "file": "mrs/CCA CRA",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$14",
+                "shopLink": "https://amzn.to/3Ij2inD",
+                "amazon": "https://amzn.to/3Ij2inD",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9Gm7cy"
             },
             {
                 "name": "CCA CRA Plus",
-                "file": "mrs/CCA CRA Plus"
+                "file": "mrs/CCA CRA Plus",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$28",
+                "shopLink": "https://amzn.to/3GVobto",
+                "amazon": "https://amzn.to/3GVobto",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AqzwuD"
             },
             {
                 "name": "CCZ Plume",
-                "file": "mrs/CCZ Plume"
+                "file": "mrs/CCZ Plume",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$200",
+                "shopLink": "https://s.click.aliexpress.com/e/_APNJh1",
+                "aliexpress": "https://s.click.aliexpress.com/e/_APNJh1"
             },
             {
                 "name": "Co-Donguri Brass",
-                "file": "mrs/Co-Donguri Brass"
+                "file": "mrs/Co-Donguri Brass",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=GzB7sjuZKeI",
+                "price": "$34",
+                "shopLink": ""
             },
             {
                 "name": "Co-Donguri Shizuku",
-                "file": "mrs/Co-Donguri Shizuku"
+                "file": "mrs/Co-Donguri Shizuku",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$42",
+                "shopLink": ""
             },
             {
                 "name": "Colorfly Quintet",
                 "file": "mrs/Colorfly Quintet",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=CVYuOFADqko",
+                "price": "$900",
+                "shopLink": "https://shenzhenaudio.com/products/colorfly-quintet-earphone-1dd-4ba-hybrid-in-ear-monitors-iem"
             },
             {
                 "name": "Custom Art Fibae 7 Unlimited",
-                "file": "mrs/Custom Art Fibae 7 Unlimited"
+                "file": "mrs/Custom Art Fibae 7 Unlimited",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$1,500",
+                "shopLink": ""
             },
             {
                 "name": "Drop / Massdrop Plus",
-                "file": "mrs/Massdrop Plus"
+                "file": "mrs/Massdrop Plus",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$150",
+                "shopLink": ""
             },
             {
                 "name": "Dunu EST 112",
                 "file": [
                     "mrs/Dunu EST 112"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=yjGK2IhWVtU",
+                "price": "$490",
+                "shopLink": "https://amzn.to/3xG8EId",
+                "amazon": "https://amzn.to/3xG8EId",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AbPkpj"
             },
             {
                 "name": "Dunu Falcon Pro",
@@ -9606,15 +9866,48 @@
                     "(nozzle: atmospheric immersion) [red]",
                     "(nozzle: transparency) [blue]",
                     "(experimental)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=JuIIp9rdjs4",
+                "price": "$220",
+                "shopLink": "https://s.click.aliexpress.com/e/_9fvUF3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9fvUF3"
+            },
+            {
+                "name": "Dunu Falcon Ultra",
+                "file": [
+                    "mrs/Dunu Falcon Ultra (blue)",
+                    "mrs/Dunu Falcon Ultra (gold)"
+                ],
+                "suffix": [
+                    "(nozzle: blue)",
+                    "(nozzle: gold)"
+                ],
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$240",
+                "shopLink": "https://amzn.to/3OhnC2I",
+                "amazon": "https://amzn.to/3OhnC2I",
+                "aliexpress": ""
             },
             {
                 "name": "Dunu Kima",
-                "file": "mrs/Dunu Kima"
+                "file": "mrs/Dunu Kima",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$110",
+                "shopLink": "https://amzn.to/3zUIEw6",
+                "amazon": "https://amzn.to/3zUIEw6",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DcJfFzN"
             },
             {
                 "name": "Dunu SA3",
-                "file": "mrs/Dunu SA3"
+                "file": "mrs/Dunu SA3",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$140",
+                "shopLink": "https://s.click.aliexpress.com/e/_AKPrhJ",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AKPrhJ"
             },
             {
                 "name": "Dunu SA6",
@@ -9625,7 +9918,13 @@
                 "suffix": [
                     "(switch: off)",
                     "(switch: on)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=U3qiRc3lTbQ",
+                "price": "$550",
+                "shopLink": "https://amzn.to/3wHxZS1",
+                "amazon": "https://amzn.to/3wHxZS1",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ABehLx"
             },
             {
                 "name": "Dunu SA6 mkII",
@@ -9637,7 +9936,13 @@
                     "(switch: off)",
                     "(switch: on)"
                 ],
-                "preferredShop": "HiFiGo"
+                "preferredShop": "HiFiGo",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=6aSyWZcEUyA",
+                "price": "$580",
+                "shopLink": "https://hifigo.com/products/dunu-sa6-mkii-iems",
+                "amazon": "https://amzn.to/42k43eG",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DFlhwZ7"
             },
             {
                 "name": "Dunu SA6 Ultra",
@@ -9648,7 +9953,11 @@
                 "suffix": [
                     "(switch: off)",
                     "(switch: on)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$550",
+                "shopLink": ""
             },
             {
                 "name": "Dunu Titan S",
@@ -9657,7 +9966,13 @@
                 ],
                 "suffix": [
                     "(pre-production)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=QNrBKIEXuX8",
+                "price": "$80",
+                "shopLink": "https://amzn.to/3FAy1j9",
+                "amazon": "https://amzn.to/3FAy1j9",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AmfQco"
             },
             {
                 "name": "Dunu Talos",
@@ -9672,7 +9987,13 @@
                     "(sample 2 - switch: on)",
                     "(switch: off)",
                     "(switch: on)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=orKHU8vy-Rg",
+                "price": "$200",
+                "shopLink": "https://amzn.to/3rqoIN9",
+                "amazon": "https://amzn.to/3rqoIN9",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DEdRxkn"
             },
             {
                 "name": "Dunu Vulkan",
@@ -9685,11 +10006,22 @@
                     "(sample 2, tips: gray)",
                     "(sample 2, tips: red)",
                     "(sample 1)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=sxHRaYxH5oE",
+                "price": "$380",
+                "shopLink": "https://amzn.to/3ONA5bT",
+                "amazon": "https://amzn.to/3ONA5bT",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DlpC8ux"
             },
             {
                 "name": "Dunu Zen",
-                "file": "mrs/Dunu Zen"
+                "file": "mrs/Dunu Zen",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=utfoDO20jn8",
+                "price": "$700",
+                "shopLink": "https://s.click.aliexpress.com/e/_A0UQuh",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A0UQuh"
             },
             {
                 "name": "Dunu Zen Pro",
@@ -9700,7 +10032,11 @@
                 "suffix": [
                     "",
                     "(pre-production)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=QhwYGnDUn84",
+                "price": "$900",
+                "shopLink": ""
             },
             {
                 "name": "EarFun Free Pro - Oluv Edition",
@@ -9711,11 +10047,19 @@
                 "suffix": [
                     "ANC off",
                     "ANC on"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$70",
+                "shopLink": ""
             },
             {
                 "name": "Effect Audio Axiom",
-                "file": "mrs/Effect Audio Axiom"
+                "file": "mrs/Effect Audio Axiom",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$1,500",
+                "shopLink": ""
             },
             {
                 "name": "Effect Audio x Elysian Acoustic Labs Gaea",
@@ -9726,31 +10070,59 @@
                 "suffix": [
                     "",
                     "(deep insert)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=8JbmMW1EL28",
+                "price": "$1,300",
+                "shopLink": ""
             },
             {
                 "name": "Elysian Acoustic Labs Annihilator",
-                "file": "mrs/Elysian Annihilator"
+                "file": "mrs/Elysian Annihilator",
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$3,700",
+                "shopLink": ""
             },
             {
                 "name": "Empire Ears Bravado mk.II",
-                "file": "mrs/Empire Ears Bravado mkII"
+                "file": "mrs/Empire Ears Bravado mkII",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$800",
+                "shopLink": ""
             },
             {
                 "name": "Empire Ears ESR mk.II",
-                "file": "mrs/Empire Ears ESR mkII"
+                "file": "mrs/Empire Ears ESR mkII",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$1,100",
+                "shopLink": ""
             },
             {
                 "name": "Empire Ears Legend Evo",
-                "file": "mrs/Empire Ears Legend Evo"
+                "file": "mrs/Empire Ears Legend Evo",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$3,100",
+                "shopLink": ""
             },
             {
                 "name": "Empire Ears Valkyrie mk.II",
-                "file": "mrs/Empire Ears Valkyrie mkII"
+                "file": "mrs/Empire Ears Valkyrie mkII",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$1,600",
+                "shopLink": ""
             },
             {
                 "name": "Etymotic ETY Kids",
-                "file": "mrs/Etymotic ETY Kids"
+                "file": "mrs/Etymotic ETY Kids",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": ""
             },
             {
                 "name": "Etymotic ER2SE",
@@ -9765,7 +10137,12 @@
                     "(sample 1)",
                     "(sample 1: AutoEQ)",
                     "(sample 1: AutoEQ - Oratory)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": "https://amzn.to/2UqVQar",
+                "amazon": "https://amzn.to/2UqVQar"
             },
             {
                 "name": "Etymotic ER2XR",
@@ -9782,11 +10159,21 @@
                     "(filters: brown)",
                     "(filters: white)",
                     "(filters: brown + tips: 2-flange)"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=W4sHUJGeh6M",
+                "price": "$100",
+                "shopLink": "https://amzn.to/3wOnUmq",
+                "amazon": "https://amzn.to/3wOnUmq"
             },
             {
                 "name": "Etymotic ER4S",
-                "file": "mrs/Etymotic ER4S"
+                "file": "mrs/Etymotic ER4S",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$300",
+                "shopLink": "https://amzn.to/3DrTMAk",
+                "amazon": "https://amzn.to/3DrTMAk"
             },
             {
                 "name": "Etymotic ER4XR",
@@ -9799,7 +10186,12 @@
                     "(tips: 3-flange)",
                     "(tips: 2-flange)",
                     "(tips: foam)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=FZ2jbyyInpo",
+                "price": "$200",
+                "shopLink": "https://amzn.to/3vGUdlX",
+                "amazon": "https://amzn.to/3vGUdlX"
             },
             {
                 "name": "Etymotic ERX",
@@ -9810,7 +10202,11 @@
                 "suffix": [
                     "(filters: green - stock)",
                     "(filters: brown)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$300",
+                "shopLink": ""
             },
             {
                 "name": "Etymotic Evo",
@@ -9821,15 +10217,31 @@
                 "suffix": [
                     "(tips: 3-flange)",
                     "(tips: 2-flange)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=v657WoXR59s",
+                "price": "$500",
+                "shopLink": "https://amzn.to/3zYrj31",
+                "amazon": "https://amzn.to/3zYrj31"
             },
             {
                 "name": "Etymotic MK5 Isolator",
-                "file": "mrs/Etymotic MK5"
+                "file": "mrs/Etymotic MK5",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://amzn.to/3hnthCz",
+                "amazon": "https://amzn.to/3hnthCz"
             },
             {
                 "name": "Fiio FA1",
-                "file": "mrs/Fiio FA1"
+                "file": "mrs/Fiio FA1",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=hUr2bRoLl8E",
+                "price": "$85",
+                "shopLink": "https://amzn.to/2TMyvj3",
+                "amazon": "https://amzn.to/2TMyvj3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ACymbX"
             },
             {
                 "name": "Fiio FD3",
@@ -9846,7 +10258,13 @@
                     "(tips: bass)",
                     "(tips: foam)",
                     "(tips: vocal)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=NUGZ-fSlBvQ",
+                "price": "$100",
+                "shopLink": "https://amzn.to/3lko7sL",
+                "amazon": "https://amzn.to/3lko7sL",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A6NAIs"
             },
             {
                 "name": "Fiio FD5",
@@ -9861,7 +10279,13 @@
                     "(nozzle: narrow + tips: 3-flange)",
                     "(nozzle: narrow + tips: Brainwavz)",
                     "(nozzle: narrow + tips: Shure)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=meG3kjsauVs",
+                "price": "$300",
+                "shopLink": "https://amzn.to/3gPcic8",
+                "amazon": "https://amzn.to/3gPcic8",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ABxZpf"
             },
             {
                 "name": "Fiio FD7",
@@ -9878,15 +10302,31 @@
                     "(nozzle: bass + tips: 3-flange)",
                     "(nozzle: bass + tips: SpinFit)",
                     "(40 hrs burn-in)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=1waqB2n1sNM",
+                "price": "$600",
+                "shopLink": "https://s.click.aliexpress.com/e/_Abt1o3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Abt1o3"
             },
             {
                 "name": "Fiio FD11",
-                "file": "mrs/Fiio FD11"
+                "file": "mrs/Fiio FD11",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$40",
+                "shopLink": "https://amzn.to/45BVlu6",
+                "amazon": "https://amzn.to/45BVlu6",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Dk9A5db"
             },
             {
                 "name": "Fiio FH1",
-                "file": "mrs/Fiio FH1"
+                "file": "mrs/Fiio FH1",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=_AC__8MiR5Q",
+                "price": "$70",
+                "shopLink": "https://s.click.aliexpress.com/e/_AcFTfb",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AcFTfb"
             },
             {
                 "name": "Fiio FH3",
@@ -9897,11 +10337,23 @@
                 "suffix": [
                     "(tips: stock)",
                     "(tips: Spring)"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=-eB2ho55yJk",
+                "price": "$130",
+                "shopLink": "https://amzn.to/2UkKGUp",
+                "amazon": "https://amzn.to/2UkKGUp",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Anqpkz"
             },
             {
                 "name": "Fiio FH5",
-                "file": "mrs/Fiio FH5"
+                "file": "mrs/Fiio FH5",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$250",
+                "shopLink": "https://amzn.to/2SSMaoD",
+                "amazon": "https://amzn.to/2SSMaoD",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A4kpWh"
             },
             {
                 "name": "Fiio FH5S",
@@ -9926,7 +10378,13 @@
                     "(200 hrs burn-in)",
                     "(200 hrs + FD5 cable)",
                     "(Tanchjim filter + bass switch on)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=PigNifyLGho",
+                "price": "$280",
+                "shopLink": "https://amzn.to/3cYOt0a",
+                "amazon": "https://amzn.to/3cYOt0a",
+                "aliexpress": "https://s.click.aliexpress.com/e/_97hDSp"
             },
             {
                 "name": "Fiio FH7S",
@@ -9939,7 +10397,23 @@
                     "(nozzle: blanced)",
                     "(nozzle: bass)",
                     "(nozzle: treble)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=TDeiryuDuug",
+                "price": "$400",
+                "shopLink": "https://amzn.to/3y5zLyT",
+                "amazon": "https://amzn.to/3y5zLyT",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Dmq4uSf"
+            },
+            {
+                "name": "Fiio FH11",
+                "file": "mrs/Fiio FH11",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "???",
+                "shopLink": "https://fiio.com/fh11",
+                "amazon": "",
+                "aliexpress": ""
             },
             {
                 "name": "Fiio FH15",
@@ -9952,7 +10426,13 @@
                     "(nozzle: treble)",
                     "(nozzle: balanced)",
                     "(nozzle: bass)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=WiFElUd4kYU",
+                "price": "$230",
+                "shopLink": "https://amzn.to/3wejsie",
+                "amazon": "https://amzn.to/3wejsie",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DE65YYx"
             },
             {
                 "name": "Fiio FHE: Eclipse",
@@ -9966,15 +10446,47 @@
                     "(sample 2)",
                     "(best of both)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=ldwiDyUUMzI",
+                "price": "$150",
+                "shopLink": "https://shenzhenaudio.com/products/fiio-x-crinacle-fhe-eclipse-1dd-2ba-in-ear-monitor-earphone",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9I4aQh"
+            },
+            {
+                "name": "Fiio FX15",
+                "file": [
+                    "mrs/Fiio FX15 (on)",
+                    "mrs/Fiio FX15 (off)"
+                ],
+                "suffix": [
+                    "(switch: on)",
+                    "(switch: off)"
+                ],
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$750",
+                "shopLink": "https://fiio.com/fx15"
             },
             {
                 "name": "Fiio FW5",
-                "file": "mrs/Fiio FW5"
+                "file": "mrs/Fiio FW5",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$150",
+                "shopLink": "https://amzn.to/3ZDJ7OR",
+                "amazon": "https://amzn.to/3ZDJ7OR",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DCYo7nH"
             },
             {
                 "name": "Final Audio A4000",
-                "file": "mrs/Final A4000"
+                "file": "mrs/Final A4000",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$160",
+                "shopLink": "https://amzn.to/3cYgHbC",
+                "amazon": "https://amzn.to/3cYgHbC"
             },
             {
                 "name": "Final Audio B3",
@@ -9985,11 +10497,21 @@
                 "suffix": [
                     "(tips: E-type)",
                     "(tips: TWS)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=7L3A1keZf3Q",
+                "price": "$500",
+                "shopLink": "https://amzn.to/3vGL50w",
+                "amazon": "https://amzn.to/3vGL50w"
             },
             {
                 "name": "Final Audio E500",
-                "file": "mrs/Final E500"
+                "file": "mrs/Final E500",
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$25",
+                "shopLink": "https://amzn.to/3gTKRxz",
+                "amazon": "https://amzn.to/3gTKRxz"
             },
             {
                 "name": "Final Audio E1000",
@@ -10000,7 +10522,12 @@
                 "suffix": [
                     "(tips: Final E-type)",
                     "(tips: Azla Sedna)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=u3LIwf1DRnU",
+                "price": "$30",
+                "shopLink": "https://amzn.to/3gVXxUT",
+                "amazon": "https://amzn.to/3gVXxUT"
             },
             {
                 "name": "Final Audio E2000",
@@ -10011,11 +10538,21 @@
                 "suffix": [
                     "(sample 2)",
                     "(sample 1)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=6NLPBF1tqEE",
+                "price": "$45",
+                "shopLink": "https://amzn.to/3zNIFAi",
+                "amazon": "https://amzn.to/3zNIFAi"
             },
             {
                 "name": "Final Audio VR3000",
-                "file": "mrs/Final VR3000"
+                "file": "mrs/Final VR3000",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": "https://amzn.to/2UlwmLr",
+                "amazon": "https://amzn.to/2UlwmLr"
             },
             {
                 "name": "FLC 8P",
@@ -10040,66 +10577,140 @@
                     "(gunmetal / black / gunmetal)",
                     "(gunmetal / gray / gunmetal)",
                     "(silver / gray / gunmetal)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=2AnAEu01F_g",
+                "price": "$200",
+                "shopLink": ""
             },
             {
                 "name": "FLC DD31",
-                "file": "mrs/FLC DD31"
+                "file": "mrs/FLC DD31",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$113",
+                "shopLink": ""
             },
             {
                 "name": "GS Audio GD3A",
-                "file": "mrs/GS Audio GD3A"
+                "file": "mrs/GS Audio GD3A",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$86",
+                "shopLink": "https://s.click.aliexpress.com/e/_AEmykv",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AEmykv"
             },
             {
                 "name": "GS Audio GD3C",
-                "file": "mrs/GS Audio GD3C"
+                "file": "mrs/GS Audio GD3C",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$89",
+                "shopLink": "https://s.click.aliexpress.com/e/_9Ghquz",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9Ghquz"
             },
             {
                 "name": "GS Audio SE11",
-                "file": "mrs/GS Audio SE11"
+                "file": "mrs/GS Audio SE11",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$900",
+                "shopLink": "https://www.aliexpress.com/item/1005002927095503.html",
+                "aliexpress": "https://www.aliexpress.com/item/1005002927095503.html"
             },
             {
                 "name": "HarmonicDyne P.D.1",
-                "file": "mrs/HarmonicDyne PD1"
+                "file": "mrs/HarmonicDyne PD1",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$380",
+                "shopLink": "https://amzn.to/3hDc73O",
+                "amazon": "https://amzn.to/3hDc73O"
             },
             {
                 "name": "Haylou GT1",
-                "file": "mrs/Haylou GT1"
+                "file": "mrs/Haylou GT1",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=1Lu5BqPqkMA",
+                "price": "$20",
+                "shopLink": "https://amzn.to/3h8oAMX",
+                "amazon": "https://amzn.to/3h8oAMX",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AMVI4h"
             },
             {
                 "name": "Haylou GT2",
-                "file": "mrs/Haylou GT2"
+                "file": "mrs/Haylou GT2",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$24",
+                "shopLink": "https://amzn.to/2Us5ABd",
+                "amazon": "https://amzn.to/2Us5ABd",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9jqnGd"
             },
             {
                 "name": "Hiby Crystal6",
-                "file": "mrs/Hiby Crystal6"
+                "file": "mrs/Hiby Crystal6",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=n6ia_7QUWEo",
+                "price": "$460",
+                "shopLink": "https://s.click.aliexpress.com/e/_A3cZiD",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A3cZiD"
             },
             {
                 "name": "Hiby Crystal6 II",
-                "file": "mrs/Hiby Crystal6 II"
+                "file": "mrs/Hiby Crystal6 II",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$350",
+                "shopLink": ""
             },
             {
                 "name": "Hidition Violet",
-                "file": "mrs/Hidition Violet"
+                "file": "mrs/Hidition Violet",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$3,300",
+                "shopLink": ""
             },
             {
                 "name": "Hifiman Bolt",
-                "file": "mrs/Hifiman Bolt"
+                "file": "mrs/Hifiman Bolt",
+                "reviewScore": "1",
+                "reviewLink": "https://www.youtube.com/watch?v=EjgOkTxQsjk",
+                "price": "$10",
+                "shopLink": ""
             },
             {
                 "name": "HZSound Heart Mirror",
-                "file": "mrs/HZSound Heart Mirror"
+                "file": "mrs/HZSound Heart Mirror",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=agCtqm3LA74",
+                "price": "$50",
+                "shopLink": "https://amzn.to/2UT6LKi",
+                "amazon": "https://amzn.to/2UT6LKi",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Adg7wW"
             },
             {
                 "name": "HZSound Heart Mirror Zero",
-                "file": "mrs/HZSound Heart Mirror Zero"
+                "file": "mrs/HZSound Heart Mirror Zero",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$40",
+                "shopLink": "https://amzn.to/3MxvdaZ",
+                "amazon": "https://amzn.to/3MxvdaZ"
             },
             {
                 "name": "iBasso IT01X",
                 "file": [
                     "mrs/iBasso IT01X",
                     "mrs/iBasso IT01X (S2)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=6URKrPVziOk",
+                "price": "$120",
+                "shopLink": "https://amzn.to/3iWBDn3",
+                "amazon": "https://amzn.to/3iWBDn3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AeavED"
             },
             {
                 "name": "Ikko Gems OH1s",
@@ -10118,23 +10729,51 @@
                     "(sample 2 + micopore tape)",
                     "(sample 2 + Blu-Tack)",
                     "(sample 2 + tips: Etype)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=h9GjjW0UbsU",
+                "price": "$200",
+                "shopLink": "https://amzn.to/35OQ6tf",
+                "amazon": "https://amzn.to/35OQ6tf",
+                "aliexpress": "https://s.click.aliexpress.com/e/_99L1eZ"
             },
             {
                 "name": "Ikko OH1",
-                "file": "mrs/Ikko OH1"
+                "file": "mrs/Ikko OH1",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=QI9hvCMdytE",
+                "price": "$140",
+                "shopLink": "https://amzn.to/3zNIOUm",
+                "amazon": "https://amzn.to/3zNIOUm",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9QcMJJ"
             },
             {
                 "name": "Ikko OH10",
-                "file": "mrs/Ikko OH10"
+                "file": "mrs/Ikko OH10",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=9gjeWC2S0pM",
+                "price": "$200",
+                "shopLink": "https://amzn.to/3d0YF8o",
+                "amazon": "https://amzn.to/3d0YF8o",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A3itsV"
             },
             {
                 "name": "Ikko Opal OH2",
-                "file": "mrs/Ikko Opal OH2"
+                "file": "mrs/Ikko Opal OH2",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=h8_u8cYRgDM",
+                "price": "$80",
+                "shopLink": "https://amzn.to/3BheAu6",
+                "amazon": "https://amzn.to/3BheAu6",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AWobfY"
             },
             {
                 "name": "Intime Sora",
-                "file": "mrs/Intime Sora"
+                "file": "mrs/Intime Sora",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": ""
             },
             {
                 "name": "Intime Sora Light",
@@ -10145,7 +10784,12 @@
                 "suffix": [
                     "",
                     "(vent mod)"
-                ]
+                ],
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$53",
+                "shopLink": "https://amzn.to/3GBFSx7",
+                "amazon": "https://amzn.to/3GBFSx7"
             },
             {
                 "name": "JH Audio Layla Aion",
@@ -10156,7 +10800,11 @@
                 "suffix": [
                     "(bass dial: min)",
                     "(bass dial: max)"
-                ]
+                ],
+                "reviewScore": "1",
+                "reviewLink": "",
+                "price": "$3,500",
+                "shopLink": ""
             },
             {
                 "name": "JVC FDX1",
@@ -10169,43 +10817,95 @@
                     "(filter: 0%)",
                     "(filter: 50%)",
                     "(filter: 100%)"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=8Egasymm3PY",
+                "price": "$250",
+                "shopLink": ""
             },
             {
                 "name": "JVC FWX1",
-                "file": "mrs/JVC FWX1"
+                "file": "mrs/JVC FWX1",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=TeR3_4M4S9o",
+                "price": "$450",
+                "shopLink": ""
             },
             {
                 "name": "JVC FX7 Gumy",
-                "file": "mrs/JVC FX7"
+                "file": "mrs/JVC FX7",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$8",
+                "shopLink": "https://amzn.to/37yLo7m",
+                "amazon": "https://amzn.to/37yLo7m"
             },
             {
                 "name": "Juzear 41T",
-                "file": "mrs/Juzear 41T"
+                "file": "mrs/Juzear 41T",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=9JGNVOH7FIU",
+                "price": "$160",
+                "shopLink": "https://amzn.to/3CBHGGe",
+                "amazon": "https://amzn.to/3CBHGGe",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DnodGNf"
             },
             {
                 "name": "KBEar Believe",
-                "file": "mrs/KBEar Believe"
+                "file": "mrs/KBEar Believe",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$180",
+                "shopLink": ""
             },
             {
                 "name": "KBEar Diamond",
-                "file": "mrs/KBEar Diamond"
+                "file": "mrs/KBEar Diamond",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": "https://s.click.aliexpress.com/e/_AE65CH",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AE65CH"
             },
             {
                 "name": "KBEar KS2",
-                "file": "mrs/KBEar KS2"
+                "file": "mrs/KBEar KS2",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$25",
+                "shopLink": "https://amzn.to/3iZAxa4",
+                "amazon": "https://amzn.to/3iZAxa4",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9RooHT"
             },
             {
                 "name": "Kinera Freya",
-                "file": "mrs/Kinera Freya"
+                "file": "mrs/Kinera Freya",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=eC6DHFtFIoY",
+                "price": "$250",
+                "shopLink": "https://amzn.to/3gUf3bY",
+                "amazon": "https://amzn.to/3gUf3bY",
+                "aliexpress": "https://s.click.aliexpress.com/e/_972eNL"
             },
             {
                 "name": "Kinera Sif",
-                "file": "mrs/Kinera Sif"
+                "file": "mrs/Kinera Sif",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=xiujKbcz_IU",
+                "price": "$50",
+                "shopLink": "https://amzn.to/35FfoKq",
+                "amazon": "https://amzn.to/35FfoKq",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A566ad"
             },
             {
                 "name": "Kiwi Ears Cadenza",
-                "file": "mrs/Kiwi Ears Cadenza"
+                "file": "mrs/Kiwi Ears Cadenza",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=vftKamJfh-A",
+                "price": "$35",
+                "shopLink": "https://amzn.to/3UQwMmC",
+                "amazon": "https://amzn.to/3UQwMmC",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DljbeJD"
             },
             {
                 "name": "Kiwi Ears Orchestra",
@@ -10219,12 +10919,23 @@
                     "(tips: E-type TWS)",
                     "(tips: Sedna Light Short)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=9FmOlAucn40",
+                "price": "$500",
+                "shopLink": "https://www.linsoul.com/products/kiwi-ears-orchestra",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AYUZxY"
             },
             {
                 "name": "Kiwi Ears Orchestra Lite",
                 "file": "mrs/Kiwi Ears Orchestra Lite",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=2PS65uR1NVw",
+                "price": "$250",
+                "shopLink": "https://www.linsoul.com/products/kiwi-ears-orchestra-lite",
+                "amazon": "https://amzn.to/3Zq2olB",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DdmLTBT"
             },
             {
                 "name": "Kiwi Ears Quartet",
@@ -10240,38 +10951,85 @@
                     "(switches: off - on)",
                     "(switches: on - off)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$110",
+                "shopLink": "https://www.linsoul.com/collections/featured-home/products/kiwi-ears-quartet",
+                "amazon": "https://amzn.to/3BpUdfo",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DmOuzCH"
             },
             {
                 "name": "Kiwi Ears Quintet",
                 "file": [
                     "mrs/Kiwi Ears Quintet"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=PFTq4XLBvQs",
+                "price": "$220",
+                "shopLink": "https://www.linsoul.com/products/kiwi-ears-quintet",
+                "amazon": "https://amzn.to/3pxsua3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DCL9dln"
             },
             {
                 "name": "Koss KEB90",
-                "file": "mrs/Koss KEB90"
+                "file": "mrs/Koss KEB90",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$70",
+                "shopLink": "https://amzn.to/318NHef",
+                "amazon": "https://amzn.to/318NHef"
             },
             {
                 "name": "KZ AS06",
-                "file": "mrs/KZ AS06"
+                "file": "mrs/KZ AS06",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=pL0b2zU6OxI",
+                "price": "$41",
+                "shopLink": "https://amzn.to/3d1AFCe",
+                "amazon": "https://amzn.to/3d1AFCe",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ALV3Sv"
             },
             {
                 "name": "KZ AS10",
-                "file": "mrs/KZ AS10"
+                "file": "mrs/KZ AS10",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$62",
+                "shopLink": "https://amzn.to/2SKCiNT",
+                "amazon": "https://amzn.to/2SKCiNT",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9g3i7n"
             },
             {
                 "name": "KZ AST",
-                "file": "mrs/KZ AST"
+                "file": "mrs/KZ AST",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$130",
+                "shopLink": "https://amzn.to/3rpYvNV",
+                "amazon": "https://amzn.to/3rpYvNV",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AFHOR8"
             },
             {
                 "name": "KZ ATE",
-                "file": "mrs/KZ ATE"
+                "file": "mrs/KZ ATE",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$8",
+                "shopLink": "https://amzn.to/3nvqtY0",
+                "amazon": "https://amzn.to/3nvqtY0",
+                "aliexpress": "https://www.aliexpress.com/item/1005002266499170.html"
             },
             {
                 "name": "KZ ASX",
-                "file": "mrs/KZ ASX"
+                "file": "mrs/KZ ASX",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": "https://amzn.to/3gRDhUh",
+                "amazon": "https://amzn.to/3gRDhUh",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A7R4e9"
             },
             {
                 "name": "KZ CRN / ZEX Pro",
@@ -10294,7 +11052,13 @@
                     "(switches: UUUD)",
                     "(switches: UUUU)",
                     "(switches: DDDU)"
-                ]
+                ],
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$33",
+                "shopLink": "https://amzn.to/3Nt2aaI",
+                "amazon": "https://amzn.to/3Nt2aaI",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DFxVW9J"
             },
             {
                 "name": "KZ DQ6",
@@ -10305,19 +11069,43 @@
                 "suffix": [
                     "(stock)",
                     "(Tanchjim filter)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=8BC4nRuCZNs",
+                "price": "$30",
+                "shopLink": "https://amzn.to/3esQ2Ul",
+                "amazon": "https://amzn.to/3esQ2Ul",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AOWEtw"
             },
             {
                 "name": "KZ EDX Pro",
-                "file": "mrs/KZ EDX Pro"
+                "file": "mrs/KZ EDX Pro",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=8BC4nRuCZNs",
+                "price": "$15",
+                "shopLink": "https://amzn.to/32pgXht",
+                "amazon": "https://amzn.to/32pgXht",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A4U8my"
             },
             {
                 "name": "KZ PR1 Pro",
-                "file": "mrs/KZ PR1 Pro"
+                "file": "mrs/KZ PR1 Pro",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": "https://amzn.to/3WmPfrS",
+                "amazon": "https://amzn.to/3WmPfrS",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DFTca7Z"
             },
             {
                 "name": "KZ SK10",
-                "file": "mrs/KZ SK10"
+                "file": "mrs/KZ SK10",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$35",
+                "shopLink": "https://amzn.to/3yUxOVs",
+                "amazon": "https://amzn.to/3yUxOVs",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ABbxBK"
             },
             {
                 "name": "KZ ZEX",
@@ -10328,24 +11116,52 @@
                 "suffix": [
                     "(stock)",
                     "(vent blocked)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=8BC4nRuCZNs",
+                "price": "$25",
+                "shopLink": "https://amzn.to/3qrPAeZ",
+                "amazon": "https://amzn.to/3qrPAeZ",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ANkJsc"
             },
             {
                 "name": "KZ ZS7",
-                "file": "mrs/KZ ZS7"
+                "file": "mrs/KZ ZS7",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=1tZxrUX_DLQ",
+                "price": "$50",
+                "shopLink": ""
             },
             {
                 "name": "KZ ZS10",
-                "file": "mrs/KZ ZS10"
+                "file": "mrs/KZ ZS10",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://amzn.to/3j01iex",
+                "amazon": "https://amzn.to/3j01iex",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AsOfNX"
             },
             {
                 "name": "KZ ZS10 Pro",
-                "file": "mrs/KZ ZS10 Pro"
+                "file": "mrs/KZ ZS10 Pro",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=bY2UEnF-V3E",
+                "price": "$50",
+                "shopLink": "https://amzn.to/3d0a3S5",
+                "amazon": "https://amzn.to/3d0a3S5",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9wYkCD"
             },
             {
                 "name": "KZ ZS10 Pro X",
                 "file": "mrs/KZ ZS10 Pro X",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$40",
+                "shopLink": "https://www.linsoul.com/products/kz-zs10-pro-x",
+                "amazon": "https://amzn.to/3SoDfVr",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DksY6CB"
             },
             {
                 "name": "KZ ZSN Pro",
@@ -10362,7 +11178,13 @@
                     "(filter: Starfield)",
                     "(filter: Tanchjim)",
                     "(1/8 foam in tip)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=urkWHf8JIDQ",
+                "price": "$25",
+                "shopLink": "https://amzn.to/3qnwztx",
+                "amazon": "https://amzn.to/3qnwztx",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AapZZn"
             },
             {
                 "name": "KZ (average)",
@@ -10370,7 +11192,12 @@
             },
             {
                 "name": "Letshuoer Cadenza 12",
-                "file": "mrs/Letshuoer Cadenza 12"
+                "file": "mrs/Letshuoer Cadenza 12",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$2,300",
+                "shopLink": "https://s.click.aliexpress.com/e/_DCFJyut",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DCFJyut"
             },
             {
                 "name": "Letshuoer D13",
@@ -10383,11 +11210,31 @@
                     "(nozzle: silver)",
                     "(nozzle: gold)",
                     "(pre-production)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=LSMJc_JWpWY",
+                "price": "$120",
+                "shopLink": "https://amzn.to/3bnJp8f",
+                "amazon": "https://amzn.to/3bnJp8f",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DetKT5v"
+            },
+            {
+                "name": "Letshuoer DZ4",
+                "file": "mrs/Letshuoer DZ4",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$90",
+                "shopLink": "https://letshuoer.net/products/letshuoer-dz4-triple-dynamic-drivers-single-passive-radiator-edc-hifi-in-ear-monitor"
             },
             {
                 "name": "Letshuoer EJ07M",
-                "file": "mrs/Letshuoer EJ07M"
+                "file": "mrs/Letshuoer EJ07M",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$670",
+                "shopLink": "https://amzn.to/3BjdFtt",
+                "amazon": "https://amzn.to/3BjdFtt",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AWeDSl"
             },
             {
                 "name": "Letshuoer EJ07M: Kinda Lava",
@@ -10399,16 +11246,34 @@
                     "",
                     "(bass mod)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=GNyhH_BYyuE",
+                "price": "$670",
+                "shopLink": "https://www.linsoul.com/products/%E4%BB%BB%E5%8A%A1-shuoer-ej07m-hbb-shuoer-ej07m-hbb",
+                "amazon": "https://amzn.to/3bJfCXj",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AKFPC3"
             },
             {
                 "name": "Letshuoer Galileo",
                 "file": "mrs/Letshuoer Galileo",
-                "preferredShop": "HiFiGo"
+                "preferredShop": "HiFiGo",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=cZcm5SXH0Mw",
+                "price": "$110",
+                "shopLink": "https://hifigo.com/products/letshuoer-x-gizaudio-galileo",
+                "amazon": "https://amzn.to/3yD4JyB",
+                "aliexpress": "https://www.aliexpress.us/item/3256805006635986.html"
             },
             {
                 "name": "Letshuoer Singer",
-                "file": "mrs/Letshuoer Singer"
+                "file": "mrs/Letshuoer Singer",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$75",
+                "shopLink": "https://amzn.to/3qgzKmF",
+                "amazon": "https://amzn.to/3qgzKmF",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AgqmGt"
             },
             {
                 "name": "Letshuoer S12",
@@ -10425,7 +11290,13 @@
                     "(front vent blocked)",
                     "(top vent blocked)",
                     "(pre-production)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=cZke0Gofvjg",
+                "price": "$150",
+                "shopLink": "https://amzn.to/3Lx25iQ",
+                "amazon": "https://amzn.to/3Lx25iQ",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AMy5FC"
             },
             {
                 "name": "LG HBS800",
@@ -10436,7 +11307,11 @@
                 "suffix": [
                     "(ANC off)",
                     "(ANC on)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$120",
+                "shopLink": ""
             },
             {
                 "name": "Magaosi K3",
@@ -10449,7 +11324,11 @@
                     "(filter: hash)",
                     "(filter: cross)",
                     "(filter: none)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$110",
+                "shopLink": ""
             },
             {
                 "name": "Magaosi K5",
@@ -10465,11 +11344,20 @@
                     "(w/15 ohm adapter + IEMatch+ high)",
                     "(w/ 15 ohm adapter + IEMatch+ ultra)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=eKKAzw6s2O8",
+                "price": "$180",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AZ2YnX"
             },
             {
                 "name": "MEE Audio M6 Pro 2nd Gen",
-                "file": "mrs/MEE Audio M6 Pro 2G"
+                "file": "mrs/MEE Audio M6 Pro 2G",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://amzn.to/2SMudbs",
+                "amazon": "https://amzn.to/2SMudbs"
             },
             {
                 "name": "Meizu Live",
@@ -10482,23 +11370,47 @@
                     "(filter: black)",
                     "(filter: blue)",
                     "(filter: white)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$230",
+                "shopLink": "https://www.aliexpress.com/item/32869811591.html",
+                "aliexpress": "https://www.aliexpress.com/item/32869811591.html"
             },
             {
                 "name": "Mi True Wireless Earbuds Basic 2",
-                "file": "mrs/Mi True Wireless Earbuds Basic 2"
+                "file": "mrs/Mi True Wireless Earbuds Basic 2",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$25",
+                "shopLink": "https://amzn.to/3iWCx2V",
+                "amazon": "https://amzn.to/3iWCx2V"
             },
             {
                 "name": "MiM Audio Dark Magician",
-                "file": "mrs/MiM Dark Magician"
+                "file": "mrs/MiM Dark Magician",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$600",
+                "shopLink": ""
             },
             {
                 "name": "MiM Audio Dark Magician (Revised)",
-                "file": "mrs/MiM Dark Magician Revised"
+                "file": "mrs/MiM Dark Magician Revised",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=D4qN7RBLnWI",
+                "price": "$600",
+                "shopLink": "https://s.click.aliexpress.com/e/_DFODKLp",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DFODKLp"
             },
             {
                 "name": "Monoprice Quartet",
-                "file": "mrs/Monoprice Quartet"
+                "file": "mrs/Monoprice Quartet",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": "https://amzn.to/43o4eWS",
+                "amazon": "https://amzn.to/43o4eWS"
             },
             {
                 "name": "Moondrop Alice",
@@ -10533,12 +11445,24 @@
                     "(EQ: Moondrop Target firmware 0.1.8)",
                     "(EQ: Moondrop Target firmware 1.2.0)",
                     "(EQ: Moondrop Target firmware 2.1.0 + tips: E-type)"
-                ]
+                ],
+                "reviewScore": "1",
+                "reviewLink": "https://www.youtube.com/watch?v=sl9DICz2Jkg",
+                "price": "$190",
+                "shopLink": "https://amzn.to/3FIrzte",
+                "amazon": "https://amzn.to/3FIrzte",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DE6sfdV"
             },
             {
                 "name": "Moondrop Aria",
                 "file": "mrs/Moondrop Aria",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=MShj_4tCmPo",
+                "price": "$80",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-aria-high-performance-lcp-diaphragm-dynamic-driver-iems-in-ear-earphone",
+                "amazon": "https://amzn.to/3xxlj06",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A3kmct"
             },
             {
                 "name": "Moondrop Aria: Snow Edition",
@@ -10550,7 +11474,13 @@
                     "(tips: gray)",
                     "(tips: Spring)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": "https://shenzhenaudio.com/collections/all/products/moondrop-aria-snow-edition-high-performance-diamond-like-lcp-diaphragm-dynamic-driver-iems-in-ear-earphone",
+                "amazon": "https://amzn.to/3xMvm39",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DkQ7BOP"
             },
             {
                 "name": "Moondrop Blessing 2",
@@ -10564,16 +11494,32 @@
                     "(w/ Moondrop filter)",
                     "(tips: E-type)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=fNw1GpAm8YE",
+                "price": "$320",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-blessing-2-1dd-4ba-hybrid-technology-in-ear-monitor-earphone",
+                "amazon": "https://amzn.to/2SJKRZf",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AKi6NL"
             },
             {
                 "name": "Moondrop Blessing 2: Dusk",
                 "file": "mrs/Moondrop Blessing 2 Dusk",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=r1FnHbmGnww",
+                "price": "$330",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-x-crinacle-blessing2-dusk-1dd-4ba-in-ear-monitor-earphone"
             },
             {
                 "name": "Moondrop Blessing 3",
-                "file": "mrs/Moondrop Blessing 3"
+                "file": "mrs/Moondrop Blessing 3",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=uZP4oEgWpoE",
+                "price": "$320",
+                "shopLink": "https://amzn.to/3KiLjEs",
+                "amazon": "https://amzn.to/3KiLjEs",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DkvtIot"
             },
             {
                 "name": "Moondrop Chu",
@@ -10589,16 +11535,30 @@
                     "(vent blocked: Tanchjim filter)",
                     "(Tanchjim filter on nozzle)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=bGV1LsPri0I",
+                "price": "$20",
+                "shopLink": "https://shenzhenaudio.com/collections/all/products/moondrop-chu-headphone-titanium-iems-wired-dynamic-driver-hifi-in-ear-earphones",
+                "amazon": "https://amzn.to/3uIwRyT",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9ABDUJ"
             },
             {
                 "name": "Moondrop Crescent",
-                "file": "mrs/Moondrop Crescent"
+                "file": "mrs/Moondrop Crescent",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=QEtbywYFGBc",
+                "price": "$30",
+                "shopLink": ""
             },
             {
                 "name": "Moondrop The Droplet",
                 "file": "mrs/Moondrop The Droplet",
-                "preferredShop": "HiFiGo"
+                "preferredShop": "HiFiGo",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=cTxnHZob78c",
+                "price": "$50",
+                "shopLink": "https://hifigo.com/collections/new-arrival/products/moondrop-droplet"
             },
             {
                 "name": "Moondrop Illumination",
@@ -10622,16 +11582,33 @@
                     "(tips: Spiral Dots)",
                     "(foam filter removed)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=b_ujkLUNKjg",
+                "price": "$800",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-illumination-reference-class-dynamic-in-ear-5-axis-cnc-11mm-performance-coupled-acoustic-chamber-dynamic-driver-earbuds-0-78-2-pin-monitor-earphone",
+                "amazon": "https://amzn.to/2Uuk2ZD",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ATEtG9"
             },
             {
                 "name": "Moondrop Jiu",
                 "file": "mrs/Moondrop Jiu",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=KzVFY4n96dg",
+                "price": "$25",
+                "shopLink": "https://shenzhenaudio.com/collections/all/products/moondrop-jiu-usb-c-port-10-mm-high-perfomance-dynamic-driver-in-ear-earphone",
+                "amazon": "https://amzn.to/3VeO7aA",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Dcu4tTJ"
             },
             {
                 "name": "Moondrop Kanas Pro",
-                "file": "mrs/Moondrop Kanas Pro"
+                "file": "mrs/Moondrop Kanas Pro",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$180",
+                "shopLink": "https://amzn.to/3gVCi5o",
+                "amazon": "https://amzn.to/3gVCi5o"
             },
             {
                 "name": "Moondrop KATO",
@@ -10643,15 +11620,31 @@
                     "(nozzle: silver)",
                     "(nozzle: gold)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=C_67ArVUSLU",
+                "price": "$190",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-kato-earphone-flagship-advanced-technology-dynamic-hifi-iem-with-detachable-cable",
+                "amazon": "https://amzn.to/2ZIquyv",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9fsOLt"
             },
             {
                 "name": "Moondrop KXXS",
-                "file": "mrs/Moondrop KXXS"
+                "file": "mrs/Moondrop KXXS",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$190",
+                "shopLink": "https://amzn.to/30YHSQm",
+                "amazon": "https://amzn.to/30YHSQm",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AEAhtL"
             },
             {
                 "name": "Moondrop KXXX",
-                "file": "mrs/Moondrop KXXX"
+                "file": "mrs/Moondrop KXXX",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=fvpDguuHhTQ",
+                "price": "$180",
+                "shopLink": ""
             },
             {
                 "name": "Moondrop LAN",
@@ -10663,7 +11656,13 @@
                     "",
                     "(vent blocked: Blu Tack)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=Y84tZNKGL6g",
+                "price": "$40",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-lan-earphone-10mm-dynamic-driver-in-ear-hifi-headphone",
+                "amazon": "https://amzn.to/3I7dJQP",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DBGtbF3"
             },
             {
                 "name": "Moondrop Nekocake",
@@ -10683,17 +11682,33 @@
                     "(EQ: Nobass)",
                     "(EQ: Wennebostel)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=cw-b9-lQT9k",
+                "price": "$43",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-nekocake-tws-true-wireless-earphone-optimized-13mm-dynamic-driver-bluetooth-5-0-touch-operation-5-tunings-push-button-reset",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9fL2Ua"
             },
             {
                 "name": "Moondrop Quarks",
                 "file": "mrs/Moondrop Quarks",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=_Jhs5TGizY4",
+                "price": "$13",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-quarks-earphone-closed-anterior-cavity-micro-dynamic-driver-in-ear-earbuds",
+                "amazon": "https://amzn.to/3g0vELJ"
             },
             {
                 "name": "Moondrop Quarks DSP",
                 "file": "mrs/Moondrop Quarks DSP",
-                "preferredShop": "HiFiGo"
+                "preferredShop": "HiFiGo",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=vftKamJfh-A",
+                "price": "$15",
+                "shopLink": "https://hifigo.com/products/moondrop-quarks-dsp",
+                "amazon": "https://amzn.to/3YmRZaN",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DdBySux"
             },
             {
                 "name": "Moondrop S8",
@@ -10704,7 +11719,13 @@
                 "suffix": [
                     "(sample 1)",
                     "(sample 2)"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=8l0LMxqnyGE",
+                "price": "$700",
+                "shopLink": "https://amzn.to/2SWqhVk",
+                "amazon": "https://amzn.to/2SWqhVk",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AVfxMN"
             },
             {
                 "name": "Moondrop Solis",
@@ -10715,11 +11736,23 @@
                 "suffix": [
                     "(sample 2)",
                     "(sample 1)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$1,100",
+                "shopLink": "https://amzn.to/3wMqrO3",
+                "amazon": "https://amzn.to/3wMqrO3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Ag7Eyp"
             },
             {
                 "name": "Moondrop Spaceship",
-                "file": "mrs/Moondrop Spaceship"
+                "file": "mrs/Moondrop Spaceship",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$20",
+                "shopLink": "https://amzn.to/2UgV7bA",
+                "amazon": "https://amzn.to/2UgV7bA",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AXxTqh"
             },
             {
                 "name": "Moondrop Sparks",
@@ -10747,7 +11780,13 @@
                     "(v1.1.5)",
                     "(v1.1.7)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=2uk90efWZwg",
+                "price": "$90",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-sparks-true-wireless-stereo-6mm-dynamic-driver-bluetooth-5-2-touch-operation-supports-aptx-adaptive-earphone",
+                "amazon": "https://amzn.to/3gTM7Rj",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Ak9NS1"
             },
             {
                 "name": "Moondrop SSP",
@@ -10759,7 +11798,13 @@
                     "(stock)",
                     "(vent blocked)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=XKwD64UHwbw",
+                "price": "$40",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-ssp-super-spaceship-pulse-beryllium-plated-dome-diaphragm-dynamic-driver-in-ear-earphone",
+                "amazon": "https://amzn.to/35IqH4M",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A445e1"
             },
             {
                 "name": "Moondrop SSR",
@@ -10795,7 +11840,13 @@
                     "(deep insert)",
                     "(S2 + AutoEQ)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=fLcXTaxQcks",
+                "price": "$40",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-ssr-super-spaceship-reference-in-ear-earphone",
+                "amazon": "https://amzn.to/3gWyh0R",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9xlqDL"
             },
             {
                 "name": "Moondrop Stardust",
@@ -10810,11 +11861,21 @@
                     "(sample 2)",
                     "(sample 3)",
                     "(sample 4)"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": ""
             },
             {
                 "name": "Moondrop Starfield",
-                "file": "mrs/Moondrop Starfield"
+                "file": "mrs/Moondrop Starfield",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=p4N52v0_Rxo",
+                "price": "$110",
+                "shopLink": "https://amzn.to/3wSKOcs",
+                "amazon": "https://amzn.to/3wSKOcs",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9zRztf"
             },
             {
                 "name": "Moondrop Stellaris",
@@ -10826,7 +11887,13 @@
                     "",
                     "(Tanchjim filter)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=wqAFGSkyrdw",
+                "price": "$110",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-stellaris-14-5mm-planar-iems-sub-nanometer-diaphragm-dynamic-earphone",
+                "amazon": "https://amzn.to/3fEqtUp",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DlL0CpN"
             },
             {
                 "name": "Moondrop Variations",
@@ -10837,7 +11904,13 @@
                 "suffix": [
                     "(sample 2)",
                     "(sample 1)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=QvUDDlVPncU",
+                "price": "$520",
+                "shopLink": "https://amzn.to/2SwF4Gj",
+                "amazon": "https://amzn.to/2SwF4Gj",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AmgfHp"
             },
             {
                 "name": "NF Audio NA2+",
@@ -10852,15 +11925,32 @@
                     "(tips: balanced)",
                     "(tips: Etype)",
                     "(Tanchjim filter)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=M71p85UviTI",
+                "price": "$170",
+                "shopLink": "https://amzn.to/2UoX5qC",
+                "amazon": "https://amzn.to/2UoX5qC",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9GTtbb"
             },
             {
                 "name": "NF Audio NM2",
-                "file": "mrs/NF Audio NM2"
+                "file": "mrs/NF Audio NM2",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": "https://s.click.aliexpress.com/e/_A70t5f",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A70t5f"
             },
             {
                 "name": "NiceHCK Topguy",
-                "file": "mrs/NiceHCK Topguy"
+                "file": "mrs/NiceHCK Topguy",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$250",
+                "shopLink": "https://amzn.to/3vLOxsj",
+                "amazon": "https://amzn.to/3vLOxsj",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AB4ub3"
             },
             {
                 "name": "Nothing Ear 2",
@@ -10871,28 +11961,54 @@
                 "suffix": [
                     "(FW 1.0.1.88)",
                     "(FW 1.0.1.66)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=G6MaXTgMc8c",
+                "price": "$150",
+                "shopLink": "https://amzn.to/42RZLvv",
+                "amazon": "https://amzn.to/42RZLvv"
             },
             {
                 "name": "OpenAudio Mercury",
                 "file": "mrs/OpenAudio Mercury",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=Jho6tctIFjw",
+                "price": "$600",
+                "shopLink": "https://shenzhenaudio.com/products/open-audio-mercury-earphone-hybrid-1dd-4bas-flagship-in-ear-headphone"
             },
             {
                 "name": "Oriolus 2nd Gen",
-                "file": "mrs/Oriolus 2nd Gen"
+                "file": "mrs/Oriolus 2nd Gen",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$900",
+                "shopLink": ""
             },
             {
                 "name": "Oriolus Traillii",
-                "file": "mrs/Oriolus Traillii"
+                "file": "mrs/Oriolus Traillii",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$6,600",
+                "shopLink": ""
             },
             {
                 "name": "Philips SHE3590PK/28",
-                "file": "mrs/Philips SHE3590PK"
+                "file": "mrs/Philips SHE3590PK",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$10",
+                "shopLink": "https://amzn.to/3qigchG",
+                "amazon": "https://amzn.to/3qigchG"
             },
             {
                 "name": "Phonak Audeo PFE 112",
-                "file": "mrs/Phonak Audeo PFE 112"
+                "file": "mrs/Phonak Audeo PFE 112",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$120",
+                "shopLink": ""
             },
             {
                 "name": "Prisma Audio Azul",
@@ -10909,7 +12025,11 @@
                     "(tips: SpinFit)",
                     "(tips: Spiral Dot)",
                     "(sample 2)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=6IA_4L7_qCU",
+                "price": "$300",
+                "shopLink": ""
             },
             {
                 "name": "QDC Anole VX",
@@ -10926,7 +12046,13 @@
                     "(switches: 010)",
                     "(switches: 001)",
                     "(sample 2 - switches: 000)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$2,500",
+                "shopLink": "https://amzn.to/3j1blQI",
+                "amazon": "https://amzn.to/3j1blQI",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9vdmEl"
             },
             {
                 "name": "QDC Anole V14",
@@ -10943,32 +12069,67 @@
                     "(switches: 0100)",
                     "(switches: 0010)",
                     "(switches: 0001)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$3,000",
+                "shopLink": ""
             },
             {
                 "name": "QDC Neptune",
-                "file": "mrs/QDC Neptune"
+                "file": "mrs/QDC Neptune",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=dBFwDxuiAtg",
+                "price": "$200",
+                "shopLink": "https://amzn.to/3xKn2PR",
+                "amazon": "https://amzn.to/3xKn2PR",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9izVb3"
             },
             {
                 "name": "QDC Uranus",
-                "file": "mrs/QDC Uranus"
+                "file": "mrs/QDC Uranus",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=KjQylASXE84",
+                "price": "$220",
+                "shopLink": "https://amzn.to/3zKJQkb",
+                "amazon": "https://amzn.to/3zKJQkb"
             },
             {
                 "name": "QKZ x HBB",
-                "file": "mrs/QKZ x HBB"
+                "file": "mrs/QKZ x HBB",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=vftKamJfh-A",
+                "price": "$20",
+                "shopLink": "https://amzn.to/3WssUtI",
+                "amazon": "https://amzn.to/3WssUtI",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DDTM3hl"
             },
             {
                 "name": "Radius HP-NEF11",
-                "file": "mrs/Radius HP-NEF11"
+                "file": "mrs/Radius HP-NEF11",
+                "reviewScore": "1",
+                "reviewLink": "",
+                "price": "$15",
+                "shopLink": ""
             },
             {
                 "name": "Raptgo Hook",
                 "file": "mrs/Raptgo Hook",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$240",
+                "shopLink": "https://www.linsoul.com/products/raptgo-hook-x",
+                "amazon": "https://amzn.to/3JYOEGu",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A5o19v"
             },
             {
                 "name": "Samsung Earphones tuned by AKG",
-                "file": "mrs/Samsung Earphones"
+                "file": "mrs/Samsung Earphones",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": ""
             },
             {
                 "name": "Samsung Earphones tuned by AKG (2019)",
@@ -10976,7 +12137,12 @@
             },
             {
                 "name": "Samsung Galaxy Buds +",
-                "file": "mrs/Samsung Galaxy Buds Plus"
+                "file": "mrs/Samsung Galaxy Buds Plus",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=q-x8bhfyEzQ",
+                "price": "$80",
+                "shopLink": "https://amzn.to/3iZ0cj4",
+                "amazon": "https://amzn.to/3iZ0cj4"
             },
             {
                 "name": "Samsung Galaxy Buds2 Pro",
@@ -10997,15 +12163,31 @@
                     "(eq: dynamic)",
                     "(eq: clear)",
                     "(eq: treble boost)"
-                ]
+                ],
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$230",
+                "shopLink": "https://amzn.to/3SfNL0E",
+                "amazon": "https://amzn.to/3SfNL0E"
             },
             {
                 "name": "SeeAudio Bravery",
-                "file": "mrs/SeeAudio Bravery"
+                "file": "mrs/SeeAudio Bravery",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=QaMkhQxxg9s",
+                "price": "$280",
+                "shopLink": "https://amzn.to/38IKiDa",
+                "amazon": "https://amzn.to/38IKiDa"
             },
             {
                 "name": "SeeAudio Yume",
-                "file": "mrs/SeeAudio Yume"
+                "file": "mrs/SeeAudio Yume",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=074RAqK2xd0",
+                "price": "$170",
+                "shopLink": "https://amzn.to/2STKuer",
+                "amazon": "https://amzn.to/2STKuer",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A6Whud"
             },
             {
                 "name": "SeeAudio Yume: Midnight",
@@ -11024,11 +12206,21 @@
                     "(impedance adapter: 36 ohm)",
                     "(impedance adapter: 75 ohm)",
                     "(impedance adapter: 126 ohm)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=sLGn6o2UTaM",
+                "price": "$200",
+                "shopLink": "https://amzn.to/3KlAK2w",
+                "amazon": "https://amzn.to/3KlAK2w"
             },
             {
                 "name": "Sennheiser IE 40 Pro",
-                "file": "mrs/Sennheiser IE 40 Pro"
+                "file": "mrs/Sennheiser IE 40 Pro",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=RpWhy66vwag",
+                "price": "$100",
+                "shopLink": "https://amzn.to/3xF4OyX",
+                "amazon": "https://amzn.to/3xF4OyX"
             },
             {
                 "name": "Sennheiser IE 200",
@@ -11045,7 +12237,12 @@
                     "(tips: Azla Max)",
                     "(tips: SoftEars UC)",
                     "(tips: Spiral Dot++)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=loIgKJz7ufI",
+                "price": "$150",
+                "shopLink": "https://amzn.to/3HPVro8",
+                "amazon": "https://amzn.to/3HPVro8"
             },
             {
                 "name": "Sennheiser IE 300",
@@ -11060,7 +12257,12 @@
                     "(tips: Final E-type)",
                     "(tips: Sedna Light)",
                     "(tips: Final E-type + AutoEQ)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=MRxYPh2rXbY",
+                "price": "$300",
+                "shopLink": "https://amzn.to/3qhtcEp",
+                "amazon": "https://amzn.to/3qhtcEp"
             },
             {
                 "name": "Sennheiser IE 600",
@@ -11081,7 +12283,12 @@
                     "(tips: Sedna)",
                     "(tips: Spinfit)",
                     "(tips: Spring)"
-                ]
+                ],
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=yJtQXRK6dXg",
+                "price": "$700",
+                "shopLink": "https://amzn.to/3yC2UTI",
+                "amazon": "https://amzn.to/3yC2UTI"
             },
             {
                 "name": "Sennheiser IE 900",
@@ -11094,7 +12301,12 @@
                     "(tips: stock)",
                     "(tips: E-type)",
                     "(AliExpress fake)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$1,500",
+                "shopLink": "https://amzn.to/3blF7xA",
+                "amazon": "https://amzn.to/3blF7xA"
             },
             {
                 "name": "Sennheiser Momentum TW2",
@@ -11105,29 +12317,58 @@
                 "suffix": [
                     "(standard)",
                     "(high-end tuning)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=yipCmI_ImVA",
+                "price": "$250",
+                "shopLink": "https://amzn.to/3gIBL82",
+                "amazon": "https://amzn.to/3gIBL82"
             },
             {
                 "name": "Sennheiser Momentum TW3",
-                "file": "mrs/Sennheiser Momentum TW3"
+                "file": "mrs/Sennheiser Momentum TW3",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$250",
+                "shopLink": "https://amzn.to/3WKUaDz",
+                "amazon": "https://amzn.to/3WKUaDz"
             },
             {
                 "name": "Shanling ME700 Lite",
-                "file": "mrs/Shanling ME700 Lite"
+                "file": "mrs/Shanling ME700 Lite",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=B-zKMgjS9Xk",
+                "price": "$500",
+                "shopLink": ""
             },
             {
                 "name": "Shozy CP",
                 "file": "mrs/Shozy CP",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=EAufl0uBu_Y",
+                "price": "$160",
+                "shopLink": "https://www.linsoul.com/collections/shozy/products/shozy-neo-cp"
             },
             {
                 "name": "Shozy Rouge",
                 "file": "mrs/Shozy Rouge",
-                "preferredShop": "HiFiGo"
+                "preferredShop": "HiFiGo",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=N15a4n4hyHw",
+                "price": "$180",
+                "shopLink": "https://hifigo.com/collections/shozy/products/shozy-rouge-1dd-2ba-triple-hybrid-driver-in-ear-monitors-iem-earphone",
+                "amazon": "https://amzn.to/3zK5xkq",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9IILtf"
             },
             {
                 "name": "Shure SE215",
-                "file": "mrs/Shure SE215"
+                "file": "mrs/Shure SE215",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": "https://amzn.to/3eHeGBh",
+                "amazon": "https://amzn.to/3eHeGBh"
             },
             {
                 "name": "Simgot EA500",
@@ -11139,7 +12380,13 @@
                     "(filter: red)",
                     "(filter: black)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/shorts/NjHQNtOxHNY",
+                "price": "$80",
+                "shopLink": "https://www.linsoul.com/products/simgot-ea500",
+                "amazon": "https://amzn.to/3V5BtdU",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DdDn5TP"
             },
             {
                 "name": "Simgot EN700 Pro",
@@ -11152,17 +12399,34 @@
                     "",
                     "(filter: Moondrop)",
                     "(filter: Tanchjim)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=WoXUyrQvzPU",
+                "price": "$145",
+                "shopLink": "https://amzn.to/3d29Yx5",
+                "amazon": "https://amzn.to/3d29Yx5",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AVlCnP"
             },
             {
                 "name": "Softears RSV",
                 "file": "mrs/Softears RSV",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=3TKTLzj3AOs",
+                "price": "$730",
+                "shopLink": "https://shenzhenaudio.com/collections/softears/products/softears-rsv-rs5-5ba-iem-reference-sound-series-in-ear-monitor-earphone",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ABrDRF"
             },
             {
                 "name": "Softears Studio4",
                 "file": "mrs/Softears Studio4",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=hZSMECejpiA",
+                "price": "$450",
+                "shopLink": "https://shenzhenaudio.com/products/softears-studio4-brand-new-studio-series-professional-in-ear-monitor-headphone",
+                "amazon": "https://amzn.to/3ZfyBff",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DBbOuO1"
             },
             {
                 "name": "Softears Volume",
@@ -11186,7 +12450,13 @@
                     "(Fiio Q3)",
                     "(Qudelix 5K)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=sqLLPZWzILE",
+                "price": "$285",
+                "shopLink": "https://shenzhenaudio.com/collections/all/products/softears-volume-earphone-1-dd-2-ba-hybrid-in-ear-hifi-iems-earbuds",
+                "amazon": "https://amzn.to/3BGYcn3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ArwhdT"
             },
             {
                 "name": "Sony IER-Z1R",
@@ -11201,11 +12471,20 @@
                     "(sample 2 - tips: Symbio)",
                     "(sample 1)",
                     "(sample 3)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$1,700",
+                "shopLink": "https://amzn.to/2TTVFE2",
+                "amazon": "https://amzn.to/2TTVFE2"
             },
             {
                 "name": "Sony IER-NW510N",
-                "file": "mrs/Sony IER-NW510N"
+                "file": "mrs/Sony IER-NW510N",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": ""
             },
             {
                 "name": "Sony MDR-EX15LP",
@@ -11216,15 +12495,29 @@
                 "suffix": [
                     "",
                     "(deep insert)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$8",
+                "shopLink": "https://amzn.to/37yLo7m",
+                "amazon": "https://amzn.to/37yLo7m"
             },
             {
                 "name": "Sony MDR-AS800",
-                "file": "mrs/Sony MDR-AS800"
+                "file": "mrs/Sony MDR-AS800",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": ""
             },
             {
                 "name": "Sony MH1",
-                "file": "mrs/Sony MH1"
+                "file": "mrs/Sony MH1",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": "https://amzn.to/3HlTY6M",
+                "amazon": "https://amzn.to/3HlTY6M"
             },
             {
                 "name": "Sony MH755",
@@ -11241,11 +12534,20 @@
                     "(sample 1)",
                     "(sample 1, vent blocked: Blu Tack)",
                     "(fake)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$6",
+                "shopLink": ""
             },
             {
                 "name": "Sony WF-1000XM3",
-                "file": "mrs/Sony WF-1000XM3"
+                "file": "mrs/Sony WF-1000XM3",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$200",
+                "shopLink": "https://amzn.to/3j839hg",
+                "amazon": "https://amzn.to/3j839hg"
             },
             {
                 "name": "Sony WF-1000XM4",
@@ -11286,7 +12588,12 @@
                     "(max vol - ANC off)",
                     "(max vol - fw: 1.1.15)",
                     "(max vol - fw: 1.2.6)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=Lvw9UteT2XA",
+                "price": "$280",
+                "shopLink": "https://amzn.to/2UkMFrP",
+                "amazon": "https://amzn.to/2UkMFrP"
             },
             {
                 "name": "Sony XBA-N3",
@@ -11297,19 +12604,37 @@
                 "suffix": [
                     "(sample 1)",
                     "(sample 2)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$300",
+                "shopLink": "https://amzn.to/3OZDWU7",
+                "amazon": "https://amzn.to/3OZDWU7"
             },
             {
                 "name": "Status Audio IEM-2X",
-                "file": "mrs/Status Audio IEM-2X"
+                "file": "mrs/Status Audio IEM-2X",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=f_dqKXXpngM",
+                "price": "$50",
+                "shopLink": "https://amzn.to/2TSRwjQ",
+                "amazon": "https://amzn.to/2TSRwjQ"
             },
             {
                 "name": "Symphonium Audio Helios",
-                "file": "mrs/Symphonium Helios"
+                "file": "mrs/Symphonium Helios",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=e3al2eoEyW0",
+                "price": "$1,100",
+                "shopLink": ""
             },
             {
                 "name": "Symphonium Audio Helios SE",
-                "file": "mrs/Symphonium Helios SE"
+                "file": "mrs/Symphonium Helios SE",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=em3Q9Iy7w5w",
+                "price": "$1,200",
+                "shopLink": ""
             },
             {
                 "name": "Symphonium Audio Meteor",
@@ -11320,11 +12645,19 @@
                 "suffix": [
                     "",
                     "(CanJam measurement)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=P5rbCCmGr0c",
+                "price": "$600",
+                "shopLink": ""
             },
             {
                 "name": "Symphonium Audio Triton",
-                "file": "mrs/Symphonium Triton"
+                "file": "mrs/Symphonium Triton",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$900",
+                "shopLink": ""
             },
             {
                 "name": "Tanchjim Darling",
@@ -11336,12 +12669,23 @@
                     "(depth 1)",
                     "(depth 2)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=9IrSHuZvQZQ",
+                "price": "$420",
+                "shopLink": "https://shenzhenaudio.com/products/tanchjim-darling-2ba-1dd-3d-printing-technology-in-ear-earphone",
+                "amazon": "https://amzn.to/3xCWHD6",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ASjN8H"
             },
             {
                 "name": "Tanchjim Echo",
                 "file": "mrs/Tanchjim Echo",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": "https://shenzhenaudio.com/products/tanchjim-echo-tws-true-wireless-10mm-beryllium-plated-dome-flexible-suspended-diaphragm-dynamic-driver-in-ear-earbuds",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AUNZ4i"
             },
             {
                 "name": "Tanchjim Hana",
@@ -11355,12 +12699,33 @@
                     "(tips: Final E-type)",
                     "(tips: Sedna Light)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=2ztw2wPp4sU",
+                "price": "$160",
+                "shopLink": "https://shenzhenaudio.com/products/tanchjim-hana-dynamic-hifi-in-ear-earphone",
+                "amazon": "https://amzn.to/2STKWJF",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9ABuTJ"
             },
             {
                 "name": "Tanchjim Hana 2021",
                 "file": "mrs/Tanchjim Hana 2021",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=-eFldkYgMBE",
+                "price": "$180",
+                "shopLink": "https://shenzhenaudio.com/collections/all/products/tanchjim-new-hana-earphone-dynamic-hifi-in-ear-iem-monitoring",
+                "amazon": "https://amzn.to/36vQnSg",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ANify2"
+            },
+            {
+                "name": "Tanchjim Kara",
+                "file": "mrs/Tanchjim Kara",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$180",
+                "shopLink": "https://shenzhenaudio.com/products/tanchjim-kara-1dd-4ba-in-ear-headphone",
+                "aliexpress": ""
             },
             {
                 "name": "Tanchjim Ola",
@@ -11378,11 +12743,22 @@
                     "(S2, filterless)",
                     "(S2, filterless, vent blocked: painters tape)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=-taHA5TNa-w",
+                "price": "$40",
+                "shopLink": "https://shenzhenaudio.com/collections/all/products/tanchjim-ola-dynamic-driver-hifi-in-ear-earphones-with-detachable-cable-dmt4-iems",
+                "amazon": "https://amzn.to/3hq2lmd",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AkmQeX"
             },
             {
                 "name": "Tanchjim Oxygen",
-                "file": "mrs/Tanchjim Oxygen"
+                "file": "mrs/Tanchjim Oxygen",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$270",
+                "shopLink": "https://s.click.aliexpress.com/e/_AK4KjB",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AK4KjB"
             },
             {
                 "name": "Tanchjim Prism",
@@ -11394,31 +12770,65 @@
                     "(tips: bass)",
                     "(tips: treble)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=4NtCf5j9rIg",
+                "price": "$600",
+                "shopLink": "https://shenzhenaudio.com/products/tanchjim-prism-flagship-iem-2ba-1dd-hybrid-hifi-in-ear-earphone",
+                "amazon": "https://amzn.to/3AnMtII",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AVSk2a"
             },
             {
                 "name": "Tanchjim Tanya",
                 "file": "mrs/Tanchjim Tanya",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=hIuwWpWZGZ8",
+                "price": "$24",
+                "shopLink": "https://shenzhenaudio.com/products/tanchjim-tanya-7mm-dynamic-earphone-3-5mm-line-plug-hifi-earbuds-with-microphone",
+                "amazon": "https://amzn.to/35HEnNf",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Apc0ed"
             },
             {
                 "name": "Tanchjim Zero",
                 "file": "mrs/Tanchjim Zero",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=vftKamJfh-A",
+                "price": "$15",
+                "shopLink": "https://shenzhenaudio.com/products/tanchjim-zero-in-ear-hifi-dynamic-driver-earphone-with-1-25m-3-5mm-cable-dmt4-iems",
+                "amazon": "https://amzn.to/3CG42Yj"
             },
             {
                 "name": "Tangzu Wan'er",
-                "file": "mrs/Tangzu Waner"
+                "file": "mrs/Tangzu Waner",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=vftKamJfh-A",
+                "price": "$20",
+                "shopLink": "https://amzn.to/3BAzLJd",
+                "amazon": "https://amzn.to/3BAzLJd",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DkH0HIj"
             },
             {
                 "name": "Tangzu Wu Heyday Edition",
                 "file": "mrs/Tangzu Wu Heyday",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=lzRYVZxV5Ow",
+                "price": "$200",
+                "shopLink": "https://www.linsoul.com/products/tangzu-x-hbb-wu-heyday",
+                "amazon": "https://amzn.to/3Gnb31N",
+                "aliexpress": "https://s.click.aliexpress.com/e/_De7Nw6F"
             },
             {
                 "name": "Tangzu Wu Zetian",
                 "file": "mrs/Tangzu Ze Tian Wu",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=YNpB0wtwuHw",
+                "price": "$150",
+                "shopLink": "https://www.linsoul.com/products/tangzu-wu-zetian",
+                "amazon": "https://amzn.to/3BdGdEL"
             },
             {
                 "name": "Tansio Mirai Spark",
@@ -11431,37 +12841,80 @@
                     "(swtiches: 010 - default)",
                     "(switches: 110)",
                     "(switches: 111)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$1,500",
+                "shopLink": ""
             },
             {
                 "name": "Tenhz 3BA",
-                "file": "mrs/Tenhz 3BA"
+                "file": "mrs/Tenhz 3BA",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": ""
             },
             {
                 "name": "Tenhz P4 Pro",
-                "file": "mrs/Tenhz P4 Pro"
+                "file": "mrs/Tenhz P4 Pro",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=quYBgXFOY-s",
+                "price": "$150",
+                "shopLink": "https://amzn.to/3gVDeGW",
+                "amazon": "https://amzn.to/3gVDeGW",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ASQse5"
             },
             {
                 "name": "TFZ No.3",
-                "file": "mrs/TFZ No.3"
+                "file": "mrs/TFZ No.3",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=mYEgYV5SXbM",
+                "price": "$110",
+                "shopLink": "https://amzn.to/35Hb0dV",
+                "amazon": "https://amzn.to/35Hb0dV",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9861NP"
             },
             {
                 "name": "TFZ T2 Galaxy",
-                "file": "mrs/TFZ T2 Galaxy"
+                "file": "mrs/TFZ T2 Galaxy",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=LUHTzRONxac",
+                "price": "$60",
+                "shopLink": "https://amzn.to/3xEgp1l",
+                "amazon": "https://amzn.to/3xEgp1l",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AW66Wz"
             },
             {
                 "name": "ThieAudio Clairvoyance",
-                "file": "mrs/ThieAudio Clairvoyance"
+                "file": "mrs/ThieAudio Clairvoyance",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$700",
+                "shopLink": "https://s.click.aliexpress.com/e/_ATC3gl",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ATC3gl"
             },
             {
                 "name": "ThieAudio Elixir",
                 "file": "mrs/ThieAudio Elixir",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=YBgl19UPhSU",
+                "price": "$210",
+                "shopLink": "https://www.linsoul.com/products/thieaudio-elixir",
+                "amazon": "https://amzn.to/3Pw8Pzt",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AUCmp1"
             },
             {
                 "name": "ThieAudio Legacy 2",
                 "file": "mrs/ThieAudio Legacy 2",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=vT1NaIt2a5Q",
+                "price": "$100",
+                "shopLink": "https://www.linsoul.com/products/thieaudio-legacy-2",
+                "amazon": "https://amzn.to/3yLmtpf",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AOkYkO"
             },
             {
                 "name": "ThieAudio Legacy 4",
@@ -11475,7 +12928,13 @@
                     "(switch on)",
                     "(tips: Spring)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=cT0gPy1XHa4",
+                "price": "$195",
+                "shopLink": "https://www.linsoul.com/collections/thieaudio/products/thieaudio-legacy-4",
+                "amazon": "https://amzn.to/3vHhDaB",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AU8Ern"
             },
             {
                 "name": "ThieAudio Legacy 5",
@@ -11499,11 +12958,22 @@
                     "(S1 + driver seized)",
                     "(S2 + impedance adapter: 15 ohm)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=cT0gPy1XHa4",
+                "price": "$250",
+                "shopLink": "https://www.linsoul.com/collections/thieaudio/products/thieaudio-legacy-5",
+                "amazon": "https://amzn.to/2UkMXPr",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ABalJ3"
             },
             {
                 "name": "ThieAudio Monarch",
-                "file": "mrs/ThieAudio Monarch"
+                "file": "mrs/ThieAudio Monarch",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=tXqbRx_l67A",
+                "price": "$730",
+                "shopLink": "https://s.click.aliexpress.com/e/_Ad68zT",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Ad68zT"
             },
             {
                 "name": "ThieAudio Monarch MkII",
@@ -11520,11 +12990,20 @@
             },
             {
                 "name": "ThieAudio Oracle",
-                "file": "mrs/ThieAudio Oracle"
+                "file": "mrs/ThieAudio Oracle",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=0OORQ27YEhE",
+                "price": "$540",
+                "shopLink": "https://s.click.aliexpress.com/e/_DBE70FZ",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DBE70FZ"
             },
             {
                 "name": "ThieAudio Oracle mkII",
-                "file": "mrs/ThieAudio Oracle mkII"
+                "file": "mrs/ThieAudio Oracle mkII",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$590",
+                "shopLink": ""
             },
             {
                 "name": "Thinksound Rain3",
@@ -11532,15 +13011,31 @@
             },
             {
                 "name": "Tin Hifi C2 Mech Warrior",
-                "file": "mrs/Tin Hifi C2 Mech Warrior"
+                "file": "mrs/Tin Hifi C2 Mech Warrior",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=vftKamJfh-A",
+                "price": "$30",
+                "shopLink": "https://amzn.to/3G4SMGa",
+                "amazon": "https://amzn.to/3G4SMGa",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DBiwxfz"
             },
             {
                 "name": "Tin Hifi C3",
-                "file": "mrs/Tin Hifi C3"
+                "file": "mrs/Tin Hifi C3",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://s.click.aliexpress.com/e/_DDwEin1",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DDwEin1"
             },
             {
                 "name": "Tin Hifi C5",
-                "file": "mrs/Tin Hifi C5"
+                "file": "mrs/Tin Hifi C5",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": "https://s.click.aliexpress.com/e/_DDTOsWN",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DDTOsWN"
             },
             {
                 "name": "Tin Hifi P1",
@@ -11551,28 +13046,63 @@
                 "suffix": [
                     "(stock)",
                     "(vent blocked)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=UHJaeVGq6Ws",
+                "price": "$170",
+                "shopLink": "https://amzn.to/2SWrGLA",
+                "amazon": "https://amzn.to/2SWrGLA",
+                "aliexpress": "https://s.click.aliexpress.com/e/_At3xnj"
             },
             {
                 "name": "Tin Hifi P1 Max",
                 "file": "mrs/Tin Hifi P1 Max",
-                "preferredShop": "HiFiGo"
+                "preferredShop": "HiFiGo",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=QLPewKuLUkA",
+                "price": "$180",
+                "shopLink": "https://hifigo.com/products/tinhifi-p1-max",
+                "amazon": "https://amzn.to/3LpC9Vg",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A61UcJ"
             },
             {
                 "name": "Tin Hifi P1 Plus",
-                "file": "mrs/Tin Hifi P1 Plus"
+                "file": "mrs/Tin Hifi P1 Plus",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=cw-b9-lQT9k",
+                "price": "$170",
+                "shopLink": "https://amzn.to/2YKaQ5E",
+                "amazon": "https://amzn.to/2YKaQ5E",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AbD70e"
             },
             {
                 "name": "Tin Hifi T2",
-                "file": "mrs/Tin Hifi T2"
+                "file": "mrs/Tin Hifi T2",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=OuYbxExtQ6o",
+                "price": "$50",
+                "shopLink": "https://amzn.to/3vMX5xE",
+                "amazon": "https://amzn.to/3vMX5xE",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A3xl7T"
             },
             {
                 "name": "Tin Hifi T2 DLC",
-                "file": "mrs/Tin Hifi T2 DLC"
+                "file": "mrs/Tin Hifi T2 DLC",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$60",
+                "shopLink": "https://amzn.to/3M1dhFe",
+                "amazon": "https://amzn.to/3M1dhFe"
             },
             {
                 "name": "Tin Hifi T2 Evo",
-                "file": "mrs/Tin Hifi T2 Evo"
+                "file": "mrs/Tin Hifi T2 Evo",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://amzn.to/3kVPo4J",
+                "amazon": "https://amzn.to/3kVPo4J",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9jt8GA"
             },
             {
                 "name": "Tin Hifi T2 Plus",
@@ -11583,7 +13113,13 @@
                 "suffix": [
                     "(tips: stock)",
                     "(tips: Azla Sedna Light Short)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=uN09O_FDpCk",
+                "price": "$60",
+                "shopLink": "https://amzn.to/3qeIo5n",
+                "amazon": "https://amzn.to/3qeIo5n",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AFrRod"
             },
             {
                 "name": "Tin Hifi T2 Pro",
@@ -11596,23 +13132,50 @@
                     "(tips: stock)",
                     "(tips: Comply w/ Waxguard)",
                     "(white grill + tips: Comply w/ Waxguard)"
-                ]
+                ],
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=pCB3Wg05hAU",
+                "price": "$60",
+                "shopLink": "https://amzn.to/3zNfLAo",
+                "amazon": "https://amzn.to/3zNfLAo"
             },
             {
                 "name": "Tin Hifi T3",
-                "file": "mrs/Tin Hifi T3"
+                "file": "mrs/Tin Hifi T3",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=CMhr5yb_Gro",
+                "price": "$70",
+                "shopLink": "https://amzn.to/3cYQGJ0",
+                "amazon": "https://amzn.to/3cYQGJ0",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9hCUM1"
             },
             {
                 "name": "Tin Hifi T3 Plus",
-                "file": "mrs/Tin Hifi T3 Plus"
+                "file": "mrs/Tin Hifi T3 Plus",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$70",
+                "shopLink": "https://amzn.to/3wjRFwM",
+                "amazon": "https://amzn.to/3wjRFwM",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DBIMayx"
             },
             {
                 "name": "Tin Hifi T4",
-                "file": "mrs/Tin Hifi T4"
+                "file": "mrs/Tin Hifi T4",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=kh6ALr3KTVY",
+                "price": "$100",
+                "shopLink": "https://amzn.to/3gYlqeC",
+                "amazon": "https://amzn.to/3gYlqeC",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AereMh"
             },
             {
                 "name": "Tin Hifi T4 Plus",
-                "file": "mrs/Tin Hifi T4 Plus"
+                "file": "mrs/Tin Hifi T4 Plus",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$120",
+                "shopLink": ""
             },
             {
                 "name": "Tin Hifi T5",
@@ -11623,25 +13186,55 @@
                 "suffix": [
                     "(tips: stock)",
                     "(tips: Comply w/ Waxguard)"
-                ]
+                ],
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=dIZEikxdyfE",
+                "price": "$130",
+                "shopLink": "https://amzn.to/35JMTv3",
+                "amazon": "https://amzn.to/35JMTv3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AkM9T7"
             },
             {
                 "name": "Tin Hifi Tin Buds 3",
                 "file": "mrs/Tin Hifi Tin Buds 3",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$90",
+                "shopLink": "https://www.linsoul.com/collections/all/products/tinhifi-tin-buds-3",
+                "amazon": "https://amzn.to/3RtHI9g",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DDSD6CF"
             },
             {
                 "name": "Tripowin Cencibel",
                 "file": "mrs/Tripowin Cencibel",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://www.linsoul.com/products/tripowin-cencibel",
+                "amazon": "https://amzn.to/3fsFecS",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DCAAfGL"
             },
             {
                 "name": "Tripowin Lea",
-                "file": "mrs/Tripowin Lea"
+                "file": "mrs/Tripowin Lea",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=vftKamJfh-A",
+                "price": "$26",
+                "shopLink": "https://amzn.to/3GSKxug",
+                "amazon": "https://amzn.to/3GSKxug",
+                "aliexpress": "https://s.click.aliexpress.com/e/_A0nWxj"
             },
             {
                 "name": "Tripowin Mele",
-                "file": "mrs/Tripowin Mele"
+                "file": "mrs/Tripowin Mele",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://amzn.to/3lkm1sW",
+                "amazon": "https://amzn.to/3lkm1sW",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AULNI8"
             },
             {
                 "name": "Tripowin Olina",
@@ -11652,28 +13245,55 @@
                 "suffix": [
                     "(sample 1)",
                     "(sample 2)"
-                ]
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": "https://amzn.to/3unC92y",
+                "amazon": "https://amzn.to/3unC92y",
+                "aliexpress": "https://s.click.aliexpress.com/e/_9wtXwt"
             },
             {
                 "name": "Tripowin Olina SE",
-                "file": "mrs/Tripowin Olina SE"
+                "file": "mrs/Tripowin Olina SE",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": ""
             },
             {
                 "name": "Tripowin Rhombus",
                 "file": "mrs/Tripowin Rhombus",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$80",
+                "shopLink": "https://www.linsoul.com/products/tripowin-rhombus",
+                "aliexpress": "https://s.click.aliexpress.com/e/_De6ETbD"
             },
             {
                 "name": "TRN IM1",
-                "file": "mrs/TRN IM1"
+                "file": "mrs/TRN IM1",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$23",
+                "shopLink": ""
             },
             {
                 "name": "TRN V30",
-                "file": "mrs/TRN V30"
+                "file": "mrs/TRN V30",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=0CgqzY2io2M",
+                "price": "$33",
+                "shopLink": ""
             },
             {
                 "name": "TRN V90",
-                "file": "mrs/TRN V90"
+                "file": "mrs/TRN V90",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$55",
+                "shopLink": ""
             },
             {
                 "name": "Truthear Hexa",
@@ -11687,12 +13307,24 @@
                     "(sample 2)",
                     "(sample 2 - airlocked)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=3nIDIi-IcqQ",
+                "price": "$80",
+                "shopLink": "https://shenzhenaudio.com/products/truthear-hexa-1dd-3ba-hybird-earphones-with-0-78-2pin-cable-earbuds",
+                "amazon": "https://amzn.to/3G5yNHS",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DnCBmgR"
             },
             {
                 "name": "Truthear Hola",
                 "file": "mrs/Truthear Hola",
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=J4Disix7jVg",
+                "price": "$19",
+                "shopLink": "https://shenzhenaudio.com/collections/all/products/truthear-hola-earphone-11mm-high-performance-dynamic-driver-in-ear-monitors",
+                "amazon": "https://amzn.to/3vLgrp7",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DForoRV"
             },
             {
                 "name": "Truthear Zero",
@@ -11706,7 +13338,12 @@
                     "(sample 2 - deep fit)",
                     "(sample 1)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=fxjzR0eiRYk",
+                "price": "$50",
+                "shopLink": "https://shenzhenaudio.com/products/truthear-zero-earphone-dual-dynamic-drivers-pu-lcp-composite-diaphragm-in-ear-headphone",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DmRA2Lh"
             },
             {
                 "name": "Truthear Zero: Red",
@@ -11724,7 +13361,13 @@
                     "(impedance adapter: 75 ohm)",
                     "(impedance adapter: 136 ohm)"
                 ],
-                "preferredShop": "Shenzhen Audio"
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=tHxuis0NyFo",
+                "price": "$55",
+                "shopLink": "https://shenzhenaudio.com/collections/all/products/truthear-x-crinacle-zero-red-dual-dynamic-drivers-in-ear-headphone",
+                "amazon": "https://amzn.to/45hb8OH",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DE3MhA1"
             },
             {
                 "name": "Ucotech RE-2",
@@ -11735,23 +13378,43 @@
                 "suffix": [
                     "(sample 2)",
                     "(sample 1)"
-                ]
+                ],
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$110",
+                "shopLink": ""
             },
             {
                 "name": "Unique Melody MEST",
-                "file": "mrs/Unique Melody MEST"
+                "file": "mrs/Unique Melody MEST",
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$1,000",
+                "shopLink": ""
             },
             {
                 "name": "Unique Melody MEST mkII",
-                "file": "mrs/Unique Melody MEST mkII"
+                "file": "mrs/Unique Melody MEST mkII",
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$1,500",
+                "shopLink": ""
             },
             {
                 "name": "Vision Ears VE7",
-                "file": "mrs/Vision Ears VE7"
+                "file": "mrs/Vision Ears VE7",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$1,900",
+                "shopLink": ""
             },
             {
                 "name": "Vision Ears VE8",
-                "file": "mrs/Vision Ears VE8"
+                "file": "mrs/Vision Ears VE8",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$2,200",
+                "shopLink": ""
             },
             {
                 "name": "Vsonic GR07",
@@ -11759,20 +13422,40 @@
             },
             {
                 "name": "Vsonic GR07 Bass Edition",
-                "file": "mrs/Vsonic GR07 (Bass)"
+                "file": "mrs/Vsonic GR07 (Bass)",
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$100",
+                "shopLink": "https://s.click.aliexpress.com/e/_AYfvBF",
+                "aliexpress": "https://s.click.aliexpress.com/e/_AYfvBF"
             },
             {
                 "name": "Vsonic VS7",
-                "file": "mrs/Vsonic VS7"
+                "file": "mrs/Vsonic VS7",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=AzpMI6JjWyc",
+                "price": "$140",
+                "shopLink": "https://s.click.aliexpress.com/e/_ADkc1L",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ADkc1L"
             },
             {
                 "name": "Whizzer Kylin",
-                "file": "mrs/Whizzer Kylin"
+                "file": "mrs/Whizzer Kylin",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=45d6MIkpOaQ",
+                "price": "$200",
+                "shopLink": ""
             },
             {
                 "name": "Xenns Mangird Tea",
                 "file": "mrs/Xenns Mangird Tea",
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=8c_xonm5wUI",
+                "price": "$300",
+                "shopLink": "https://www.linsoul.com/products/mangird-tea",
+                "amazon": "https://amzn.to/3zILO4t",
+                "aliexpress": "https://s.click.aliexpress.com/e/_Af23x3"
             },
             {
                 "name": "Xenns Mangird Tea 2",
@@ -11784,23 +13467,48 @@
                     "(sample 1)",
                     "(sample 2)"
                 ],
-                "preferredShop": "Linsoul"
+                "preferredShop": "Linsoul",
+                "reviewScore": "4",
+                "reviewLink": "https://www.youtube.com/watch?v=GvtLscycQ0U",
+                "price": "$350",
+                "shopLink": "https://www.linsoul.com/products/xenns-mangird-tea2",
+                "aliexpress": "https://s.click.aliexpress.com/e/_ALfYa5"
             },
             {
                 "name": "Xenns Mangird Top",
-                "file": "mrs/Xenns Mangird Top"
+                "file": "mrs/Xenns Mangird Top",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$530",
+                "shopLink": "https://amzn.to/3IsBQKy",
+                "amazon": "https://amzn.to/3IsBQKy",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DdLmCKZ"
             },
             {
                 "name": "Yanyin Mahina",
-                "file": "mrs/Yanyin Mahina"
+                "file": "mrs/Yanyin Mahina",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$650",
+                "shopLink": "https://amzn.to/3c9TKF3",
+                "amazon": "https://amzn.to/3c9TKF3",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DeFhlcX"
             },
             {
                 "name": "Yinfu MD51",
-                "file": "mrs/Yinfu MD51"
+                "file": "mrs/Yinfu MD51",
+                "reviewScore": "2",
+                "reviewLink": "",
+                "price": "$250",
+                "shopLink": ""
             },
             {
                 "name": "Yinyoo V2",
-                "file": "mrs/Yinyoo V2"
+                "file": "mrs/Yinyoo V2",
+                "reviewScore": "3",
+                "reviewLink": "https://www.youtube.com/watch?v=Ht-xGovHKrY",
+                "price": "$60",
+                "shopLink": ""
             },
             {
                 "name": "EQ Sandbox",
@@ -12574,6 +14282,10 @@
                 "file": "vortex/Kiwi Ears Orchestra Lite"
             },
             {
+                "name": "Kiwi Ears Quintet",
+                "file": "vortex/Kiwi Ears Quintet"
+            },
+            {
                 "name": "KZ AS16 Pro",
                 "file": "vortex/KZ AS16 Pro"
             },
@@ -12716,6 +14428,10 @@
             {
                 "name": "Moondrop Chu",
                 "file": "vortex/Moondrop Chu"
+            },
+            {
+                "name": "Moondrop Chu 2",
+                "file": "vortex/Moondrop Chu 2"
             },
             {
                 "name": "Moondrop Crescent",
@@ -12962,6 +14678,10 @@
                 "file": "vortex/Tripowin TC01"
             },
             {
+                "name": "Tripowin x HBB Kailua",
+                "file": "vortex/Tripowin x HBB Kailua"
+            },
+            {
                 "name": "Tripowin X HBB Mele",
                 "file": "vortex/Tripowin X HBB Mele"
             },
@@ -13118,21 +14838,25 @@
             {
                 "name": "AceZone A-Rise",
                 "file": [
-                    "vsg/AceZone A-Rise Gaming + Music ANC off",
                     "vsg/AceZone A-Rise Gaming + Music ANC on",
+                    "vsg/AceZone A-Rise Gaming + Music ANC off",
                     "vsg/AceZone A-Rise Pro Gaming",
-                    "vsg/AceZone A-Rise Pro Gaming 3.5 mm"
+                    "vsg/AceZone A-Rise Gaming + Music ANC on 3.5 mm"
                 ],
                 "suffix": [
-                    "Gaming & Music ANC Off",
-                    "(Gaming & Music ANC On)",
+                    "Gaming & Music ANC On",
+                    "(Gaming & Music ANC Off)",
                     "(Pro Gaming)",
-                    "(Pro Gaming 3.5 mm)"
+                    "(Gaming & Music ANC On 3.5 mm)"
                 ]
             },
             {
                 "name": "AFUL Acoustics Performer 5",
                 "file": "vsg/AFUL Acoustics Performer 5"
+            },
+            {
+                "name": "AFUL Acoustics Performer 8",
+                "file": "vsg/AFUL Acoustics Performer 8"
             },
             {
                 "name": "Allway OE10",
@@ -13551,6 +15275,17 @@
                 "file": "vsg/FiiO FW5"
             },
             {
+                "name": "FiiO FX15",
+                "file": [
+                    "vsg/FiiO FX15 switch on",
+                    "vsg/FiiO FX15 switch off"
+                ],
+                "suffix": [
+                    "(Switch On)",
+                    "(Switch Off)"
+                ]
+            },
+            {
                 "name": "FiiO x Crinacle FHE:Eclipse",
                 "file": "vsg/FiiO x Crinacle FHE (Eclipse)"
             },
@@ -13721,6 +15456,10 @@
                 ]
             },
             {
+                "name": "HIFIMAN Svanar Wireless",
+                "file": "vsg/HIFIMAN Svanar Wireless"
+            },
+            {
                 "name": "HIFIMAN TWS800",
                 "file": "vsg/HIFIMAN TWS800"
             },
@@ -13772,6 +15511,10 @@
                 ]
             },
             {
+                "name": "Kiwi Ears Cadenza",
+                "file": "vsg/Kiwi Ears Cadenza"
+            },
+            {
                 "name": "Kiwi Ears Orchestra Lite",
                 "file": [
                     "vsg/Kiwi Ears Orchestra Lite",
@@ -13781,6 +15524,10 @@
                     "",
                     "(Deep Fit)"
                 ]
+            },
+            {
+                "name": "Kiwi Ears Quintet",
+                "file": "vsg/Kiwi Ears Quintet"
             },
             {
                 "name": "KZ EDA",
@@ -13817,6 +15564,10 @@
                     "(Single-sided Silver Nozzle)",
                     "(Double-sided Gold Nozzle)"
                 ]
+            },
+            {
+                "name": "LETSHUOER DZ4",
+                "file": "vsg/LETSHUOER DZ4"
             },
             {
                 "name": "LETSHUOER EJ07M",
@@ -13887,6 +15638,17 @@
                 "suffix": [
                     "",
                     "(Dekoni Elite Sheepskin Pads)"
+                ]
+            },
+            {
+                "name": "Meze Elite",
+                "file": [
+                    "vsg/Meze Elite hybrid pad",
+                    "vsg/Meze Elite alcantara pad"
+                ],
+                "suffix": [
+                    "(Hybrid Pads)",
+                    "(Alcantara Pads)"
                 ]
             },
             {
@@ -14228,6 +15990,17 @@
             {
                 "name": "Tripowin TC-01",
                 "file": "vsg/Tripowin TC-01"
+            },
+            {
+                "name": "Tripowin x HBB Kailua",
+                "file": [
+                    "vsg/Tripowin x HBB Kailua",
+                    "vsg/Tripowin x HBB Kailua deep"
+                ],
+                "suffix": [
+                    "",
+                    "(Deep Fit)"
+                ]
             },
             {
                 "name": "Tripowin x HBB Olina",
@@ -25729,6 +27502,10 @@
                 "file": "eplv/BLON FatGirl9"
             },
             {
+                "name": "BLON BLONxHBB Z300",
+                "file": "eplv/BLONxHBB Z300"
+            },
+            {
                 "name": "BONAKO Royole",
                 "file": "eplv/BONAKO Royole"
             },
@@ -26058,11 +27835,11 @@
             },
             {
                 "name": "KZ ZAS",
-                "file": "eplv/KZ PR2"
+                "file": "eplv/KZ ZAS"
             },
             {
                 "name": "KZ KZ x HBB PR2",
-                "file": "eplv/KZ ZAS"
+                "file": "eplv/KZ PR2"
             },
             {
                 "name": "KZ ZEX pro",
@@ -26914,7 +28691,7 @@
             },
             {
                 "name": "LetShuoer DZ4",
-                "file": "hep/LetShuoer DZ4_"
+                "file": "hep/LetShuoer DZ4"
             },
             {
                 "name": "Lypertek Bevi",
@@ -27673,6 +29450,10 @@
                 "file": "ianfann/CVJ TXS UU"
             },
             {
+                "name": "DUNU ALPHA 3",
+                "file": "ianfann/DUNU ALPHA 3"
+            },
+            {
                 "name": "DUNU KIMA",
                 "file": "ianfann/DUNU KIMA"
             },
@@ -27701,6 +29482,10 @@
                 "file": "ianfann/EPZ K1"
             },
             {
+                "name": "EPZ G10",
+                "file": "ianfann/EPZ G10"
+            },
+            {
                 "name": "EPZ Q1",
                 "file": "ianfann/EPZ Q1"
             },
@@ -27721,6 +29506,10 @@
                 "file": "ianfann/FIIO FD11"
             },
             {
+                "name": "FIIO FH11",
+                "file": "ianfann/FIIO FH11"
+            },
+            {
                 "name": "FIIO FW3",
                 "file": "ianfann/FIIO FW3"
             },
@@ -27733,8 +29522,16 @@
                 "file": "ianfann/FATFREQ MAESTRO SE"
             },
             {
-                "name": "FLOAUDIO BLUELOVER",
-                "file": "ianfann/FLOAUDIO BLUELOVER"
+                "name": "FLOAUDIO BLUELOVER S1",
+                "file": "ianfann/FLOAUDIO BLUELOVER RAY'S"
+            },
+            {
+                "name": "FLOAUDIO BLUELOVER S2",
+                "file": "ianfann/FLOAUDIO BLUELOVER 20230706"
+            },
+            {
+                "name": "FLOAUDIO BLUELOVER S2 10oHm Adapter",
+                "file": "ianfann/FLOAUDIO BLUELOVER 10OHMS 20230706"
             },
             {
                 "name": "FLOAUDIO CALLA",
@@ -28601,6 +30398,10 @@
                 "file": "ianfann/TRN TA3"
             },
             {
+                "name": "TRN TA4",
+                "file": "ianfann/TRN TA4"
+            },
+            {
                 "name": "TRN XUANWU",
                 "file": "ianfann/TRN XUANWU"
             },
@@ -28635,6 +30436,14 @@
             {
                 "name": "ZHULINNIAO JINGHONG",
                 "file": "ianfann/ZHULINNIAO JINGHONG"
+            },
+            {
+                "name": "ZHULINNIAO QINGLUAN RED",
+                "file": "ianfann/ZHULINNIAO QINGLUAN RED"
+            },
+            {
+                "name": "ZHULINNIAO QINGLUAN WHITE",
+                "file": "ianfann/ZHULINNIAO QINGLUAN WHITE"
             },
             {
                 "name": "ZHULINNIAO SHUANGHUA",
@@ -29452,6 +31261,10 @@
                 "file": "nymz/DUNU KIMA"
             },
             {
+                "name": "DUNU KIMA Classic",
+                "file": "nymz/DUNU KIMA Classic"
+            },
+            {
                 "name": "DUNU SA6",
                 "file": [
                     "nymz/DUNU SA6 ON",
@@ -30188,6 +32001,10 @@
                 "file": "nymz/TRN ST5"
             },
             {
+                "name": "Truthear Hola",
+                "file": "nymz/Truthear Hola"
+            },
+            {
                 "name": "Truthear x Crinacle Zero",
                 "file": "nymz/Truthear Crin Zero"
             },
@@ -30479,6 +32296,10 @@
             {
                 "name": "Kiwi Ears Quartet DU",
                 "file": "harpo/Kiwi Ears Quartet DU"
+            },
+            {
+                "name": "Kiwi Ears Quintet",
+                "file": "harpo/Kiwi Ears Quintet"
             },
             {
                 "name": "KZ AST",
@@ -31220,6 +33041,27 @@
                 ]
             },
             {
+                "name": "AFUL Performer 8",
+                "file": [
+                    "iemworld/AFUL Performer 8 (Original Silicone)",
+                    "iemworld/AFUL Performer 8 (JVC Spiral Dot++)",
+                    "iemworld/AFUL Performer 8 (Final E Tips)",
+                    "iemworld/AFUL Performer 8 (MoonDrop Spring Tips)",
+                    "iemworld/AFUL Performer 8 (SoftEar UC Tips)",
+                    "iemworld/AFUL Performer 8 (Tripowin Foam)",
+                    "iemworld/AFUL Performer 8 (Whizzer Easytips ET100AB)"
+                ],
+                "suffix": [
+                    "(Original Silicone)",
+                    "(JVC Spiral Dot++)",
+                    "(Final E Tips)",
+                    "(MoonDrop Spring Tips)",
+                    "(SoftEar UC Tips)",
+                    "(Tripowin Foam)",
+                    "(Whizzer Easytips ET100AB)"
+                ]
+            },
+            {
                 "name": "AKG N400",
                 "file": "iemworld/AKG N400"
             },
@@ -31593,6 +33435,48 @@
                 ]
             },
             {
+                "name": "ikko OH10s",
+                "file": [
+                    "iemworld/IKKO OH10s (Original Silicone)",
+                    "iemworld/IKKO OH10s (JVC Spiral Dot++)",
+                    "iemworld/IKKO OH10s (Final E Tips)",
+                    "iemworld/IKKO OH10s (MoonDrop Spring Tips)",
+                    "iemworld/IKKO OH10s (SoftEar UC Tips)",
+                    "iemworld/IKKO OH10s (Tripowin Foam)",
+                    "iemworld/IKKO OH10s (Whizzer Easytips ET100AB)"
+                ],
+                "suffix": [
+                    "(Original Silicone)",
+                    "(JVC Spiral Dot++)",
+                    "(Final E Tips)",
+                    "(MoonDrop Spring Tips)",
+                    "(SoftEar UC Tips)",
+                    "(Tripowin Foam)",
+                    "(Whizzer Easytips ET100AB)"
+                ]
+            },
+            {
+                "name": "JUZEAR JUZEAR FLAME - 41T",
+                "file": [
+                    "iemworld/JUZEAR FLAME - 41T (Original Silicone)",
+                    "iemworld/JUZEAR FLAME - 41T (JVC Spiral Dot++)",
+                    "iemworld/JUZEAR FLAME - 41T (Final E Tips)",
+                    "iemworld/JUZEAR FLAME - 41T (MoonDrop Spring Tips)",
+                    "iemworld/JUZEAR FLAME - 41T (SoftEar UC Tips)",
+                    "iemworld/JUZEAR FLAME - 41T (Tripowin Foam)",
+                    "iemworld/JUZEAR FLAME - 41T (Whizzer Easytips ET100AB)"
+                ],
+                "suffix": [
+                    "(Original Silicone)",
+                    "(JVC Spiral Dot++)",
+                    "(Final E Tips)",
+                    "(MoonDrop Spring Tips)",
+                    "(SoftEar UC Tips)",
+                    "(Tripowin Foam)",
+                    "(Whizzer Easytips ET100AB)"
+                ]
+            },
+            {
                 "name": "FINAL E1000",
                 "file": "iemworld/FINAL E1000"
             },
@@ -31664,6 +33548,10 @@
             {
                 "name": "MoonDrop Quarks DSP",
                 "file": "iemworld/MoonDrop Quarks DSP"
+            },
+            {
+                "name": "MoonDrop Variations",
+                "file": "iemworld/MoonDrop Variations"
             },
             {
                 "name": "NICEHCK DB3",
@@ -31803,6 +33691,27 @@
             {
                 "name": "Shozy Black Hole Mini Stainless Steel Version",
                 "file": "iemworld/Shozy Black Hole Mini Stainless Steel Version"
+            },
+            {
+                "name": "SoftEars RSV",
+                "file": [
+                    "iemworld/SoftEars RSV (Original Silicone)",
+                    "iemworld/SoftEars RSV (JVC Spiral Dot++)",
+                    "iemworld/SoftEars RSV (Final E Tips)",
+                    "iemworld/SoftEars RSV (MoonDrop Spring Tips)",
+                    "iemworld/SoftEars RSV (SoftEar UC Tips)",
+                    "iemworld/SoftEars RSV (Tripowin Foam)",
+                    "iemworld/SoftEars RSV (Whizzer Easytips ET100AB)"
+                ],
+                "suffix": [
+                    "(Original Silicone)",
+                    "(JVC Spiral Dot++)",
+                    "(Final E Tips)",
+                    "(MoonDrop Spring Tips)",
+                    "(SoftEar UC Tips)",
+                    "(Tripowin Foam)",
+                    "(Whizzer Easytips ET100AB)"
+                ]
             },
             {
                 "name": "Sony IER M9",
@@ -32235,6 +34144,10 @@
                 "file": "recode/gaea"
             },
             {
+                "name": "Elysian Acoustic Labs Diva 2023",
+                "file": "recode/diva"
+            },
+            {
                 "name": "Empire Ears Legend X",
                 "file": "recode/legendx"
             },
@@ -32283,13 +34196,15 @@
             {
                 "name": "Hidition Viento B",
                 "file": [
-                    "recode/vientocp155",
                     "recode/vientoVivid",
+                    "recode/vientoB finalE",
+                    "recode/vientocp155",
                     "recode/viento"
                 ],
                 "suffix": [
-                    "Universal Deep Fit",
                     "Azla Vivid",
+                    "Final Type E",
+                    "Universal Deep Fit",
                     "Stock"
                 ]
             },
@@ -32492,6 +34407,10 @@
                 "file": "recode/quarks"
             },
             {
+                "name": "Moondrop Variations",
+                "file": "recode/vari"
+            },
+            {
                 "name": "NFaudio NF3U",
                 "file": "recode/NFaudio NF3U"
             },
@@ -32603,6 +34522,10 @@
                 ]
             },
             {
+                "name": "Subtonic Storm",
+                "file": "recode/storm"
+            },
+            {
                 "name": "Symphonium Helios",
                 "file": [
                     "recode/helios 8khz",
@@ -32642,6 +34565,10 @@
                 "file": "recode/monarch"
             },
             {
+                "name": "Thieaudio Monarch Mk.II",
+                "file": "recode/mon2"
+            },
+            {
                 "name": "Thieaudio Voyager 3 (02)",
                 "file": "recode/voyager3"
             },
@@ -32658,12 +34585,14 @@
                 "file": [
                     "recode/red",
                     "recode/red8khz",
-                    "recode/redcp155"
+                    "recode/redcp155",
+                    "recode/red spring"
                 ],
                 "suffix": [
                     "Stock",
                     "Stock 8khz",
-                    "Spinfit Cp155"
+                    "Spinfit Cp155",
+                    "Spring Tips"
                 ]
             },
             {
