@@ -2523,6 +2523,10 @@
                 "file": "hbb/Astell & Kern Solaris X"
             },
             {
+                "name": "Astell & Kern AURA",
+                "file": "hbb/Ve T"
+            },
+            {
                 "name": "Aune Jasper",
                 "file": "hbb/Aune Jasper"
             },
@@ -3061,6 +3065,10 @@
             {
                 "name": "Hiby Seeds 1",
                 "file": "hbb/Hiby Seeds"
+            },
+            {
+                "name": "Hiby XOE",
+                "file": "hbb/Hib X"
             },
             {
                 "name": "Hidizs MS4",
@@ -3959,6 +3967,10 @@
                 "file": "hbb/Qa"
             },
             {
+                "name": "Sample 1123",
+                "file": "hbb/Qk"
+            },
+            {
                 "name": "Sample River a",
                 "file": "hbb/Pearl"
             },
@@ -4759,6 +4771,10 @@
                 "file": "hbb/Yanyin M"
             },
             {
+                "name": "ZIIGAAT NUO",
+                "file": "hbb/Zig Duo"
+            },
+            {
                 "name": "ZIIGAAT CINNO",
                 "file": "hbb/Ziigaat Cinno"
             }
@@ -5474,6 +5490,10 @@
             {
                 "name": "Kiwi Ears Dolce",
                 "file": "pw/Kiwi Ears Dolce"
+            },
+            {
+                "name": "Kiwi Ears Melody",
+                "file": "pw/Kiwi Ears Melody"
             },
             {
                 "name": "Kiwi Ears Orchestra Lite",
@@ -10382,6 +10402,14 @@
                 "shopLink": "https://www.64audio.com/"
             },
             {
+                "name": "Aful Acoustics MagicOne",
+                "file": "mrs/Aful Acoustics MagicOne",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$140",
+                "shopLink": "https://hifigo.com/products/aful-magicone"
+            },
+            {
                 "name": "Aful Acoustics Performer 5",
                 "file": [
                     "mrs/Aful Acoustics Performer5",
@@ -10623,8 +10651,8 @@
             {
                 "name": "Binary Acoustics x Gizaudio Chopin",
                 "file": "mrs/Binary Acoustics Chopin",
-                "reviewScore": "0",
-                "reviewLink": "",
+                "reviewScore": "5",
+                "reviewLink": "https://www.youtube.com/watch?v=egMaoao1qmE",
                 "price": "$200",
                 "shopLink": "https://hifigo.com/products/gizaudio-binary-chopin"
             },
@@ -15603,6 +15631,10 @@
                 "file": "vortex/Kbear Pecker"
             },
             {
+                "name": "Kefine Klanar",
+                "file": "vortex/Kefine Klanar"
+            },
+            {
                 "name": "KiiBOOM Allure",
                 "file": "vortex/KiiBOOM Allure"
             },
@@ -15621,6 +15653,10 @@
             {
                 "name": "Kinera Celest Wyvern",
                 "file": "vortex/Kinera Celest Wyvern"
+            },
+            {
+                "name": "Kinera Freya 2.0",
+                "file": "vortex/Kinera Freya 2.0"
             },
             {
                 "name": "Kiwi Ears Cadenza",
@@ -16307,6 +16343,10 @@
                 ]
             },
             {
+                "name": "AFUL Acoustics MagicOne",
+                "file": "vsg/AFUL Acoustics MagicOne"
+            },
+            {
                 "name": "AFUL Acoustics Performer 5",
                 "file": "vsg/AFUL Acoustics Performer 5"
             },
@@ -16522,6 +16562,19 @@
                 "suffix": [
                     "",
                     "(With Filter)"
+                ]
+            },
+            {
+                "name": "Custom Art Hybrid 3 Pro (CIEM)",
+                "file": [
+                    "vsg/Custom Art Hybrid 3 Pro Brown",
+                    "vsg/Custom Art Hybrid 3 Pro Grey",
+                    "vsg/Custom Art Hybrid 3 Pro Yellow"
+                ],
+                "suffix": [
+                    "(Brown Filter)",
+                    "(Grey Filter)",
+                    "(Yellow Filter}"
                 ]
             },
             {
@@ -17380,13 +17433,15 @@
                 "name": "Ploopy Headphones",
                 "file": [
                     "vsg/Ploopy headphones DSP",
+                    "vsg/Ploopy headphones new DSP",
                     "vsg/Ploopy headphones as-is",
                     "vsg/Ploopy headphones old DSP"
                 ],
                 "suffix": [
-                    "(DSP)",
+                    "(Firmware PM12)",
+                    "(Firmware PM15)",
                     "(As-is)",
-                    "(Old DSP)"
+                    "(Firmware PM11)"
                 ]
             },
             {
@@ -18429,6 +18484,10 @@
                     "S2",
                     "S3"
                 ]
+            },
+            {
+                "name": "7Hz-Salnotes Zero:2",
+                "file": "crinacle/Zero:2"
             },
             {
                 "name": "7Hz-Salnotes Dioko",
@@ -27519,6 +27578,10 @@
                 "file": "acho/American Airlines Premium Economy"
             },
             {
+                "name": "Aroma Audio FEI WAN",
+                "file": "acho/Aroma Audio FEI WAN"
+            },
+            {
                 "name": "Audeze iSine LX",
                 "file": [
                     "acho/Audeze iSine LX (Spinfit)"
@@ -30563,6 +30626,10 @@
                 "file": "hep/KBEAR Stellar"
             },
             {
+                "name": "Kefine Klanar",
+                "file": "hep/Kefine Klanar"
+            },
+            {
                 "name": "KiiBOOM Allure",
                 "file": "hep/KiiBOOM Allure"
             },
@@ -30579,6 +30646,14 @@
                 "file": "hep/Kinera Celest Pandamon"
             },
             {
+                "name": "Kiwi Ears Dolce",
+                "file": "hep/Kiwi Ears Dolce"
+            },
+            {
+                "name": "Kiwi Ears Melody",
+                "file": "hep/Kiwi Ears Melody"
+            },
+            {
                 "name": "Kiwi Ears Quartet 11",
                 "file": "hep/Kiwi Ears Quartet 11"
             },
@@ -30593,10 +30668,6 @@
             {
                 "name": "Kiwi Ears Quartet 01",
                 "file": "hep/Kiwi Ears Quartet 01"
-            },
-            {
-                "name": "Kiwi Ears Dolce",
-                "file": "hep/Kiwi Ears Dolce"
             },
             {
                 "name": "LetShuoer S12",
@@ -31225,6 +31296,10 @@
                 "file": "ianfann/7TH ACOUSTICS SUPERNOVA"
             },
             {
+                "name": "AFUL MAGICONE",
+                "file": "ianfann/AFUL MAGICONE"
+            },
+            {
                 "name": "AFUL PERFORMER 5",
                 "file": "ianfann/AFUL PERFORMER 5"
             },
@@ -31477,6 +31552,10 @@
                 "file": "ianfann/CVJ TXS UU"
             },
             {
+                "name": "DNA DE2",
+                "file": "ianfann/DNA DE2"
+            },
+            {
                 "name": "DUNU ALPHA 3",
                 "file": "ianfann/DUNU ALPHA 3"
             },
@@ -31561,6 +31640,10 @@
                 "file": "ianfann/FIIO FX15 EST OFF"
             },
             {
+                "name": "FIIO JD1",
+                "file": "ianfann/FIIO JD1"
+            },
+            {
                 "name": "FATFREQ MAESTRO MINI",
                 "file": "ianfann/FATFREQ MAESTRO MINI"
             },
@@ -31595,6 +31678,10 @@
             {
                 "name": "FZ AUDIO LIBERTY Z2",
                 "file": "ianfann/FZ AUDIO LIBERTY Z2"
+            },
+            {
+                "name": "HIBY XOE",
+                "file": "ianfann/HIBY XOE"
             },
             {
                 "name": "HIBY YVAIN",
@@ -32113,6 +32200,10 @@
                 "file": "ianfann/MOONDROP ARIA"
             },
             {
+                "name": "MOONDROP ARIA 2",
+                "file": "ianfann/MOONDROP ARIA 2"
+            },
+            {
                 "name": "MOONDROP ARIA SNOW",
                 "file": "ianfann/MOONDROP ARIA SNOW"
             },
@@ -32391,6 +32482,10 @@
             {
                 "name": "SIMGOT EW100P",
                 "file": "ianfann/SIMGOT EW100P"
+            },
+            {
+                "name": "SIVGA NIGHTINGALE",
+                "file": "ianfann/SIVGA NIGHTINGALE"
             },
             {
                 "name": "SONY MDR-EX15LP",
@@ -34386,6 +34481,10 @@
             {
                 "name": "7Hz Timeless",
                 "file": "harpo/7Hz Timeless"
+            },
+            {
+                "name": "Aoshida E20",
+                "file": "harpo/Aoshida E20"
             },
             {
                 "name": "Apple Airpods Pro 2",
