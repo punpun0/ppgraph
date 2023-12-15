@@ -2,5 +2,6 @@ data_mrs/*
 .DS_Store
 download_data.py
 links.txt
+linkscopy.txt
 new_links.txt
 phone_book_template.json

@@ -91,6 +91,22 @@
                 "file": "aftersound/64 AUDIO U18S"
             },
             {
+                "name": "64 AUDIO VOLUR MX",
+                "file": "aftersound/64 AUDIO VOLUR MX"
+            },
+            {
+                "name": "64 AUDIO VOLUR M12",
+                "file": "aftersound/64 AUDIO VOLUR M12"
+            },
+            {
+                "name": "64 AUDIO VOLUR M15",
+                "file": "aftersound/64 AUDIO VOLUR M15"
+            },
+            {
+                "name": "64 AUDIO VOLUR M20",
+                "file": "aftersound/64 AUDIO VOLUR M20"
+            },
+            {
                 "name": "64 AUDIO TIA TRIO",
                 "file": "aftersound/64 AUDIO TIA TRIO"
             },
@@ -487,6 +503,14 @@
                 "file": "aftersound/DUNU FALCON PRO ATMOSPHERIC"
             },
             {
+                "name": "DUNU FALCON ULTRA BLUE",
+                "file": "aftersound/DUNU FALCON ULTRA BLUE"
+            },
+            {
+                "name": "DUNU FALCON ULTRA GOLD",
+                "file": "aftersound/DUNU FALCON ULTRA GOLD"
+            },
+            {
                 "name": "DUNU EST112",
                 "file": "aftersound/DUNU EST 112"
             },
@@ -525,6 +549,10 @@
             {
                 "name": "EFFECT AUDIO X ELYSIAN GAEA",
                 "file": "aftersound/EFFECT AUDIO X ELYSIAN GAEA"
+            },
+            {
+                "name": "ELYSIAN ACOUSTICS X AEX07",
+                "file": "aftersound/ELYSIAN ACOUSTICS X AEX07"
             },
             {
                 "name": "EMPIRE EARS ODIN",
@@ -821,6 +849,10 @@
             {
                 "name": "KBEAR STREAM",
                 "file": "aftersound/KBEAR STREAM"
+            },
+            {
+                "name": "KEFINE KLANAR",
+                "file": "aftersound/KEFINE KLANAR"
             },
             {
                 "name": "KINERA BD005 PRO",
@@ -1173,6 +1205,14 @@
             {
                 "name": "MOONDROP ARIA",
                 "file": "aftersound/MOONDROP ARIA"
+            },
+            {
+                "name": "MOONDROP ARIA 2",
+                "file": "aftersound/MOONDROP ARIA 2"
+            },
+            {
+                "name": "MOONDROP ARIA 2 FREE DSP",
+                "file": "aftersound/MOONDROP ARIA 2 FREE DSP"
             },
             {
                 "name": "MOONDROP IX",
@@ -1567,6 +1607,10 @@
                 "file": "aftersound/SIMGOT EA1000 RED"
             },
             {
+                "name": "SIVGA NIGHTINGALE",
+                "file": "aftersound/SIVGA NIGHTINGALE"
+            },
+            {
                 "name": "SKALD S11",
                 "file": "aftersound/SKALD S11"
             },
@@ -1600,7 +1644,7 @@
             },
             {
                 "name": "SYMPHONIUM METEOR",
-                "file": "aftersound/SYMPHONIUM METERO"
+                "file": "aftersound/SYMPHONIUM METEOR"
             },
             {
                 "name": "SYMPHONIUM HELIOS",
@@ -1769,6 +1813,10 @@
             {
                 "name": "TIN T5",
                 "file": "aftersound/TIN T5"
+            },
+            {
+                "name": "TIN C0",
+                "file": "aftersound/TIN C0"
             },
             {
                 "name": "TIN C2 MECH WARRIOR",
@@ -2043,6 +2091,10 @@
             {
                 "name": "Dunu Vulkan",
                 "file": "bedrock/Dunu Vulkan"
+            },
+            {
+                "name": "EPZ Q5",
+                "file": "bedrock/EPZ Q5"
             },
             {
                 "name": "EZAudio D4 (Modded)",
@@ -2439,6 +2491,10 @@
                 "file": "hbb/7hz Sonus"
             },
             {
+                "name": "7Hz ZERO 2",
+                "file": "hbb/7hz 2"
+            },
+            {
                 "name": "7Hz Eternal",
                 "file": "hbb/7Hz Eternal"
             },
@@ -2489,6 +2545,10 @@
             {
                 "name": "AROMA AUDIO JEWEL",
                 "file": "hbb/Aroma Jewel"
+            },
+            {
+                "name": "AROMA AUDIO FEI WAN",
+                "file": "hbb/Aroma FeiWan"
             },
             {
                 "name": "APPLE Airpods PRO 2",
@@ -3075,6 +3135,10 @@
                 "file": "hbb/Hidizs MS4"
             },
             {
+                "name": "Hidizs MP145",
+                "file": "hbb/Hid MP145"
+            },
+            {
                 "name": "Hidizs MS5",
                 "file": "hbb/Hidizs Ms5"
             },
@@ -3271,6 +3335,10 @@
                 "file": "hbb/Ki sa"
             },
             {
+                "name": "Kiwi Ears Forteza",
+                "file": "hbb/Ki Forteza"
+            },
+            {
                 "name": "Kiwi Ears Quintet",
                 "file": "hbb/55 Ki"
             },
@@ -3279,12 +3347,12 @@
                 "file": "hbb/5510"
             },
             {
-                "name": "KZ ZAX",
-                "file": "hbb/KZ ZAX"
+                "name": "KZ PR3",
+                "file": "hbb/Kz Pr3"
             },
             {
-                "name": "KZ ZSN Pro X",
-                "file": "hbb/KZ ZSN Pro X"
+                "name": "KZ Unknown",
+                "file": "hbb/Kz Un"
             },
             {
                 "name": "KZ ASX",
@@ -3449,6 +3517,10 @@
             {
                 "name": "LetShuoer DZ4 PR pulled blocked",
                 "file": "hbb/Rascal"
+            },
+            {
+                "name": "LetShuoer S15",
+                "file": "hbb/Lets S15"
             },
             {
                 "name": "LetShuoer CADENZA 12",
@@ -3677,6 +3749,10 @@
             {
                 "name": "Oriolus Trailli",
                 "file": "hbb/Oriolus Trailli"
+            },
+            {
+                "name": "Oriolus Monachaa",
+                "file": "hbb/Or Monachaa"
             },
             {
                 "name": "Oriolus Szalayi",
@@ -3971,12 +4047,28 @@
                 "file": "hbb/Qk"
             },
             {
-                "name": "Sample River a",
-                "file": "hbb/Pearl"
+                "name": "Sample 1207 red",
+                "file": "hbb/Ealm Red"
             },
             {
-                "name": "Sample Rnt",
-                "file": "hbb/Sam Rn"
+                "name": "Sample 1207 Blk",
+                "file": "hbb/Ealm Blk"
+            },
+            {
+                "name": "Sample 1207",
+                "file": "hbb/Ealm Sil"
+            },
+            {
+                "name": "Sample 1205",
+                "file": "hbb/S Pt"
+            },
+            {
+                "name": "Sample cuek",
+                "file": "hbb/Qkay R"
+            },
+            {
+                "name": "Sample FLAG",
+                "file": "hbb/Sample Flag"
             },
             {
                 "name": "Sample 2DD3",
@@ -4219,6 +4311,10 @@
                 "file": "hbb/Tanchjim One Dsp"
             },
             {
+                "name": "Tanchjim MINO",
+                "file": "hbb/Tanch Mino"
+            },
+            {
                 "name": "Tanchjim OLA",
                 "file": "hbb/Tanchjim OLA"
             },
@@ -4381,6 +4477,10 @@
             {
                 "name": "ThieAudio GHOST",
                 "file": "hbb/Thieaudio Ghost"
+            },
+            {
+                "name": "TIMSOK TS 316",
+                "file": "hbb/Timsok T"
             },
             {
                 "name": "Tinhifi T2+ pre-retail",
@@ -4771,6 +4871,10 @@
                 "file": "hbb/Yanyin M"
             },
             {
+                "name": "ZIIGAAT X HBB JUPITER",
+                "file": "hbb/Sample Flag"
+            },
+            {
                 "name": "ZIIGAAT NUO",
                 "file": "hbb/Zig Duo"
             },
@@ -4848,6 +4952,10 @@
                     "re-set",
                     "No Grill"
                 ]
+            },
+            {
+                "name": "7Hz Salnotes Zero 2",
+                "file": "pw/7Hz Salnotes Zero 2"
             },
             {
                 "name": "AFUL Performer 8",
@@ -5113,12 +5221,55 @@
                 "file": "pw/CCA PLA13"
             },
             {
+                "name": "CCA Polaris",
+                "file": [
+                    "pw/CCA Polaris 0000",
+                    "pw/CCA Polaris 1000",
+                    "pw/CCA Polaris 1100",
+                    "pw/CCA Polaris 1110",
+                    "pw/CCA Polaris 1111"
+                ],
+                "suffix": [
+                    "0000",
+                    "1000",
+                    "1100",
+                    "1110",
+                    "1111"
+                ]
+            },
+            {
+                "name": "CCA Rhapsody",
+                "file": [
+                    "pw/CCA Rhapsody 0110",
+                    "pw/CCA Rhapsody 0000 500",
+                    "pw/CCA Rhapsody 0110 500",
+                    "pw/CCA Rhapsody 0010 500"
+                ],
+                "suffix": [
+                    "0110",
+                    "0000 500 on Nozzle",
+                    "0110 500 on Nozzle",
+                    "0010 500 on Nozzle"
+                ]
+            },
+            {
+                "name": "CCZ BC02",
+                "file": "pw/CCZ BC02"
+            },
+            {
                 "name": "CCZ Coffee Bean",
                 "file": "pw/CCZ Coffee Beanv2"
             },
             {
                 "name": "CCZ Melody",
-                "file": "pw/CCZ Melody"
+                "file": [
+                    "pw/CCZ Melody",
+                    "pw/CCZ Melody V2"
+                ],
+                "suffix": [
+                    "Original",
+                    "Green"
+                ]
             },
             {
                 "name": "CCZ Plume",
@@ -5163,6 +5314,17 @@
                 "file": "pw/DUNU EST112"
             },
             {
+                "name": "DUNU Falcon Ultra",
+                "file": [
+                    "pw/Dunu Falcon Ultra Blue",
+                    "pw/Dunu Falcon Ultra Gold"
+                ],
+                "suffix": [
+                    "Blue",
+                    "Gold"
+                ]
+            },
+            {
                 "name": "DUNU SA6",
                 "file": "pw/DUNU SA6"
             },
@@ -5177,6 +5339,17 @@
             {
                 "name": "DUNU Titan S Tanya",
                 "file": "pw/DUNU Titan Tanya"
+            },
+            {
+                "name": "Edifier GX05",
+                "file": [
+                    "pw/Edifier GX05",
+                    "pw/Edifier GX05 Game"
+                ],
+                "suffix": [
+                    "Music",
+                    "Game"
+                ]
             },
             {
                 "name": "EPZ G10",
@@ -5216,6 +5389,10 @@
                     "Stock",
                     "AutoEQ"
                 ]
+            },
+            {
+                "name": "Fir Audio Neon 4",
+                "file": "pw/Fir Audio Neon 4"
             },
             {
                 "name": "G.K GS10",
@@ -5301,6 +5478,10 @@
             {
                 "name": "IKKO OH2",
                 "file": "pw/IKKO OH2"
+            },
+            {
+                "name": "IKKO OH300",
+                "file": "pw/IKKO OH300"
             },
             {
                 "name": "Joyodio Shine My Tips",
@@ -5478,6 +5659,10 @@
             {
                 "name": "Kinera Celest Phoenixcall Ignore",
                 "file": "pw/Kinera Celest Phoenixcall"
+            },
+            {
+                "name": "Kinera Celest Wyvern Pro",
+                "file": "pw/Kinera Celest Wyvern Pro"
             },
             {
                 "name": "Kinera Nanna 2.0",
@@ -5706,13 +5891,19 @@
                 "file": [
                     "pw/KZ x HBB PR2",
                     "pw/KZ x HBB PR2 S2",
+                    "pw/KZ x HBB PR2 S3",
                     "pw/KZ x HBB PR2 MP"
                 ],
                 "suffix": [
                     "Stock",
-                    "Set2",
+                    "Set 2",
+                    "Set 3",
                     "MP"
                 ]
+            },
+            {
+                "name": "KZ PR3",
+                "file": "pw/KZ PR3"
             },
             {
                 "name": "KZ S1 TWS",
@@ -5930,6 +6121,10 @@
                 "file": "pw/Moondrop Aria"
             },
             {
+                "name": "Moondrop Aria 2",
+                "file": "pw/Moondrop Aria 2"
+            },
+            {
                 "name": "Moondrop Aria Snow Edition",
                 "file": [
                     "pw/Moondrop Aria Snow",
@@ -5992,6 +6187,10 @@
                 ]
             },
             {
+                "name": "Moondrop Variations",
+                "file": "pw/Moondrop Variations"
+            },
+            {
                 "name": "Muse Hifi The East 6",
                 "file": [
                     "pw/MuseHifi East 6 Red",
@@ -6013,6 +6212,14 @@
             {
                 "name": "Nightjar Singularity",
                 "file": "pw/Nightjar Singularity"
+            },
+            {
+                "name": "ORIOLUS Isabellae",
+                "file": "pw/Oriolus Isabellae"
+            },
+            {
+                "name": "ORIOLUS SZALAYI",
+                "file": "pw/ORIOLUS SZALAYI"
             },
             {
                 "name": "PAIAudio DR2",
@@ -6213,6 +6420,10 @@
                 "file": "pw/Simgot EM2R"
             },
             {
+                "name": "SIVGA Nightingale",
+                "file": "pw/SIVGA Nightingale"
+            },
+            {
                 "name": "Softears CERBERUS",
                 "file": "pw/SoftEars CERBERUS"
             },
@@ -6296,6 +6507,10 @@
                 "file": "pw/Soundpeats Opera05"
             },
             {
+                "name": "Tanchjim Mino",
+                "file": "pw/Tanchjim Mino"
+            },
+            {
                 "name": "Tanchjim Tanya",
                 "file": [
                     "pw/Tanchjim Tanyav2",
@@ -6377,6 +6592,19 @@
                 "suffix": [
                     "Stock",
                     "Micropore on Front Vent"
+                ]
+            },
+            {
+                "name": "TEST TEST",
+                "file": [
+                    "pw/TEST TEST RED1",
+                    "pw/TEST TEST BLACK1",
+                    "pw/TEST TEST DIY1"
+                ],
+                "suffix": [
+                    "Red",
+                    "Black",
+                    "DIY"
                 ]
             },
             {
@@ -6573,6 +6801,23 @@
                 "file": "pw/TRN BA8"
             },
             {
+                "name": "TRN Conch",
+                "file": [
+                    "pw/TRN Conch Red",
+                    "pw/TRN Conch Black",
+                    "pw/TRN Conch Black 350",
+                    "pw/TRN Conch Black 400",
+                    "pw/TRN Conch Black 400 Tape"
+                ],
+                "suffix": [
+                    "Red",
+                    "Black",
+                    "Black+350 on Nozzle",
+                    "Black+400 on Nozzle",
+                    "Black+Tape+400 on Nozzle"
+                ]
+            },
+            {
                 "name": "TRN CS1",
                 "file": "pw/TRN CS1"
             },
@@ -6619,6 +6864,10 @@
             {
                 "name": "TRN MT4",
                 "file": "pw/TRN MT4"
+            },
+            {
+                "name": "TRN MT4 Pro",
+                "file": "pw/TRN MT4 Pro"
             },
             {
                 "name": "TRN M10",
@@ -6783,6 +7032,10 @@
                 "suffix": [
                     "Stock"
                 ]
+            },
+            {
+                "name": "Ziigaat Nuo",
+                "file": "pw/Ziigaat Nuo"
             }
         ]
     },
@@ -7723,6 +7976,10 @@
                 "file": "precog/Kinera Norn"
             },
             {
+                "name": "Kiwi Ears Cadenza",
+                "file": "precog/KiwiEars Cadenza"
+            },
+            {
                 "name": "Kiwi Ears Quartet",
                 "file": "precog/KiwiEars Quartet (OFF)"
             },
@@ -7850,6 +8107,10 @@
             {
                 "name": "Moondrop Chu",
                 "file": "precog/Moondrop Chu"
+            },
+            {
+                "name": "Moondrop Dark Saber",
+                "file": "precog/Moondrop Dark Saber"
             },
             {
                 "name": "Moondrop Illumination",
@@ -7989,6 +8250,10 @@
             {
                 "name": "Mystery Collab V7",
                 "file": "precog/Mystery Collab V7"
+            },
+            {
+                "name": "Mystery Collab V8",
+                "file": "precog/Collab V8"
             },
             {
                 "name": "NF Audio NA2+",
@@ -8453,6 +8718,10 @@
                 "file": "precog/ThieAudio Excalibur"
             },
             {
+                "name": "Thieaudio Hype 2",
+                "file": "precog/ThieAudio Hype 2"
+            },
+            {
                 "name": "Thieaudio Legacy 2 (L2)",
                 "file": [
                     "precog/Thieaudio Legacy 2 (L2)",
@@ -8606,6 +8875,10 @@
                 "file": "precog/Truthear Hola"
             },
             {
+                "name": "Ucotech RE2",
+                "file": "precog/Ucotech RE2"
+            },
+            {
                 "name": "Unique Melody 3DT",
                 "file": [
                     "precog/Unique Melody 3DT",
@@ -8627,6 +8900,10 @@
             {
                 "name": "Unique Melody MEST MK2",
                 "file": "precog/Unique Melody MEST MK2"
+            },
+            {
+                "name": "Unique Melody MEST MK3",
+                "file": "precog/Unique Melody MEST MK3"
             },
             {
                 "name": "Unique Melody MEST Mini",
@@ -9879,6 +10156,37 @@
                 ]
             },
             {
+                "name": "Simgot EA1000",
+                "file": [
+                    "rg/Simgot EA1000 (red)",
+                    "rg/Simgot EA1000 (black)",
+                    "rg/Simgot EA1000 (gold)",
+                    "rg/Simgot EA1000 (gold + Sony Import Foam 4x5mm)",
+                    "rg/Simgot EA1000 (red + Sony Import Foam 4x3mm)",
+                    "rg/Simgot EA1000 (red + Sony Composite Foam 4x5mm)",
+                    "rg/Simgot EA1000 (red + High Density Foam 4x3mm)",
+                    "rg/Simgot EA1000 (red + 2xHigh Density Foam 4x3mm)",
+                    "rg/Simgot EA1000 (red + 2xHigh Density Foam 4x3mm + 4.5mm 500 mesh)",
+                    "rg/Simgot EA1000 (red + 2xHigh Density Foam 4x3mm + 4.5mm 500 mesh + PR taped)"
+                ],
+                "suffix": [
+                    "(red)",
+                    "(black)",
+                    "(gold)",
+                    "(gold + Sony Import Foam 4x5mm)",
+                    "(red + Sony Import Foam 4x3mm)",
+                    "(red + Sony Composite Foam 4x5mm",
+                    "(red + High Density Foam 4x3mm)",
+                    "(red + 2xHigh Density Foam 4x3mm)",
+                    "(red + 2xHigh Density Foam 4x3mm + 4.5mm 500 mesh)",
+                    "(red + 2xHigh Density Foam 4x3mm + 4.5mm 500 mesh + PR taped)"
+                ]
+            },
+            {
+                "name": "Simgot EM6L",
+                "file": "rg/Simgot EM6L"
+            },
+            {
                 "name": "Softears Volume",
                 "file": [
                     "rg/Softears Volume (Atom)",
@@ -10035,6 +10343,10 @@
             {
                 "name": "Tanchjim Tanya",
                 "file": "rg/Tanchjim Tanya"
+            },
+            {
+                "name": "Tangzu Fudu",
+                "file": "rg/Tangzu Fudu"
             },
             {
                 "name": "Tansio Mirai TSMR - 4 Pro",
@@ -11105,6 +11417,21 @@
                 "shopLink": ""
             },
             {
+                "name": "Elysian Acoustic Labs Annihilator 2023",
+                "file": [
+                    "mrs/Elysian Annihilator 2023 (JVC)",
+                    "mrs/Elysian Annihilator 2023 (W1)"
+                ],
+                "suffix": [
+                    "(tips: Spiral Dots++)",
+                    "(tips: SpinFit W1)"
+                ],
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$3,000",
+                "shopLink": "https://eliseaudio.com/en-us/products/elysian-annihilator"
+            },
+            {
                 "name": "Empire Ears Bravado mk.II",
                 "file": "mrs/Empire Ears Bravado mkII",
                 "reviewScore": "3",
@@ -11474,6 +11801,16 @@
                 "aliexpress": "https://s.click.aliexpress.com/e/_9I4aQh"
             },
             {
+                "name": "Fiio FW5",
+                "file": "mrs/Fiio FW5",
+                "reviewScore": "2",
+                "reviewLink": "https://www.youtube.com/watch?v=N0bZWR6iSj8",
+                "price": "$150",
+                "shopLink": "https://amzn.to/3ZDJ7OR",
+                "amazon": "https://amzn.to/3ZDJ7OR",
+                "aliExpress": "https://s.click.aliexpress.com/e/_DCYo7nH"
+            },
+            {
                 "name": "Fiio FX15",
                 "file": [
                     "mrs/Fiio FX15 (on)",
@@ -11489,16 +11826,6 @@
                 "price": "$750",
                 "shopLink": "https://s.click.aliexpress.com/e/_DCgRyC9",
                 "aliExpress": "https://s.click.aliexpress.com/e/_DCgRyC9"
-            },
-            {
-                "name": "Fiio FW5",
-                "file": "mrs/Fiio FW5",
-                "reviewScore": "2",
-                "reviewLink": "https://www.youtube.com/watch?v=N0bZWR6iSj8",
-                "price": "$150",
-                "shopLink": "https://amzn.to/3ZDJ7OR",
-                "amazon": "https://amzn.to/3ZDJ7OR",
-                "aliExpress": "https://s.click.aliexpress.com/e/_DCYo7nH"
             },
             {
                 "name": "Final Audio A4000",
@@ -11684,6 +12011,14 @@
                 "reviewLink": "",
                 "price": "$350",
                 "shopLink": ""
+            },
+            {
+                "name": "Hiby Xoe",
+                "file": "mrs/Hiby Digital Xoe",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$30",
+                "shopLink": "https://store.hiby.com/products/hiby-digital-xoe"
             },
             {
                 "name": "Hidition Violet",
@@ -12736,6 +13071,28 @@
                 "aliexpress": "https://s.click.aliexpress.com/e/_DBGtbF3"
             },
             {
+                "name": "Moondrop May",
+                "file": [
+                    "mrs/Moondrop May (2-pin)",
+                    "mrs/Moondrop May (standard)",
+                    "mrs/Moondrop May (VDSF)",
+                    "mrs/Moondrop May (USB)"
+                ],
+                "suffix": [
+                    "(cable: 3.5mm)",
+                    "(EQ: Standard)",
+                    "(EQ: VDSF)",
+                    "(EQ: PEQ - no gain)"
+                ],
+                "preferredShop": "Shenzhen Audio",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$65",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-may-dd-planar-in-ear-headphone",
+                "amazon": "https://amzn.to/3NmfdKl",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DEcswUN"
+            },
+            {
                 "name": "Moondrop Nekocake",
                 "file": [
                     "mrs/Moondrop Nekocake (ANC on)",
@@ -13569,7 +13926,14 @@
             },
             {
                 "name": "Sivga Nightingale",
-                "file": "mrs/Sivga Nightingale",
+                "file": [
+                    "mrs/Sivga Nightingale (prod)",
+                    "mrs/Sivga Nightingale"
+                ],
+                "suffix": [
+                    "",
+                    "(pre-production)"
+                ],
                 "reviewScore": "0",
                 "reviewLink": "",
                 "price": "$230",
@@ -13764,6 +14128,15 @@
                 "price": "$280",
                 "shopLink": "https://amzn.to/2UkMFrP",
                 "amazon": "https://amzn.to/2UkMFrP"
+            },
+            {
+                "name": "Sony WF-1000XM5",
+                "file": "mrs/Sony WF-1000XM5",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$300",
+                "shopLink": "https://amzn.to/47ssrxh",
+                "amazon": "https://amzn.to/47ssrxh"
             },
             {
                 "name": "Sony XBA-N3",
@@ -14189,6 +14562,15 @@
                 "price": "$1,000",
                 "shopLink": "https://s.click.aliexpress.com/e/_9G7Vs6",
                 "aliexpress": "https://s.click.aliexpress.com/e/_9G7Vs6"
+            },
+            {
+                "name": "ThieAudio Monarch MkIII",
+                "file": "mrs/ThieAudio Monarch mkIII",
+                "reviewScore": "0",
+                "reviewLink": "",
+                "price": "$1,000",
+                "shopLink": "https://s.click.aliexpress.com/e/_DE2MqED",
+                "aliexpress": "https://s.click.aliexpress.com/e/_DE2MqED"
             },
             {
                 "name": "ThieAudio Oracle",
@@ -14805,6 +15187,10 @@
                 "file": "tgx78/AKG N400"
             },
             {
+                "name": "Aroma Fei Wan",
+                "file": "tgx78/Fei Wan"
+            },
+            {
                 "name": "Aroma Jewel Sample 1",
                 "file": "tgx78/Aroma Jewel"
             },
@@ -14867,6 +15253,14 @@
             {
                 "name": "Campfire Audio Onyx",
                 "file": "tgx78/Campfire Audio Onyx"
+            },
+            {
+                "name": "Canpur CP54E",
+                "file": "tgx78/021U"
+            },
+            {
+                "name": "Canpur CP622B",
+                "file": "tgx78/622B"
             },
             {
                 "name": "CCA CRA Sample 1",
@@ -15213,6 +15607,10 @@
                 "file": "tgx78/Tanchjim Tanya"
             },
             {
+                "name": "Tansio Mirai Halo",
+                "file": "tgx78/Halo"
+            },
+            {
                 "name": "Tansio Mirai RGB",
                 "file": "tgx78/Tansio Mirai RGB"
             },
@@ -15306,6 +15704,10 @@
                 "file": "vortex/7hz x Crinacle Dioko Updated"
             },
             {
+                "name": "Aful MagicOne",
+                "file": "vortex/Aful MagicOne"
+            },
+            {
                 "name": "Aful Performer5",
                 "file": "vortex/Aful Performer5"
             },
@@ -15348,6 +15750,10 @@
             {
                 "name": "BGVP Scale 2DD",
                 "file": "vortex/BGVP Scale 2DD"
+            },
+            {
+                "name": "Binary x Gizaudio Chopin",
+                "file": "vortex/Binary x Gizaudio Chopin"
             },
             {
                 "name": "Blon A8",
@@ -15663,6 +16069,10 @@
                 "file": "vortex/Kiwi Ears Cadenza"
             },
             {
+                "name": "Kiwi Ears Forteza",
+                "file": "vortex/Kiwi Ears Forteza"
+            },
+            {
                 "name": "Kiwi Ears Melody",
                 "file": "vortex/Kiwi Ears Melody"
             },
@@ -15819,6 +16229,10 @@
                 "file": "vortex/Mangird Top"
             },
             {
+                "name": "Mechen Earphone",
+                "file": "vortex/Mechen Earphone"
+            },
+            {
                 "name": "MiM Dark Magician",
                 "file": "vortex/MiM Dark Magician"
             },
@@ -15973,6 +16387,10 @@
             {
                 "name": "Simgot EW100P",
                 "file": "vortex/Simgot EW100P"
+            },
+            {
+                "name": "Simgot EW200",
+                "file": "vortex/Simgot EW200"
             },
             {
                 "name": "Sivga Nightingale",
@@ -16784,10 +17202,32 @@
                 ]
             },
             {
-                "name": "FiiO FT3",
+                "name": "FiiO FT3 (350 Ohm)",
                 "file": [
                     "vsg/FiiO FT3 suede",
                     "vsg/FiiO FT3 pleather"
+                ],
+                "suffix": [
+                    "(Suede Pads)",
+                    "(Protein Leather Pads)"
+                ]
+            },
+            {
+                "name": "FiiO FT3 (32 Ohm)",
+                "file": [
+                    "vsg/FiiO FT3 32ohm hybrid",
+                    "vsg/FiiO FT3 32ohm suede"
+                ],
+                "suffix": [
+                    "(Hybrid Pads)",
+                    "(Suede Pads)"
+                ]
+            },
+            {
+                "name": "FiiO FT5",
+                "file": [
+                    "vsg/FiiO FT5 suede",
+                    "vsg/FiiO FT5 pleather"
                 ],
                 "suffix": [
                     "(Suede Pads)",
@@ -16824,6 +17264,10 @@
             {
                 "name": "FiiO JD3 Black Edition",
                 "file": "vsg/FiiO JD3 Black"
+            },
+            {
+                "name": "FiiO /JadeAudio JT1",
+                "file": "vsg/FiiO JT1"
             },
             {
                 "name": "Focal Bathys",
@@ -17849,7 +18293,22 @@
             },
             {
                 "name": "ZMF Caldera",
-                "file": "vsg/ZMF Caldera"
+                "file": [
+                    "vsg/ZMF Caldera lambskin stock",
+                    "vsg/ZMF Caldera lambskin stock mantle",
+                    "vsg/ZMF Caldera lambskin ultra perf",
+                    "vsg/ZMF Caldera lambskin ultra perf mantle",
+                    "vsg/ZMF Caldera suede",
+                    "vsg/ZMF Caldera cowhide thin"
+                ],
+                "suffix": [
+                    "(Lambskin Stock Pads)",
+                    "(Lambskin Stock Pads + Mantle Mesh)",
+                    "(Lambskin Ultra Perf Pads)",
+                    "(Lambskin Ultra Perf Pads + Mantle Mesh)",
+                    "(Suede Pads)",
+                    "(Cowhide Thin Pads)"
+                ]
             }
         ]
     },
@@ -18487,7 +18946,17 @@
             },
             {
                 "name": "7Hz-Salnotes Zero:2",
-                "file": "crinacle/Zero:2"
+                "collab": "crinacle",
+                "file": [
+                    "crinacle/Zero2 S1",
+                    "crinacle/Zero2 S2",
+                    "crinacle/Zero2 S3"
+                ],
+                "suffix": [
+                    "S1",
+                    "S2",
+                    "S3"
+                ]
             },
             {
                 "name": "7Hz-Salnotes Dioko",
@@ -19213,6 +19682,11 @@
             {
                 "name": "Big Bus Earbuds",
                 "file": "crinacle/Big Bus"
+            },
+            {
+                "name": "Binary Chopin",
+                "collab": "Gizaudio",
+                "file": "crinacle/Chopin"
             },
             {
                 "name": "BGVP DM6",
@@ -22831,8 +23305,27 @@
                 "file": "crinacle/Azul"
             },
             {
-                "name": "Project 00",
-                "file": "crinacle/00"
+                "name": "Project Genesis V2.0",
+                "file": "crinacle/Genesis V2"
+            },
+            {
+                "name": "Project DUSK V2.0",
+                "file": [
+                    "crinacle/DUSK V2.0 DSP",
+                    "crinacle/DUSK V2.0 DSP V",
+                    "crinacle/DUSK V2.0 DSP Harman",
+                    "crinacle/DUSK V2.0 DSP Diffuse",
+                    "crinacle/DUSK V2.0 DSP Diffuse-Tilted",
+                    "crinacle/DUSK V2.0"
+                ],
+                "suffix": [
+                    "DSP (Default profile)",
+                    "DSP (V profile)",
+                    "DSP (Harman profile)",
+                    "DSP (Diffuse profile)",
+                    "DSP (Diffuse-Tilted profile)",
+                    "Analog"
+                ]
             },
             {
                 "name": "Project Mongrel V2.1",
@@ -27550,28 +28043,32 @@
         "name": "Acho Reviews",
         "phones": [
             {
-                "name": "7Hz Dioko",
+                "name": "7Hz Legato",
+                "file": "acho/7Hz Legato"
+            },
+            {
+                "name": "7Hz Salnotes Dioko",
                 "file": "acho/7Hz Dioko"
             },
             {
-                "name": "7Hz Eternal",
-                "file": "acho/7Hz Eternal"
+                "name": "7Hz Salnotes Zero",
+                "file": "acho/7Hz Zero"
             },
             {
-                "name": "7Hz Timeless",
-                "file": "acho/7Hz Timeless"
-            },
-            {
-                "name": "7Hz Legato",
-                "file": "acho/7Hz Legato"
+                "name": "7Hz Salnotes Zero 2",
+                "file": "acho/7Hz Salnotes Zero 2"
             },
             {
                 "name": "7Hz Sonus",
                 "file": "acho/7Hz Sonus"
             },
             {
-                "name": "7Hz Zero",
-                "file": "acho/7Hz Zero"
+                "name": "7Hz Timeless",
+                "file": "acho/7Hz Timeless"
+            },
+            {
+                "name": "Aful MagicOne",
+                "file": "acho/Aful MagicOne"
             },
             {
                 "name": "American Airlines Premium Economy",
@@ -27686,12 +28183,24 @@
                 "file": "acho/Effect Audio Axiom"
             },
             {
+                "name": "EPZ G10",
+                "file": "acho/EPZ G10"
+            },
+            {
+                "name": "EPZ Q5",
+                "file": "acho/EPZ Q5"
+            },
+            {
                 "name": "Fiio FHE Eclipse",
                 "file": "acho/Fiio FHE Eclipse"
             },
             {
                 "name": "Final Audio E500",
                 "file": "acho/Final Audio E500"
+            },
+            {
+                "name": "Gizaudio x Binary Acoustics Chopin",
+                "file": "acho/Gizaudio x Binary Acoustics Chopin"
             },
             {
                 "name": "Hidizs MM2",
@@ -27942,6 +28451,10 @@
                     "(Sample 1)",
                     "(Sample 2)"
                 ]
+            },
+            {
+                "name": "Letshuoer S15",
+                "file": "acho/Letshuoer S15"
             },
             {
                 "name": "LZ A4 Pro",
@@ -28309,6 +28822,14 @@
             {
                 "name": "Venture Electronics SIE",
                 "file": "acho/Venture Electronics SIE"
+            },
+            {
+                "name": "Ziigaat Cinno",
+                "file": "acho/Ziigaat Cinno"
+            },
+            {
+                "name": "Ziigaat Nuo",
+                "file": "acho/Ziigaat Nuo"
             }
         ]
     },
@@ -28418,6 +28939,22 @@
                 "price": "$",
                 "shopLink": "",
                 "file": "elise/Campfire Audio Supermoon"
+            },
+            {
+                "name": "Canpur CP622B",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$",
+                "shopLink": "",
+                "file": "elise/Canpur CP622B"
+            },
+            {
+                "name": "Custom Art H3 Pro",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$",
+                "shopLink": "",
+                "file": "elise/Custom Art H3 Pro"
             },
             {
                 "name": "Dunu SA6 Ultra",
@@ -28538,6 +29075,14 @@
                 "price": "$",
                 "shopLink": "",
                 "file": "elise/Fatfreq Maestro SE"
+            },
+            {
+                "name": "FiR Audio e12",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$",
+                "shopLink": "",
+                "file": "elise/FiR Audio e12"
             },
             {
                 "name": "FiR Audio KR5 Black Atom",
@@ -28772,20 +29317,20 @@
                 "file": "elise/Kinera Skuld"
             },
             {
-                "name": "Kinera Loki (int)",
+                "name": "Kinera Loki Emerald",
                 "reviewScore": "",
                 "reviewLink": "",
                 "price": "$",
                 "shopLink": "",
-                "file": "elise/Kinera Loki (int)"
+                "file": "elise/Kinera Loki Emerald"
             },
             {
-                "name": "Kinera Loki (CN)",
+                "name": "Kinera Loki (Chinese)",
                 "reviewScore": "",
                 "reviewLink": "",
                 "price": "$",
                 "shopLink": "",
-                "file": "elise/Kinera Loki (CN)"
+                "file": "elise/Kinera Loki (Chinese)"
             },
             {
                 "name": "LetShuoer S12",
@@ -28794,6 +29339,14 @@
                 "price": "$",
                 "shopLink": "",
                 "file": "elise/LetShuoer S12"
+            },
+            {
+                "name": "LetShuoer S15",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$",
+                "shopLink": "",
+                "file": "elise/LetShuoer S15"
             },
             {
                 "name": "LetShuoer EJ07M Lava",
@@ -29004,6 +29557,14 @@
                 "file": "elise/Sennheiser IE600"
             },
             {
+                "name": "Simgot EA1000",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$",
+                "shopLink": "",
+                "file": "elise/Simgot EA1000"
+            },
+            {
                 "name": "Softears RSV",
                 "reviewScore": "",
                 "reviewLink": "",
@@ -29108,6 +29669,14 @@
                 "file": "elise/Tangzu Zetian Wu"
             },
             {
+                "name": "Tansio Mirai Halo",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$",
+                "shopLink": "",
+                "file": "elise/Tansio Mirai Halo"
+            },
+            {
                 "name": "Tansio Mirai RGB 100",
                 "reviewScore": "",
                 "reviewLink": "",
@@ -29154,6 +29723,14 @@
                 "price": "$",
                 "shopLink": "",
                 "file": "elise/ThieAudio L9"
+            },
+            {
+                "name": "ThieAudio Oracle",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$",
+                "shopLink": "",
+                "file": "elise/ThieAudio Oracle"
             },
             {
                 "name": "ThieAudio Oracle MKII",
@@ -29346,6 +29923,14 @@
                 "price": "$",
                 "shopLink": "",
                 "file": "elise/Sample 9"
+            },
+            {
+                "name": "Sample 10",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$",
+                "shopLink": "",
+                "file": "elise/Sample 10"
             }
         ]
     },
@@ -29459,6 +30044,10 @@
             {
                 "name": "BQEYZ KB1",
                 "file": "eplv/BQEYZ KB19"
+            },
+            {
+                "name": "BQEYZ Autumn Normal",
+                "file": "eplv/BQEYZ Autumn_Normal"
             },
             {
                 "name": "BUSAX JS81",
@@ -29693,6 +30282,10 @@
                 "file": "eplv/KBEAR F1"
             },
             {
+                "name": "KBEAR KB01",
+                "file": "eplv/KBEAR KB01"
+            },
+            {
                 "name": "KBEAR KS1",
                 "file": "eplv/KBEAR KS19"
             },
@@ -29711,6 +30304,10 @@
             {
                 "name": "KBEAR ST1",
                 "file": "eplv/KBEAR ST19"
+            },
+            {
+                "name": "KBEAR Streamer",
+                "file": "eplv/KBEAR Streamer"
             },
             {
                 "name": "Kinden UE",
@@ -29913,12 +30510,16 @@
                 "file": "eplv/NAGAOKA P908"
             },
             {
-                "name": "NICEHCK NX7 Pro Red fil",
-                "file": "eplv/NICEHCK NX7PeoEd"
-            },
-            {
                 "name": "NICEHCK DB3",
                 "file": "eplv/NICEHCK DB39"
+            },
+            {
+                "name": "NICEHCK F1 Pro",
+                "file": "eplv/NICEHCK F1 Pro"
+            },
+            {
+                "name": "NICEHCK NX7 Pro Red fil",
+                "file": "eplv/NICEHCK NX7PeoEd"
             },
             {
                 "name": "NICEHCK X49",
@@ -29973,14 +30574,6 @@
                 "file": "eplv/QoA Affinity"
             },
             {
-                "name": "RevoNext QT5",
-                "file": "eplv/RevoNext QT5"
-            },
-            {
-                "name": "RevoNext RX8",
-                "file": "eplv/RevoNext RX8"
-            },
-            {
                 "name": "R2E3 Mermaid",
                 "file": [
                     "eplv/R2E3 Mermaid_Blk",
@@ -29990,6 +30583,18 @@
                     "Black",
                     "Silver"
                 ]
+            },
+            {
+                "name": "radius HP-NHR41",
+                "file": "eplv/radius HP-NHR41"
+            },
+            {
+                "name": "RevoNext QT5",
+                "file": "eplv/RevoNext QT5"
+            },
+            {
+                "name": "RevoNext RX8",
+                "file": "eplv/RevoNext RX8"
             },
             {
                 "name": "Seeaudio Anou jp",
@@ -30020,6 +30625,10 @@
                 "file": "eplv/SIMGOT EM2R9"
             },
             {
+                "name": "Soundpeats Engine 4 EQ:Classic",
+                "file": "eplv/Soundpeats Engine4-Classic"
+            },
+            {
                 "name": "Soundpeats MiniPro",
                 "file": "eplv/Soundpeats MiniPro"
             },
@@ -30042,6 +30651,10 @@
             {
                 "name": "Tangzu Shimin Li",
                 "file": "eplv/TANGZU ShiminLi"
+            },
+            {
+                "name": "Tingker H16",
+                "file": "eplv/TINGKER H16"
             },
             {
                 "name": "TFZ BALANCE1",
@@ -30096,12 +30709,20 @@
                 "file": "eplv/TRN BA15"
             },
             {
-                "name": "TRN MT3",
-                "file": "eplv/TRN MT3"
+                "name": "TRN Conch",
+                "file": "eplv/TRN Conch"
             },
             {
                 "name": "TRN M10",
                 "file": "eplv/TRN M10"
+            },
+            {
+                "name": "TRN MT3",
+                "file": "eplv/TRN MT3"
+            },
+            {
+                "name": "TRN MT4 Pro",
+                "file": "eplv/TRN MT4 Pro"
             },
             {
                 "name": "TRN TA1",
@@ -30176,6 +30797,10 @@
     {
         "name": "Hi End Portable",
         "phones": [
+            {
+                "name": "7Hz Crinacle Zero 2",
+                "file": "hep/7HZ Crinacle Zero 2"
+            },
             {
                 "name": "7Hz Legato",
                 "file": "hep/7Hz Legato"
@@ -30329,6 +30954,24 @@
                 ],
                 "suffix": [
                     "(Transparency)"
+                ]
+            },
+            {
+                "name": "Dunu Falcon Ultra Blue",
+                "file": [
+                    "hep/Dunu Falcon Ultra Blue"
+                ],
+                "suffix": [
+                    "(Blue)"
+                ]
+            },
+            {
+                "name": "Dunu Falcon Ultra Gold",
+                "file": [
+                    "hep/Dunu Falcon Ultra Gold"
+                ],
+                "suffix": [
+                    "(Gold)"
                 ]
             },
             {
@@ -30670,14 +31313,6 @@
                 "file": "hep/Kiwi Ears Quartet 01"
             },
             {
-                "name": "LetShuoer S12",
-                "file": "hep/LetShuoer S12"
-            },
-            {
-                "name": "LetShuoer S12 Pro",
-                "file": "hep/LetShuoer S12 Pro"
-            },
-            {
                 "name": "LetShuoer D13 Gold Filter",
                 "file": [
                     "hep/LetShuoer D13 Gold"
@@ -30698,6 +31333,18 @@
             {
                 "name": "LetShuoer DZ4",
                 "file": "hep/LetShuoer DZ4"
+            },
+            {
+                "name": "LetShuoer S12",
+                "file": "hep/LetShuoer S12"
+            },
+            {
+                "name": "LetShuoer S12 Pro",
+                "file": "hep/LetShuoer S12 Pro"
+            },
+            {
+                "name": "LetShuoer S15",
+                "file": "hep/LetShuoer S15"
             },
             {
                 "name": "Lypertek Bevi",
@@ -31241,6 +31888,10 @@
             {
                 "name": "Yanyin Aladdin",
                 "file": "hep/Yanyin Aladdin"
+            },
+            {
+                "name": "ZiiGaat Cinno",
+                "file": "hep/ZiiGaat Cinno"
             }
         ]
     },
@@ -31892,6 +32543,10 @@
                 "file": "ianfann/KIWIEARS DOLCE"
             },
             {
+                "name": "KIWIEARS FORTEZA",
+                "file": "ianfann/KIWIEARS FORTEZA"
+            },
+            {
                 "name": "KIWIEARS MELODY",
                 "file": "ianfann/KIWIEARS MELODY"
             },
@@ -32314,6 +32969,10 @@
             {
                 "name": "NICEHCK F1 SILVER FILTER",
                 "file": "ianfann/NICEHCK F1 SILVER"
+            },
+            {
+                "name": "ORIVETI 0D100",
+                "file": "ianfann/ORIVETI 0D100"
             },
             {
                 "name": "ONEODIO A10",
@@ -32794,6 +33453,10 @@
             {
                 "name": "ZHULINNIAO SHUANGHUA",
                 "file": "ianfann/ZHULINNIAO SHUANGHUA"
+            },
+            {
+                "name": "ZIIGAAT CINNO",
+                "file": "ianfann/ZIIGAAT CINNO"
             }
         ]
     },
@@ -34463,6 +35126,14 @@
         "name": "Harpo",
         "phones": [
             {
+                "name": "Testarea MG100 Red Bass PEQ",
+                "file": "harpo/Shanling MG100 Red Bass PEQ"
+            },
+            {
+                "name": "Testarea Wyvern Sub Bass PEQ Tuning",
+                "file": "harpo/Wyvern BASS PEQ"
+            },
+            {
                 "name": "7Hz Eternal",
                 "file": "harpo/7Hz Eternal"
             },
@@ -34778,10 +35449,6 @@
                 "file": "harpo/Kinera Celest Wyvern"
             },
             {
-                "name": "Kinera Celest Wyvern Sub Bass PEQ Tuning",
-                "file": "harpo/Wyvern BASS PEQ"
-            },
-            {
                 "name": "Kiwi Ears Cadenza",
                 "file": "harpo/Kiwi Ears Cadenza"
             },
@@ -35009,6 +35676,10 @@
                 "file": "harpo/realme Air 5 Harpo Custom 3"
             },
             {
+                "name": "Rose Technics QuietSea",
+                "file": "harpo/Rose Technics Quietsea"
+            },
+            {
                 "name": "SeeAudio Yume 2",
                 "file": "harpo/SeeAudio Yume 2"
             },
@@ -35018,7 +35689,25 @@
             },
             {
                 "name": "Shanling Sono",
-                "file": "harpo/Sono"
+                "file": [
+                    "harpo/Sono",
+                    "harpo/Shanling Sono Black"
+                ],
+                "suffix": [
+                    "Sono Red Nozzle",
+                    "Sono Black Nozzle"
+                ]
+            },
+            {
+                "name": "Shanling MG100",
+                "file": [
+                    "harpo/Shanling MG100 Red",
+                    "harpo/Shanling MG100 Silver"
+                ],
+                "suffix": [
+                    "MG100 Silver Nozzle",
+                    "MG100 Red Nozzle"
+                ]
             },
             {
                 "name": "Shozy Form 1.1",
@@ -35185,14 +35874,6 @@
                 "file": "harpo/TRN ST5"
             },
             {
-                "name": "TRN ST5 x Freebuds Pro 2 - AutoEQ",
-                "file": "harpo/ST5 x Freebuds Pro 2 - AutoEQ"
-            },
-            {
-                "name": "TRN ST5 x Freebuds Pro 2 - AutoEQ + High Shelf",
-                "file": "harpo/ST5 x Freebuds Pro 2 - AEQ HS"
-            },
-            {
                 "name": "TRN V80",
                 "file": "harpo/TRN V80"
             },
@@ -35265,8 +35946,12 @@
                 "file": "jacstone/AFUL Performer 8 S2"
             },
             {
-                "name": "Binary Acoustics x Gizaudio Chopin (Coupler/Source Issue)",
-                "file": "jacstone/Binary Chopin"
+                "name": "Binary Acoustics x Gizaudio Chopin S1 (Coupler/Source Issue)",
+                "file": "jacstone/Binary Chopin S1"
+            },
+            {
+                "name": "Binary Acoustics x Gizaudio Chopin S2",
+                "file": "jacstone/Binary Chopin S2"
             },
             {
                 "name": "BLON BL-03",
@@ -35287,6 +35972,10 @@
             {
                 "name": "CCA CRA+",
                 "file": "jacstone/CCA CRA+"
+            },
+            {
+                "name": "DUNU Falcon Ultra",
+                "file": "jacstone/DUNU Falcon Ultra"
             },
             {
                 "name": "DUNU Studio SA6 MK2 (Bass Switch Off)",
@@ -35788,12 +36477,128 @@
                 "file": "iemworld/BLON Mini"
             },
             {
+                "name": "Campfire Audio Andromeda 2020",
+                "file": [
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Silicone)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Foam)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Final E Tips)",
+                    "iemworld/Campfire Audio Andromeda 2020 (MoonDrop Spring Tips)",
+                    "iemworld/Campfire Audio Andromeda 2020 (SoftEar UC Tips)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Tripowin Foam)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Whizzer Easytips ET100AB)",
+                    "iemworld/Campfire Audio Andromeda 2020 (JVC Spiral Dot++)",
+                    "iemworld/Campfire Audio Andromeda 2020 (TRI Clarion Tips)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Silicone 10 ohm)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Silicone 75 ohm)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Silicone 110 ohm)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Silicone 150 ohm)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Silicone 220 ohm)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Silicone 330 ohm)",
+                    "iemworld/Campfire Audio Andromeda 2020 (Original Silicone 510 ohm)"
+                ],
+                "suffix": [
+                    "(Original Silicone)",
+                    "(Original Foam)",
+                    "(MoonDrop Spring Tips)",
+                    "(SoftEar UC Tips)",
+                    "(Tripowin Foam)",
+                    "(Whizzer Easytips ET100AB)",
+                    "(JVC Spiral Dot++)",
+                    "(TRI Clarion Tips)",
+                    "(Original Silicone 10 ohm)",
+                    "(Original Silicone 75 ohm)",
+                    "(Original Silicone 110 ohm)",
+                    "(Original Silicone 150 ohm)",
+                    "(Original Silicone 220 ohm)",
+                    "(Original Silicone 330 ohm)",
+                    "(Original Silicone 510 ohm)"
+                ]
+            },
+            {
                 "name": "CCA NRA",
                 "file": "iemworld/CCA NRA"
             },
             {
                 "name": "DUNU TITAN S",
                 "file": "iemworld/DUNU TITAN S"
+            },
+            {
+                "name": "EPZ G10",
+                "file": [
+                    "iemworld/EPZ G10 (Original Silicone-W)",
+                    "iemworld/EPZ G10 (Original Silicone-Bi Flange Tips)",
+                    "iemworld/EPZ G10 (Final E Tips)",
+                    "iemworld/EPZ G10 (MoonDrop Spring Tips)",
+                    "iemworld/EPZ G10 (SoftEar UC Tips)",
+                    "iemworld/EPZ G10 (Tripowin Foam)",
+                    "iemworld/EPZ G10 (Whizzer Easytips ET100AB)",
+                    "iemworld/EPZ G10 (JVC Spiral Dot++)",
+                    "iemworld/EPZ G10 (Original Silicone-W 10 ohm)",
+                    "iemworld/EPZ G10 (Original Silicone-W 75 ohm)"
+                ],
+                "suffix": [
+                    "(Original Silicone-W)",
+                    "(Original Silicone-Bi Flange Tips)",
+                    "(MoonDrop Spring Tips)",
+                    "(SoftEar UC Tips)",
+                    "(Tripowin Foam)",
+                    "(Whizzer Easytips ET100AB)",
+                    "(JVC Spiral Dot++)",
+                    "(Original Silicone-W 10 ohm)",
+                    "(Original Silicone-W 75 ohm)"
+                ]
+            },
+            {
+                "name": "EPZ Q1",
+                "file": [
+                    "iemworld/EPZ Q1 (Original Silicone-B)",
+                    "iemworld/EPZ Q1 (Original Silicone-Bi Flange Tips)",
+                    "iemworld/EPZ Q1 (Final E Tips)",
+                    "iemworld/EPZ Q1 (MoonDrop Spring Tips)",
+                    "iemworld/EPZ Q1 (SoftEar UC Tips)",
+                    "iemworld/EPZ Q1 (Tripowin Foam)",
+                    "iemworld/EPZ Q1 (Whizzer Easytips ET100AB)",
+                    "iemworld/EPZ Q1 (JVC Spiral Dot++)",
+                    "iemworld/EPZ Q1 (Original Silicone-Bi Flange Tips 10 ohm)",
+                    "iemworld/EPZ Q1 (Original Silicone-Bi Flange Tips 75 ohm)"
+                ],
+                "suffix": [
+                    "(Original Silicone-B)",
+                    "(Original Silicone-Bi Flange Tips)",
+                    "(MoonDrop Spring Tips)",
+                    "(SoftEar UC Tips)",
+                    "(Tripowin Foam)",
+                    "(Whizzer Easytips ET100AB)",
+                    "(JVC Spiral Dot++)",
+                    "(Original Silicone-Bi Flange Tips 10 ohm)",
+                    "(Original Silicone-Bi Flange Tips 75 ohm)"
+                ]
+            },
+            {
+                "name": "EPZ Q5",
+                "file": [
+                    "iemworld/EPZ Q5 (Original Silicone-B)",
+                    "iemworld/EPZ Q5 (Original Silicone-W)",
+                    "iemworld/EPZ Q5 (Final E Tips)",
+                    "iemworld/EPZ Q5 (MoonDrop Spring Tips)",
+                    "iemworld/EPZ Q5 (SoftEar UC Tips)",
+                    "iemworld/EPZ Q5 (Tripowin Foam)",
+                    "iemworld/EPZ Q5 (Whizzer Easytips ET100AB)",
+                    "iemworld/EPZ Q5 (JVC Spiral Dot++)",
+                    "iemworld/EPZ Q5 (Original Silicone-W 10 ohm)",
+                    "iemworld/EPZ Q5 (Original Silicone-W 75 ohm)"
+                ],
+                "suffix": [
+                    "(Original Silicone-B)",
+                    "(Original Silicone-W)",
+                    "(MoonDrop Spring Tips)",
+                    "(SoftEar UC Tips)",
+                    "(Tripowin Foam)",
+                    "(Whizzer Easytips ET100AB)",
+                    "(JVC Spiral Dot++)",
+                    "(Original Silicone-W 10 ohm)",
+                    "(Original Silicone-W 75 ohm)"
+                ]
             },
             {
                 "name": "Fiio FA9",
@@ -36754,7 +37559,14 @@
             },
             {
                 "name": "64 Audio U4S",
-                "file": "recode/u4s"
+                "file": [
+                    "recode/u4s",
+                    "recode/u4s2"
+                ],
+                "suffix": [
+                    "Sample 1",
+                    "Sample 2"
+                ]
             },
             {
                 "name": "64 Audio U18S",
@@ -36809,6 +37621,15 @@
                 "file": "recode/unison"
             },
             {
+                "name": "7th Acoustic Asteria",
+                "file": [
+                    "recode/7a asteria"
+                ],
+                "suffix": [
+                    "Prototype"
+                ]
+            },
+            {
                 "name": "7th Acoustic Pro-1 SO",
                 "file": [
                     "recode/7A pro1stock",
@@ -36838,6 +37659,10 @@
                 "file": "recode/7A SG1"
             },
             {
+                "name": "7th Acoustic Stargazer 3 SO",
+                "file": "recode/7a sg3"
+            },
+            {
                 "name": "7th Acoustic Stargazer EST 7 SO",
                 "file": "recode/7A est7"
             },
@@ -36848,8 +37673,8 @@
             {
                 "name": "7th Acoustic Supernova",
                 "file": [
-                    "recode/supernova cp155s",
                     "recode/supernova stock",
+                    "recode/supernova cp155s",
                     "recode/supernova w1",
                     "recode/supernova w1impedance",
                     "recode/supernova w1shallow",
@@ -36862,8 +37687,8 @@
                     "recode/sncp100"
                 ],
                 "suffix": [
-                    "Spinfit CP155",
                     "Stock",
+                    "Spinfit CP155",
                     "Spinfit W1",
                     "Spinfit W1 + impedance adapter",
                     "Spinfit W1 Shallow Fit",
@@ -36895,6 +37720,10 @@
             {
                 "name": "AAW ",
                 "file": "recode/aaw"
+            },
+            {
+                "name": "Aroma Audio Fei Wan",
+                "file": "recode/aroma feiwan"
             },
             {
                 "name": "Audio Technica ATH CLR100",
@@ -37008,12 +37837,20 @@
             },
             {
                 "name": "Fir Radon",
-                "file": "recode/radon"
+                "file": [
+                    "recode/radon",
+                    "recode/radon6"
+                ],
+                "suffix": [
+                    "RN6",
+                    "Unit PAPI 2023"
+                ]
             },
             {
                 "name": "Hidition Viento B",
                 "file": [
                     "recode/vientoVivid",
+                    "recode/bientocp500",
                     "recode/bientoVelvetTWS",
                     "recode/vientoBvelvet",
                     "recode/vientoB finalE",
@@ -37022,6 +37859,7 @@
                 ],
                 "suffix": [
                     "Azla Vivid",
+                    "Spinfit CP500",
                     "Divinus Velvet TWS",
                     "Divinus Velvet STD",
                     "Final Type E",
@@ -37127,7 +37965,8 @@
                     "recode/b3s2",
                     "recode/b3s3",
                     "recode/b3s4",
-                    "recode/b3s5"
+                    "recode/b3s5",
+                    "recode/b3s58k"
                 ],
                 "suffix": [
                     "Sample 3 + Velvet TWS Tips",
@@ -37135,7 +37974,8 @@
                     "Sample 2",
                     "Sample 3",
                     "Sample 4",
-                    "Sample 5"
+                    "Sample 5",
+                    "Sample 5 Coreir"
                 ]
             },
             {
@@ -37232,6 +38072,7 @@
                 "name": "Moondrop SSR",
                 "file": [
                     "recode/ssr",
+                    "recode/ssr azlavivid",
                     "recode/ssrtwsvelvet",
                     "recode/ssrdeepfit",
                     "recode/ssr foamdamper",
@@ -37243,6 +38084,7 @@
                 ],
                 "suffix": [
                     "stock damper",
+                    "Azla Vivid",
                     "Divinus Velvet TWS",
                     "stock Deep Fit",
                     "foam damper",
@@ -37252,6 +38094,10 @@
                     "ssr new sample 3",
                     "ssr new sample 4"
                 ]
+            },
+            {
+                "name": "Moondrop Starfield II",
+                "file": "recode/starfield2"
             },
             {
                 "name": "Moondrop Stardust",
@@ -37432,7 +38278,14 @@
             },
             {
                 "name": "Tanchjim Kara",
-                "file": "recode/kara"
+                "file": [
+                    "recode/kara",
+                    "recode/karas2"
+                ],
+                "suffix": [
+                    "Sample 1",
+                    "Sample 2"
+                ]
             },
             {
                 "name": "Tago T3-02 Bucktick",
@@ -37542,6 +38395,794 @@
             {
                 "name": "------- ---",
                 "file": "recode/arere"
+            }
+        ]
+    },
+    {
+        "name": "Crinacle B&K",
+        "phones": [
+            {
+                "name": "64 Audio Nio",
+                "file": [
+                    "crinaclebk/Nio M20"
+                ],
+                "suffix": [
+                    "(m20)"
+                ]
+            },
+            {
+                "name": "7Hz-Salnotes Zero",
+                "file": "crinaclebk/Zero Salnotes"
+            },
+            {
+                "name": "7Hz-Salnotes Zero:2",
+                "collab": "crinacle",
+                "file": [
+                    "crinaclebk/Zero2 S1",
+                    "crinaclebk/Zero2 S2",
+                    "crinaclebk/Zero2 S3"
+                ],
+                "suffix": [
+                    "S1",
+                    "S2",
+                    "S3"
+                ]
+            },
+            {
+                "name": "7Hz-Salnotes Dioko",
+                "collab": "crinacle",
+                "file": "crinaclebk/Dioko"
+            },
+            {
+                "name": "7Hz-Salnotes Eternal",
+                "file": "crinaclebk/Eternal"
+            },
+            {
+                "name": "7Hz-Salnotes Timeless AE",
+                "file": "crinaclebk/Timeless AE"
+            },
+            {
+                "name": "A&D KS3",
+                "file": "crinaclebk/KS3"
+            },
+            {
+                "name": "Audiosense AQ4",
+                "file": "crinaclebk/AQ4"
+            },
+            {
+                "name": "Audiosense AQ7",
+                "file": "crinaclebk/AQ7"
+            },
+            {
+                "name": "Aune Jasper",
+                "file": "crinaclebk/Jasper"
+            },
+            {
+                "name": "BGVP DN3",
+                "file": "crinaclebk/DN3"
+            },
+            {
+                "name": "Binary Chopin",
+                "collab": "Gizaudio",
+                "file": "crinaclebk/Chopin"
+            },
+            {
+                "name": "BLON BL-03",
+                "file": "crinaclebk/BL03"
+            },
+            {
+                "name": "BLON BL-05",
+                "file": "crinaclebk/BL05"
+            },
+            {
+                "name": "BLON Annotation",
+                "file": "crinaclebk/Annotation"
+            },
+            {
+                "name": "BLON BL-Max",
+                "file": "crinaclebk/BL-Max"
+            },
+            {
+                "name": "BQEYZ Summer",
+                "file": "crinaclebk/Summer"
+            },
+            {
+                "name": "BQEYZ Autumn",
+                "file": [
+                    "crinaclebk/Autumn Normal",
+                    "crinaclebk/Autumn Bass",
+                    "crinaclebk/Autumn Treble"
+                ],
+                "suffix": [
+                    "(Normal filter)",
+                    "(Bass filter)",
+                    "(Treble filter)"
+                ]
+            },
+            {
+                "name": "CatEar Mia",
+                "file": "crinaclebk/Mia"
+            },
+            {
+                "name": "Dethonray Tender I",
+                "file": "crinaclebk/Tender"
+            },
+            {
+                "name": "Drop Planamic",
+                "collab": "MEE",
+                "file": "crinaclebk/Planamic"
+            },
+            {
+                "name": "DUNU DK-4001",
+                "file": "crinaclebk/DK4001"
+            },
+            {
+                "name": "DUNU EST 112",
+                "file": "crinaclebk/EST 112"
+            },
+            {
+                "name": "DUNU Kima",
+                "file": "crinaclebk/Kima"
+            },
+            {
+                "name": "DUNU Zen",
+                "file": "crinaclebk/Zen"
+            },
+            {
+                "name": "Etymotic ERX",
+                "collab": "Drop",
+                "file": "crinaclebk/ERX"
+            },
+            {
+                "name": "Fatfreq Maestro Mini",
+                "file": "crinaclebk/Maestro Mini"
+            },
+            {
+                "name": "Fearless Dawn",
+                "collab": "crinacle",
+                "file": "crinaclebk/Dawn"
+            },
+            {
+                "name": "FiiO FH3",
+                "file": "crinaclebk/FH3"
+            },
+            {
+                "name": "FiiO FHE:Eclipse",
+                "collab": "crinacle",
+                "file": "crinaclebk/FHE Eclipse"
+            },
+            {
+                "name": "FiiO FH9",
+                "file": [
+                    "crinaclebk/FH9 Black",
+                    "crinaclebk/FH9 Red",
+                    "crinaclebk/FH9 Green"
+                ],
+                "suffix": [
+                    "(Black filter)",
+                    "(Red filter)",
+                    "(Green filter)"
+                ]
+            },
+            {
+                "name": "Geek Wold GK10",
+                "file": "crinaclebk/GK10"
+            },
+            {
+                "name": "Guide Ray GR-I",
+                "file": "crinaclebk/GR-I"
+            },
+            {
+                "name": "HarmonicDyne PD1",
+                "file": "crinaclebk/PD1"
+            },
+            {
+                "name": "Hidition T1 Gaming",
+                "file": "crinaclebk/T1"
+            },
+            {
+                "name": "Itsfit Fusion",
+                "file": "crinaclebk/Fusion itsfitlabs"
+            },
+            {
+                "name": "Itsfit R3",
+                "file": [
+                    "crinaclebk/R3"
+                ],
+                "suffix": [
+                    "(universal)"
+                ]
+            },
+            {
+                "name": "JQ 4U Pro",
+                "file": "crinaclebk/JQ 4U Pro"
+            },
+            {
+                "name": "Jomo P3",
+                "collab": "Pantheon Percussion",
+                "file": "crinaclebk/P3"
+            },
+            {
+                "name": "KBEar F1",
+                "file": "crinaclebk/F1"
+            },
+            {
+                "name": "KBEar Neon",
+                "file": "crinaclebk/Neon"
+            },
+            {
+                "name": "KBEar Qinglong",
+                "file": "crinaclebk/Qinglong"
+            },
+            {
+                "name": "Kinera H3",
+                "file": "crinaclebk/H3"
+            },
+            {
+                "name": "Kiwi Ears Orchestra",
+                "file": "crinaclebk/Orchestra"
+            },
+            {
+                "name": "KZ AS10",
+                "file": "crinaclebk/AS10"
+            },
+            {
+                "name": "KZ ASF",
+                "file": "crinaclebk/ASF"
+            },
+            {
+                "name": "KZ ASX",
+                "file": "crinaclebk/ASX"
+            },
+            {
+                "name": "KZ ZS10 Pro",
+                "file": "crinaclebk/ZS10 Pro"
+            },
+            {
+                "name": "KZ ZAX",
+                "file": "crinaclebk/ZAX"
+            },
+            {
+                "name": "LetShuoer Galileo",
+                "collab": "GizAudio",
+                "file": "crinaclebk/Galileo"
+            },
+            {
+                "name": "LetShuoer S12 Pro",
+                "file": "crinaclebk/S12 Pro"
+            },
+            {
+                "name": "Mangird MT4",
+                "file": "crinaclebk/MT4"
+            },
+            {
+                "name": "Moondrop Chu",
+                "file": "crinaclebk/Chu"
+            },
+            {
+                "name": "Moondrop Chu 2",
+                "file": "crinaclebk/Chu 2"
+            },
+            {
+                "name": "Moondrop Quarks",
+                "file": "crinaclebk/Quarks"
+            },
+            {
+                "name": "Moondrop SSP",
+                "file": "crinaclebk/SSP"
+            },
+            {
+                "name": "Moondrop Lan",
+                "file": "crinaclebk/Lan"
+            },
+            {
+                "name": "Moondrop Aria",
+                "file": "crinaclebk/Aria"
+            },
+            {
+                "name": "Moondrop Aria Snow Edition",
+                "file": "crinaclebk/Aria SE"
+            },
+            {
+                "name": "Moondrop Stellaris",
+                "file": "crinaclebk/Stellaris"
+            },
+            {
+                "name": "Moondrop Blessing (Original)",
+                "file": "crinaclebk/Blessing"
+            },
+            {
+                "name": "Moondrop Blessing2:Dusk",
+                "collab": "crinacle",
+                "file": "crinaclebk/Dusk"
+            },
+            {
+                "name": "Moondrop Blessing 3",
+                "file": "crinaclebk/Blessing 3"
+            },
+            {
+                "name": "Moondrop Variations",
+                "file": "crinaclebk/Variations"
+            },
+            {
+                "name": "Neusonik Direm E3",
+                "file": "crinaclebk/Direm E3"
+            },
+            {
+                "name": "Neusonik Direm PRO",
+                "file": "crinaclebk/Direm PRO"
+            },
+            {
+                "name": "NF Audio NF2u",
+                "file": "crinaclebk/NF2u"
+            },
+            {
+                "name": "NF Audio NM2+",
+                "file": "crinaclebk/NM2 Plus"
+            },
+            {
+                "name": "Nothing Ear (1)",
+                "file": "crinaclebk/Ear (1)"
+            },
+            {
+                "name": "Nothing Ear (2)",
+                "file": [
+                    "crinaclebk/Ear (2) Post update",
+                    "crinaclebk/Ear (2) Pre update"
+                ],
+                "suffix": [
+                    "(Post-update)",
+                    "(Pre-update)"
+                ]
+            },
+            {
+                "name": "oBravo Cupid",
+                "file": "crinaclebk/Cupid"
+            },
+            {
+                "name": "Open Audio Mercury",
+                "file": "crinaclebk/Mercury"
+            },
+            {
+                "name": "Ovidius RX100 Qin Armour",
+                "file": "crinaclebk/RX100"
+            },
+            {
+                "name": "Prisma Azul",
+                "file": "crinaclebk/Azul"
+            },
+            {
+                "name": "Project Genesis V2.0",
+                "file": "crinaclebk/Genesis V2"
+            },
+            {
+                "name": "Project DUSK V2.0",
+                "file": [
+                    "crinaclebk/DUSK V2.0 DSP",
+                    "crinaclebk/DUSK V2.0 DSP V",
+                    "crinaclebk/DUSK V2.0 DSP Harman",
+                    "crinaclebk/DUSK V2.0 DSP Diffuse",
+                    "crinaclebk/DUSK V2.0 DSP Diffuse-Tilted",
+                    "crinaclebk/DUSK V2.0"
+                ],
+                "suffix": [
+                    "DSP (Default profile)",
+                    "DSP (V profile)",
+                    "DSP (Harman profile)",
+                    "DSP (Diffuse profile)",
+                    "DSP (Diffuse-Tilted profile)",
+                    "Analog"
+                ]
+            },
+            {
+                "name": "Project Mongrel V3.0",
+                "file": "crinaclebk/Mongrel V3.0"
+            },
+            {
+                "name": "QKZ ZXD",
+                "file": "crinaclebk/ZXD"
+            },
+            {
+                "name": "QKZ ZXN",
+                "file": "crinaclebk/ZXN"
+            },
+            {
+                "name": "Razer Moray",
+                "file": "crinaclebk/Moray"
+            },
+            {
+                "name": "See Audio Yume:Midnight",
+                "collab": "crinacle",
+                "file": "crinaclebk/Midnight"
+            },
+            {
+                "name": "See Audio Bravery",
+                "file": "crinaclebk/Bravery"
+            },
+            {
+                "name": "Seek Real Airship",
+                "file": "crinaclebk/Airship"
+            },
+            {
+                "name": "Senfer DT6",
+                "file": "crinaclebk/DT6"
+            },
+            {
+                "name": "Sennheiser IE200",
+                "file": [
+                    "crinaclebk/IE200",
+                    "crinaclebk/IE200 Open"
+                ],
+                "suffix": [
+                    "(Standard tip position)",
+                    "(Open tip position)"
+                ]
+            },
+            {
+                "name": "Sennheiser IE300",
+                "file": "crinaclebk/IE300"
+            },
+            {
+                "name": "Shanling ME100",
+                "file": "crinaclebk/ME100"
+            },
+            {
+                "name": "Shanling ME700 Lite",
+                "file": "crinaclebk/ME700 Lite"
+            },
+            {
+                "name": "Shanling ME800",
+                "file": [
+                    "crinaclebk/ME800 12",
+                    "crinaclebk/ME800 10",
+                    "crinaclebk/ME800 02",
+                    "crinaclebk/ME800 00"
+                ],
+                "suffix": [
+                    "(12 setting)",
+                    "(10 setting)",
+                    "(02 setting)",
+                    "(00 setting)"
+                ]
+            },
+            {
+                "name": "Shanling MG600",
+                "file": "crinaclebk/MG600"
+            },
+            {
+                "name": "Shozy Black Hole Mini",
+                "file": "crinaclebk/Black Hole Mini"
+            },
+            {
+                "name": "Shozy Neo BG",
+                "file": "crinaclebk/Neo BG"
+            },
+            {
+                "name": "Shuoer H27",
+                "file": "crinaclebk/H27"
+            },
+            {
+                "name": "Shuoer Tape Pro",
+                "file": "crinaclebk/Tape Pro"
+            },
+            {
+                "name": "Shuoer EJ07M",
+                "file": "crinaclebk/EJ07M"
+            },
+            {
+                "name": "Simphonio RX10",
+                "file": "crinaclebk/RX10"
+            },
+            {
+                "name": "Softears Volume",
+                "file": "crinaclebk/Volume"
+            },
+            {
+                "name": "Softears Studio 4",
+                "file": "crinaclebk/Studio 4"
+            },
+            {
+                "name": "Softears Turii",
+                "file": "crinaclebk/Turii"
+            },
+            {
+                "name": "Softears RS10",
+                "file": "crinaclebk/RS10"
+            },
+            {
+                "name": "Sony MH755",
+                "file": "crinaclebk/MH755"
+            },
+            {
+                "name": "Sony IER-Z1R",
+                "file": "crinaclebk/IER-Z1R"
+            },
+            {
+                "name": "Tanchjim Zero",
+                "file": "crinaclebk/Zero Tanchjim"
+            },
+            {
+                "name": "Tanchjim Tanya",
+                "file": "crinaclebk/Tanya"
+            },
+            {
+                "name": "Tanchjim Ola",
+                "file": "crinaclebk/Ola"
+            },
+            {
+                "name": "Tanchjim New HANA (2021)",
+                "file": "crinaclebk/New HANA"
+            },
+            {
+                "name": "Tanchjim Oxygen",
+                "file": "crinaclebk/Oxygen"
+            },
+            {
+                "name": "Tanchjim Prism",
+                "file": "crinaclebk/Prism"
+            },
+            {
+                "name": "Tangzu Wan'er",
+                "file": "crinaclebk/Wan'er"
+            },
+            {
+                "name": "Tansio Mirai TSMR-12 \"Zodiac\"",
+                "file": [
+                    "crinaclebk/Zodiac 123",
+                    "crinaclebk/Zodiac 100",
+                    "crinaclebk/Zodiac 020",
+                    "crinaclebk/Zodiac 003",
+                    "crinaclebk/Zodiac 120",
+                    "crinaclebk/Zodiac 103"
+                ],
+                "suffix": [
+                    "(123 setting)",
+                    "(100 setting)",
+                    "(020 setting)",
+                    "(003 setting)",
+                    "(120 setting)",
+                    "(103 setting)"
+                ]
+            },
+            {
+                "name": "TFZ Warrior",
+                "file": "crinaclebk/Warrior"
+            },
+            {
+                "name": "Thieaudio Elixir",
+                "file": "crinaclebk/Elixir TA"
+            },
+            {
+                "name": "Thieaudio Legacy 2 (L2)",
+                "file": "crinaclebk/Legacy 2"
+            },
+            {
+                "name": "Thieaudio Legacy 3 (L3) (Universal)",
+                "file": [
+                    "crinaclebk/Legacy 3 12",
+                    "crinaclebk/Legacy 3 10",
+                    "crinaclebk/Legacy 3 02",
+                    "crinaclebk/Legacy 3 00"
+                ],
+                "suffix": [
+                    "(12 setting)",
+                    "(10 setting)",
+                    "(02 setting)",
+                    "(00 setting)"
+                ]
+            },
+            {
+                "name": "Thieaudio Legacy 5 (L5)",
+                "file": "crinaclebk/Legacy 5"
+            },
+            {
+                "name": "Thieaudio Monarch Mk2",
+                "file": "crinaclebk/Monarch Mk2"
+            },
+            {
+                "name": "Thieaudio Prestige",
+                "file": "crinaclebk/Prestige"
+            },
+            {
+                "name": "Thieaudio V16 Divinity",
+                "file": "crinaclebk/V16 Divinity"
+            },
+            {
+                "name": "Tin P2",
+                "file": "crinaclebk/P2"
+            },
+            {
+                "name": "Tin P2 Plus Commemorative Edition",
+                "file": "crinaclebk/P2 Plus CE"
+            },
+            {
+                "name": "Tin T1",
+                "file": "crinaclebk/T1"
+            },
+            {
+                "name": "Tin T1 Plus",
+                "file": "crinaclebk/T1 Plus"
+            },
+            {
+                "name": "Tin T2",
+                "file": "crinaclebk/T2"
+            },
+            {
+                "name": "Tin T2 DLC",
+                "file": "crinaclebk/T2 DLC"
+            },
+            {
+                "name": "Tin T2 Plus",
+                "file": "crinaclebk/T2 Plus"
+            },
+            {
+                "name": "Tin T3",
+                "file": "crinaclebk/T3"
+            },
+            {
+                "name": "Tin T3 Plus",
+                "file": "crinaclebk/T3 Plus"
+            },
+            {
+                "name": "Tin T5",
+                "file": "crinaclebk/T5 Tin"
+            },
+            {
+                "name": "Tipsy Aurora",
+                "file": "crinaclebk/Aurora Tipsy"
+            },
+            {
+                "name": "Tipsy Dunmer",
+                "file": "crinaclebk/Dunmer"
+            },
+            {
+                "name": "Tipsy Dunmer Pro",
+                "file": "crinaclebk/Dunmer Pro"
+            },
+            {
+                "name": "Tipsy TTROMSO",
+                "file": "crinaclebk/Ttromso"
+            },
+            {
+                "name": "TRN BAX",
+                "file": "crinaclebk/BAX"
+            },
+            {
+                "name": "TRN TA2",
+                "file": "crinaclebk/TA2"
+            },
+            {
+                "name": "TRN X7",
+                "file": "crinaclebk/X7"
+            },
+            {
+                "name": "TRI i4",
+                "file": "crinaclebk/i4 TRI"
+            },
+            {
+                "name": "TRI Starlight",
+                "file": "crinaclebk/Starlight"
+            },
+            {
+                "name": "TRI Starshine",
+                "file": "crinaclebk/Starshine"
+            },
+            {
+                "name": "Tripowin Cencibel",
+                "file": "crinaclebk/Cencibel"
+            },
+            {
+                "name": "Tripowin Rhombus",
+                "file": "crinaclebk/Rhombus"
+            },
+            {
+                "name": "Truthear Hola",
+                "file": "crinaclebk/Hola"
+            },
+            {
+                "name": "Truthear Zero",
+                "collab": "crinacle",
+                "file": "crinaclebk/Zero TE"
+            },
+            {
+                "name": "Truthear Zero:RED",
+                "collab": "crinacle",
+                "file": [
+                    "crinaclebk/ZeroRed S1",
+                    "crinaclebk/ZeroRed S1 10ohm",
+                    "crinaclebk/ZeroRed S2",
+                    "crinaclebk/ZeroRed S2 10ohm",
+                    "crinaclebk/ZeroRed S3",
+                    "crinaclebk/ZeroRed S3 10ohm",
+                    "crinaclebk/ZeroRed S4",
+                    "crinaclebk/ZeroRed S4 10ohm",
+                    "crinaclebk/ZeroRed S5",
+                    "crinaclebk/ZeroRed S5 10ohm",
+                    "crinaclebk/ZeroRed S6",
+                    "crinaclebk/ZeroRed S6 10ohm",
+                    "crinaclebk/ZeroRed S7",
+                    "crinaclebk/ZeroRed S7 10ohm",
+                    "crinaclebk/ZeroRed S8",
+                    "crinaclebk/ZeroRed S8 10ohm",
+                    "crinaclebk/ZeroRed S9",
+                    "crinaclebk/ZeroRed S9 10ohm",
+                    "crinaclebk/ZeroRed S10",
+                    "crinaclebk/ZeroRed S10 10ohm"
+                ],
+                "suffix": [
+                    "S1",
+                    "S1 (Bass+)",
+                    "S2",
+                    "S2 (Bass+)",
+                    "S3",
+                    "S3 (Bass+)",
+                    "S4",
+                    "S4 (Bass+)",
+                    "S5",
+                    "S5 (Bass+)",
+                    "S6",
+                    "S6 (Bass+)",
+                    "S7",
+                    "S7 (Bass+)",
+                    "S8",
+                    "S8 (Bass+)",
+                    "S9",
+                    "S9 (Bass+)",
+                    "S10",
+                    "S10 (Bass+)"
+                ]
+            },
+            {
+                "name": "Truthear Hexa",
+                "file": "crinaclebk/Hexa"
+            },
+            {
+                "name": "Truthear Nova",
+                "file": "crinaclebk/Nova TE"
+            },
+            {
+                "name": "UFOEar UFO-111",
+                "file": "crinaclebk/UFO-111"
+            },
+            {
+                "name": "UFOEar UFO-112",
+                "file": "crinaclebk/UFO-112"
+            },
+            {
+                "name": "Urbanfun YBF-ISS014",
+                "file": "crinaclebk/YISS"
+            },
+            {
+                "name": "Veedix Diamond String",
+                "file": "crinaclebk/Diamond String"
+            },
+            {
+                "name": "Vsonic VS7",
+                "file": "crinaclebk/VS7"
+            },
+            {
+                "name": "W+G T2",
+                "file": "crinaclebk/T2 WG"
+            },
+            {
+                "name": "Whizzer HE01",
+                "file": "crinaclebk/HE01"
+            },
+            {
+                "name": "Whizzer Kylin",
+                "file": "crinaclebk/Kylin"
+            },
+            {
+                "name": "XENNS UP",
+                "file": "crinaclebk/UP"
+            },
+            {
+                "name": "XENNS Mangird Tea 2",
+                "file": "crinaclebk/Tea 2"
+            },
+            {
+                "name": "Yanyin Aladdin",
+                "file": "crinaclebk/Aladdin"
             }
         ]
     }
